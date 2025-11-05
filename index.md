@@ -4,7 +4,7 @@ title: Razmova - Free Private iOS Chat with Local LLM
 permalink: /
 ---
 
-# Welcome to Razmova
+# Razmova
 
 Become a more confident communicator with **Razmova** — your private local AI companion for language learning, strengthening your communication skills, and meaningful conversations. Practice languages while discovering culture, food, and customs through AI personas that feel like engaging conversational partners, offering empathy and encouragement.
 
@@ -14,9 +14,33 @@ Razmova runs entirely on your device to keep your data secure and private. It’
 
 ---
 
-## About
-
-Razmova is an iOS app designed for private language practice and communication improvement, powered by local machine learning models for maximum privacy and performance.
+## Key Features
+- **Free:** No fees or ads.
+- **Offline:** Chat without internet after the initial model download.
+- **Private:** Your chats stay on your phone—delete them anytime.
 
 ---
 
+## Third Party Notices
+### Dependencies
+- mlx-swift — license: [MIT] — source: https://github.com/ml-explore/mlx-swift
+- mlx-libraries — license: [MIT] — source: https://github.com/ml-explore/mlx-swift-examples
+- swift-argument-parser — license: [Apache-2.0] — source: https://github.com/apple/swift-argument-parser
+- swift-collections — license: [Apache-2.0] — source: https://github.com/apple/swift-collections
+- swift-numerics — license: [Apache-2.0] — source: https://github.com/apple/swift-numerics
+- swift-transformers — license: [Apache-2.0] — source: https://github.com/huggingface/swift-transformers
+
+### LLM Model
+- Llama-3.2-3B-Instruct-4bit https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt
+
+---
+## Contact Information
+
+For any questions or support related inquiries, please contact:
+
+**Tarnovski Consulting**  
+**Email:** [Company Email Address]  
+
+---
+
+© 2025 Tarnovski Consulting. All rights reserved.
