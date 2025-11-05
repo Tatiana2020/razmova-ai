@@ -19,6 +19,10 @@ Razmova runs entirely on your device to keep your data secure and private. It’
 
 ---
 
+**[Privacy Policy](privacy-policy.md)**
+
+---
+
 ## Third Party Notices
 ### Dependencies
 - [mlx-swift](https://github.com/ml-explore/mlx-swift) — license: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
