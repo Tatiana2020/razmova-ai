@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Razmova - Free Private iOS Chat with Local LLM
+title: Razmova
+description: Free Private iOS Chat with Local LLM
 permalink: /
 ---
 
