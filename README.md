@@ -1,6 +1,6 @@
 # Razmova
 
-##Key Features
+## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
 - **Private:** Your chats stay on your phone—delete them anytime.
