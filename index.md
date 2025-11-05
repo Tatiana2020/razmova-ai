@@ -37,7 +37,7 @@ Razmova runs entirely on your device to keep your data secure and private. It’
 For any questions or support related inquiries, please contact:
 
 **Tarnovski Consulting**  
-**Email:** [Company Email Address]  
+**Email:** [tatiana@tarnovskiconsulting.com]  
 
 ---
 
