@@ -77,7 +77,7 @@ We may update this Privacy Policy occasionally to reflect updates to functionali
 For any questions or privacy-related inquiries, please contact:
 
 **Tarnovski Consulting**  
-**Email:** [Company Email Address]  
+**Email:** [tatiana@tarnovskiconsulting.com]  
 
 We respond to all privacy inquiries within a reasonable timeframe.
 
