@@ -1,0 +1,29 @@
+# Site settings
+title: Razmova
+description: Free Private iOS Chat with Local LLM
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tatiana2020.github.io/razmova-ai/" #"https://razmova.ca" # the base hostname & protocol for your site
+
+# Theme
+theme: jekyll-theme-cayman
+# Alternative remote theme (use if above doesn't work)
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Site author
+author:
+  name: Tatiana Tarnovskaya
+
+# SEO settings
+lang: en-US
+plugins:
+  - jekyll-seo-tag
+
+# Additional SEO content 
+tagline: "Free Private iOS Chat with Local LLM"
+keywords: "language practice, confidence building, private LLM, local LLM, local AI, communication anxiety, iOS app"
+
+# GitHub Pages settings
+github:
+  repository_name: razmova-ai
+  repository_url: https://github.com/Tatiana2020/razmova-ai
+  is_project_page: false
