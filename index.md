@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Razmova
-description: Free Private iOS Chat with Local LLM
+title: Razmova - Free Private iOS Chat with Local LLM Inference
+description: Razmova runs entirely on your device to keep your data secure and private. It’s designed to help you learn, communicate more effectively, and feel more confident and happy — whether practicing a language or enjoying a friendly chat.
 permalink: /
 ---
 ## Key Features
@@ -15,7 +15,7 @@ Become a more confident communicator with Razmova — your private local AI comp
 
 Want to vent about work, share a funny story, or complain about your boss? Do it all in a safe, private space where your conversations stay on your phone—delete them anytime, with no data sent to the cloud. Our AI personas support your growth with calm, practical advice to reduce speaking anxiety and improve your presentation skills.
 
-Razmova runs entirely on your device to keep your data secure and private. It’s designed to help you learn, communicate more effectively, and feel more confident and happy—whether practicing a language or enjoying a friendly chat.
+Razmova runs entirely on your device to keep your data secure and private. It’s designed to help you learn, communicate more effectively, and feel more confident and happy — whether practicing a language or enjoying a friendly chat.
 
 ---
 
