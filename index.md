@@ -4,19 +4,6 @@ title: Razmova
 description: Free Private iOS Chat with Local LLM
 permalink: /
 ---
-<header class="site-header" style="max-width: 900px; margin: 0 auto; padding: 0.5rem 2rem;">
-  <h1 style="margin: 0; line-height: 1;">
-    <a href="{{ site.baseurl }}/" style="color: white; text-decoration: none;">Razmova</a>
-  </h1>
-  <nav style="margin-top: 0.3rem;">
-    <ul style="list-style:none; padding:0; display:flex; gap: 1rem; margin:0; font-size: 0.9rem;">
-      <li><a href="{{ site.baseurl }}/" style="color: white; text-decoration: none;">Home</a></li>
-      <li><a href="{{ site.baseurl }}/privacy-policy" style="color: white; text-decoration: none;">Privacy Policy</a></li>
-      <li><a href="#contact-information" style="color: white; text-decoration: none;">Contact</a></li>
-    </ul>
-  </nav>
-</header>
-
 ## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
