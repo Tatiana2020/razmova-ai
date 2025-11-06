@@ -2,7 +2,7 @@
 title: Razmova
 description: Free Private iOS Chat with Local LLM Inference
 baseurl: "/razmova-ai" # the subpath of your site, e.g. /blog
-url: "https://tatiana2020.github.io/razmova-ai/" #"https://razmova.ca" # the base hostname & protocol for your site
+url: "https://razmova.ca" # the base hostname & protocol for your site
 
 # Theme
 theme: jekyll-theme-cayman
