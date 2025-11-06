@@ -1,3 +1,9 @@
+---
+layout: default
+title: Razmova
+description: Privacy Policy
+permalink: /privacy-policy
+---
 ## Introduction
 
 This Privacy Policy describes how **Tarnovski Consulting** ("we," "our," or "us") collects, uses, and protects user information in connection with the **Razmova** mobile application ("the App").  
