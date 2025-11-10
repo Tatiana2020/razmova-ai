@@ -20,8 +20,8 @@ Razmova does **not** collect, transmit, or store any personal information from u
 - **No Account Registration:** Users do not need to create an account or provide identifying information to use the App.  
 - **No Personal Data:** We do not request or process names, emails, IP addresses, or any other identifiable information.  
 - **Local Data Storage:** All user conversations and preferences are processed and stored **locally on the user’s device**.  
-- **No iCloud or Server Syncing:** The App does not transmit, synchronize, or back up data to iCloud or any remote service.
-
+- **No server syncing:** The App does not transmit, synchronize, or back up user data to any remote servers or third-party cloud services.
+- **Optional iCloud backup:** Users may choose to include app data in their personal iCloud backups as part of their device’s settings. This backup is controlled entirely by the user and managed outside the app. All conversations and preferences remain stored locally on the device unless backed up by iCloud per user choice.
 ---
 
 ## 2. Artificial Intelligence and Processing
@@ -98,5 +98,6 @@ We respond to all privacy inquiries within a reasonable timeframe.
 - Full compliance with Apple App Store and global privacy standards
 
 ---
+Last updated: November 10, 2025
 
 © 2025 Tarnovski Consulting. All rights reserved.
