@@ -48,7 +48,7 @@ Razmova does not integrate any analytics, tracking, or advertising software.
 
 - **Local Storage Only:** All data resides solely on the user’s device.  
 - **User-Controlled Deletion:** Users can delete stored chats and local data at any time through in-app settings. Once deleted, this data cannot be recovered.  
-- **No Cloud Backup:** As Razmova performs no remote synchronization, we have no ability to restore deleted data.
+- **No remote synchronization or storage:** Razmova does not transmit, synchronize, or store any user data on external servers or cloud services. All information remains solely on your device. Therefore, if you delete any conversations or data within the app, it cannot be recovered through any remote service.
 
 ---
 
