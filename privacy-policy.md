@@ -22,6 +22,7 @@ Razmova does **not** collect, transmit, or store any personal information from u
 - **Local Data Storage:** All user conversations and preferences are processed and stored **locally on the user’s device**.  
 - **No server syncing:** The App does not transmit, synchronize, or back up user data to any remote servers or third-party cloud services.
 - **Optional iCloud backup:** Users may choose to include app data in their personal iCloud backups as part of their device’s settings. This backup is controlled entirely by the user and managed outside the app. All conversations and preferences remain stored locally on the device unless backed up by iCloud per user choice.
+
 ---
 
 ## 2. Artificial Intelligence and Processing
