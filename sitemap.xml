@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://razmova.ca/</loc>
+    <xhtml:link
+    rel="alternate"
+    hreflang="en"
+    href="https://razmova.ca" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="fr"
+    href="https://razmova.ca/fr" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="es"
+    href="https://razmova.ca/es" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="ru"
+    href="https://razmova.ca/ru" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="uk"
+    href="https://razmova.ca/uk" />
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/privacy-policy</loc>
+    <xhtml:link
+    rel="alternate"
+    hreflang="en"
+    href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="fr"
+    href="https://razmova.ca/fr/privacy-policy" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="es"
+    href="https://razmova.ca/es/privacy-policy" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="ru"
+    href="https://razmova.ca/ru/privacy-policy" />
+    <xhtml:link
+    rel="alternate"
+    hreflang="uk"
+    href="https://razmova.ca/uk/privacy-policy" />
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
