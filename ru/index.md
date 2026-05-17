@@ -1,18 +1,4 @@
 ---
-<style>
-  .project-name::before {
-    content: "";
-    display: inline-block;
-    width: 55px; 
-    height: 55px;
-    background-image: url('../images/razmova.png'); 
-    background-size: cover;
-    border-radius: 12px;
-    vertical-align: middle;
-    margin-right: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-  }
-</style>
 layout: default
 title: Razmova — Бесплатный приватный чат iOS с локальным LLM
 description: Станьте более уверенным коммуникатором с Razmova — вашим приватным локальным ИИ-компаньоном для изучения языков, укрепления навыков общения и содержательных бесед. Практикуйте языки, открывая культуру, еду и обычаи через ИИ-персонажей, которые ощущаются как увлекательные собеседники, предлагая эмпатию и поддержку.
