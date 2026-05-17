@@ -1,6 +1,6 @@
 # Site settings
 title: Razmova
-description: Free Private iOS Chat with Local LLM Inference
+description: Free Private AI Language Practice & On-Device Chat
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://razmova.ca" # the base hostname & protocol for your site
 
@@ -19,8 +19,8 @@ plugins:
   - jekyll-seo-tag
 
 # Additional SEO content 
-tagline: "Free Private iOS Chat with Local LLM"
-keywords: "language practice, confidence building, private LLM, local LLM, local AI, communication anxiety, iOS app"
+tagline: "Free Private AI Language Practice & On-Device Chat"
+keywords: "free offline ai, private language practice, on device ai ios, local llm chat, learn languages securely, speak confidently app ios, no internet ai chat, language learning app, secure ai conversation, offline language practice"
 
 # GitHub Pages settings
 github:

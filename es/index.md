@@ -9,6 +9,9 @@ permalink: /es
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/es-mx?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
+##
+Conviértete en un comunicador más seguro con Razmova, tu compañero privado y local de IA para el aprendizaje de idiomas, el fortalecimiento de tus habilidades de comunicación y conversaciones significativas. Practica idiomas mientras descubres cultura, comida y costumbres a través de personajes de IA que se sienten como compañeros de conversación atractivos, brindando empatía y apoyo.
+
 ## Características clave
 - **Gratis:** Sin tarifas ni anuncios.
 - **Offline:** Chatea sin internet después de la descarga inicial del modelo.
