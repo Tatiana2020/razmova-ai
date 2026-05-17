@@ -5,6 +5,21 @@ description: Станьте более уверенным коммуникато
 permalink: /ru
 ---
 
+<style>
+  .project-name::before {
+    content: "";
+    display: inline-block;
+    width: 55px; 
+    height: 55px;
+    background-image: url('/images/razmova.png'); /* Switched to root-relative so it works everywhere */
+    background-size: cover;
+    border-radius: 12px;
+    vertical-align: middle;
+    margin-right: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  }
+</style>
+
 <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
