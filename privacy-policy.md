@@ -1,5 +1,4 @@
 ---
-layout: null
 title: Razmova - Privacy Policy
 description: No personal data collection or sharing. On-device AI computation only. Local user control over data storage and deletion. No analytics or advertising integrations. Full compliance with Apple App Store and global privacy standards
 permalink: /privacy-policy
