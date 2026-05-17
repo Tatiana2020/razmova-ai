@@ -9,6 +9,12 @@ permalink: /
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;">
+  <img src="images/Chat1.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" style="width: 100%; max-width: 240px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <img src="images/Chat2.webp" alt="Screenshot 2 of an interactive offline chat session practicing conversational English" style="width: 100%; max-width: 240px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <img src="images/ChatList.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; max-width: 240px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+</div>
+
 ## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
