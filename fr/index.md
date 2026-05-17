@@ -4,14 +4,17 @@ title: Razmova - Chat privé iOS gratuit avec LLM local
 description: Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local privé pour l’apprentissage des langues, le renforcement de vos compétences en communication et des conversations significatives. Pratiquez les langues tout en découvrant la culture, la nourriture et les coutumes grâce à des personnages IA qui ressemblent à des partenaires de conversation engageants, offrant empathie et encouragement.
 permalink: /fr
 ---
+
+<a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/fr-ca?releaseDate=1762819200" alt="Download on the App Store" style="width: 259px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
+    
 ## Fonctionnalités clés
 - **Gratuit :** Pas de frais ni de publicités.
 - **Hors ligne :** Discutez sans internet après le téléchargement initial du modèle.
 - **Privé :** Vos conversations restent sur votre téléphone — supprimez-les quand vous voulez. **[Politique de confidentialité](/fr/privacy-policy)**
 
 ---
-
-Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local privé pour l’apprentissage des langues, le renforcement de vos compétences en communication et des conversations significatives. Pratiquez les langues tout en découvrant la culture, la nourriture et les coutumes grâce à des personnages IA qui ressemblent à des partenaires de conversation engageants, offrant empathie et encouragement.
 
 Vous voulez vous confier sur le travail, partager une histoire drôle ou vous plaindre de votre patron ? Faites-le dans un espace sûr et privé où vos conversations restent sur votre téléphone — supprimez-les à tout moment, sans que les données ne soient envoyées dans le cloud. Nos personnages IA soutiennent votre progression avec des conseils calmes et pratiques pour réduire l’anxiété liée à la prise de parole et améliorer vos compétences en présentation.
 
