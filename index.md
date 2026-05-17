@@ -4,14 +4,17 @@ title: Razmova - Free Private iOS Chat with Local LLM
 description: Become a more confident communicator with Razmova — your private local AI companion for language learning, strengthening your communication skills, and meaningful conversations. Practice languages while discovering culture, food, and customs through AI personas that feel like engaging conversational partners, offering empathy and encouragement.
 permalink: /
 ---
+
+<a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
+<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
+    
 ## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
 - **Private:** Your chats stay on your phone—delete them anytime. **[Privacy Policy](privacy-policy.md)**
 
 ---
-
-Become a more confident communicator with Razmova — your private local AI companion for language learning, strengthening your communication skills, and meaningful conversations. Practice languages while discovering culture, food, and customs through AI personas that feel like engaging conversational partners, offering empathy and encouragement.
 
 Want to vent about work, share a funny story, or complain about your boss? Do it all in a safe, private space where your conversations stay on your phone—delete them anytime, with no data sent to the cloud. Our AI personas support your growth with calm, practical advice to reduce speaking anxiety and improve your presentation skills.
 
