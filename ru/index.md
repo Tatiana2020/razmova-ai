@@ -9,7 +9,6 @@ permalink: /ru
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
-##
 Станьте более уверенным коммуникатором с Razmova — вашим приватным локальным ИИ-компаньоном для изучения языков, укрепления навыков общения и содержательных бесед. Практикуйте языки, открывая культуру, еду и обычаи через ИИ-персонажей, которые ощущаются как увлекательные собеседники, предлагая эмпатию и поддержку.
 
 ## Основные возможности

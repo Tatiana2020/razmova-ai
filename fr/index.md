@@ -9,7 +9,6 @@ permalink: /fr
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/fr-ca?releaseDate=1762819200" alt="Download on the App Store" style="width: 259px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
-##
 Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local privé pour l’apprentissage des langues, le renforcement de vos compétences en communication et des conversations significatives. Pratiquez les langues tout en découvrant la culture, la nourriture et les coutumes grâce à des personnages IA qui ressemblent à des partenaires de conversation engageants, offrant empathie et encouragement.
 
 ## Fonctionnalités clés
