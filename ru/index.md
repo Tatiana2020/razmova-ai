@@ -5,37 +5,6 @@ description: Станьте более уверенным коммуникато
 permalink: /ru
 ---
 
-<style>
-  .project-name::before {
-    content: "";
-    display: inline-block;
-    width: 55px; 
-    height: 55px;
-    background-image: url('/images/razmova.png'); 
-    background-size: cover;
-    border-radius: 12px;
-    vertical-align: middle;
-    margin-right: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-  }
-
-    /* Shrinks the massive Cayman header padding */
-  .page-header {
-    padding: 2rem 1rem !important; /* Reduces top/bottom padding from 5rem to 2rem */
-  }
-
-  /* Reduces the title size slightly to look more balanced in the narrower banner */
-  .project-name {
-    font-size: 2.5rem !important; /* Tightens text scaling on desktop */
-    margin-bottom: 0.2rem !important;
-  }
-
-  .project-tagline {
-    font-size: 1.1rem !important; /* Shrinks the description subtext slightly */
-    margin-bottom: 0 !important;
-  }
-</style>
-
 <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
