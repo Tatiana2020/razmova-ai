@@ -11,12 +11,28 @@ permalink: /ru
     display: inline-block;
     width: 55px; 
     height: 55px;
-    background-image: url('/images/razmova.png'); /* Switched to root-relative so it works everywhere */
+    background-image: url('/images/razmova.png'); 
     background-size: cover;
     border-radius: 12px;
     vertical-align: middle;
     margin-right: 15px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  }
+
+    /* Shrinks the massive Cayman header padding */
+  .page-header {
+    padding: 2rem 1rem !important; /* Reduces top/bottom padding from 5rem to 2rem */
+  }
+
+  /* Reduces the title size slightly to look more balanced in the narrower banner */
+  .project-name {
+    font-size: 2.5rem !important; /* Tightens text scaling on desktop */
+    margin-bottom: 0.2rem !important;
+  }
+
+  .project-tagline {
+    font-size: 1.1rem !important; /* Shrinks the description subtext slightly */
+    margin-bottom: 0 !important;
   }
 </style>
 
