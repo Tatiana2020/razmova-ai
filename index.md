@@ -26,9 +26,16 @@ permalink: /
   </div>
 </div>
 
-Want to vent about work, share a funny story, or complain about your boss? Do it all in a safe, private space where your conversations stay on your phone—delete them anytime, with no data sent to the cloud. Our AI personas support your growth with calm, practical advice to reduce speaking anxiety and improve your presentation skills.
+## Built for Real-World Confidence
 
-Razmova runs entirely on your device to keep your data secure and private. It’s designed to help you learn, communicate more effectively, and feel more confident and happy — whether practicing a language or enjoying a friendly chat.
+**Speak Without Anxiety**
+Practice everyday conversations, vocabulary, and grammar with empathetic AI personas that feel like real conversation partners. Perfect for language learners looking to bridge the gap between studying and speaking.
+
+**100% Judgment-Free Sandbox**
+Vent about a tough day at work, complain about your boss, or prepare for an upcoming presentation. Razmova provides a completely safe, private space to build communication skills on your own terms.
+
+**Zero Cloud Footprint**
+Because your conversations are processed locally using state-of-the-art on-device LLM architecture, your data never leaves your device. No accounts, no tracking, absolute privacy.
 
 ---
 

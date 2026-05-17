@@ -26,9 +26,16 @@ permalink: /fr
   </div>
 </div>
 
-Vous voulez vous confier sur le travail, partager une histoire drôle ou vous plaindre de votre patron ? Faites-le dans un espace sûr et privé où vos conversations restent sur votre téléphone — supprimez-les à tout moment, sans que les données ne soient envoyées dans le cloud. Nos personnages IA soutiennent votre progression avec des conseils calmes et pratiques pour réduire l’anxiété liée à la prise de parole et améliorer vos compétences en présentation.
+## Conçu pour une confiance réelle
 
-Razmova fonctionne entièrement sur votre appareil pour garder vos données sécurisées et privées. Elle est conçue pour vous aider à apprendre, à mieux communiquer et à vous sentir plus confiant et heureux — que ce soit pour pratiquer une langue ou pour une conversation amicale.
+**Parler sans anxiété**
+Pratiquez les conversations de tous les jours, le vocabulaire et la grammaire avec des personas IA empathiques qui agissent comme de véritables partenaires de discussion. Idéal pour les apprenants d'une langue qui souhaitent combler le fossé entre l'étude et la parole.
+
+**Un espace 100 % sans jugement**
+Racontez une journée difficile au travail, plaignez-vous de votre patron ou préparez une présentation à venir. Razmova offre un espace entièrement sécurisé et privé pour développer vos compétences en communication selon vos propres termes.
+
+**Empreinte infonuagique zéro**
+Puisque vos conversations sont traitées localement grâce à une architecture de grands modèles de langage (LLM) intégrée et de pointe, vos données ne quittent jamais votre appareil. Aucun compte, aucun suivi, une confidentialité absolue.
 
 ---
 
