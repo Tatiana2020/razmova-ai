@@ -9,14 +9,10 @@ permalink: /ru
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
----
-
 ## Основные возможности
 - **Бесплатно:** без платежей и рекламы.
 - **Оффлайн:** общение без интернета после первоначального скачивания модели.
 - **Приватно:** ваши чаты остаются на телефоне — удаляйте их когда угодно. **[Политика конфиденциальности](/ru/privacy-policy)**
-
----
 
 <div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
   <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
@@ -29,8 +25,6 @@ permalink: /ru
     <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
   </div>
 </div>
-
----
 
 Хотите выговориться про работу, рассказать забавную историю или пожаловаться на начальника? Делайте это в безопасном приватном пространстве, где ваши беседы остаются на телефоне — удаляйте их в любое время, без передачи данных в облако. Наши ИИ-персонажи поддерживают ваше развитие спокойными и практичными советами, чтобы уменьшить тревогу во время общения и улучшить навыки презентации.
 

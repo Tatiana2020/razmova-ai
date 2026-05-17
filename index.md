@@ -9,14 +9,10 @@ permalink: /
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
----
-
 ## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
 - **Private:** Your chats stay on your phone—delete them anytime. **[Privacy Policy](privacy-policy.md)**
-
----
 
 <div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
   <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
@@ -29,8 +25,6 @@ permalink: /
     <img src="images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
   </div>
 </div>
-
----
 
 Want to vent about work, share a funny story, or complain about your boss? Do it all in a safe, private space where your conversations stay on your phone—delete them anytime, with no data sent to the cloud. Our AI personas support your growth with calm, practical advice to reduce speaking anxiety and improve your presentation skills.
 

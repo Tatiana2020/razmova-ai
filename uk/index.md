@@ -9,14 +9,10 @@ permalink: /uk
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/uk-ua?releaseDate=1762819200" alt="Download on the App Store" style="width: 241px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
----
-
 ## Основні функції
 - **Безкоштовно:** без зборів або реклами.
 - **Оффлайн:** спілкуйтесь без інтернету після початкового завантаження моделі.
 - **Приватно:** ваші чати залишаються на телефоні — видаляйте їх у будь-який час. **[Політика конфіденційності](/uk/privacy-policy)**
-
----
 
 <div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
   <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
@@ -29,8 +25,6 @@ permalink: /uk
     <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
   </div>
 </div>
-
----
 
 Хочете поділитись думками про роботу, розповісти кумедну історію чи поскаржитись на боса? Робіть це у безпечному приватному просторі, де ваші розмови залишаються на телефоні — видаляйте їх у будь-який момент, без передачі даних у хмару. Наші AI-персонажі підтримують ваш розвиток спокійними й практичними порадами для зниження тривоги під час спілкування та покращення презентаційних навичок.
 
