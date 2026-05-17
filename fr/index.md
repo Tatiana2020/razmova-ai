@@ -9,6 +9,15 @@ permalink: /fr
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/fr-ca?releaseDate=1762819200" alt="Download on the App Store" style="width: 259px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
+---
+
+## Fonctionnalités clés
+- **Gratuit :** Pas de frais ni de publicités.
+- **Hors ligne :** Discutez sans internet après le téléchargement initial du modèle.
+- **Privé :** Vos conversations restent sur votre téléphone — supprimez-les quand vous voulez. **[Politique de confidentialité](/fr/privacy-policy)**
+
+---
+
 <div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
   <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
     <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
@@ -20,11 +29,6 @@ permalink: /fr
     <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
   </div>
 </div>
-    
-## Fonctionnalités clés
-- **Gratuit :** Pas de frais ni de publicités.
-- **Hors ligne :** Discutez sans internet après le téléchargement initial du modèle.
-- **Privé :** Vos conversations restent sur votre téléphone — supprimez-les quand vous voulez. **[Politique de confidentialité](/fr/privacy-policy)**
 
 ---
 
