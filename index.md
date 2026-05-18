@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Razmova - Free Private Offline AI Chat for Language Practice
+title: Razmova - Free Private Offline AI Chat
 description: AI language companion for confident communication
 permalink: /
 ---
