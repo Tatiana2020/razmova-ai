@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Razmova - Chat de IA privado gratis y sin conexión para practicar idiomas
-description: Conviértete en un comunicador más seguro con Razmova, tu compañero privado y local de IA para el aprendizaje de idiomas, el fortalecimiento de tus habilidades de comunicación y conversaciones significativas. Practica idiomas mientras descubres cultura, comida y costumbres a través de personajes de IA que se sienten como compañeros de conversación atractivos, brindando empatía y apoyo.
+title: Razmova - Chat de IA privado gratis y sin conexión
+description: Compañero de idiomas con IA gratis para comunicarte con confianza
 permalink: /es
 lang: es-MX
 ---

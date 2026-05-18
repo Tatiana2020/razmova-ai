@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Razmova - Free Private Offline AI Chat for Language Practice
-description: Become a more confident communicator with Razmova — your private local AI companion for language learning, strengthening your communication skills, and meaningful conversations. Practice languages while discovering culture, food, and customs through AI personas that feel like engaging conversational partners, offering empathy and encouragement.
+description: AI language companion for confident communication
 permalink: /
 ---
 
