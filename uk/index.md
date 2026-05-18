@@ -3,6 +3,7 @@ layout: default
 title: Razmova - Приватний безкоштовний iOS чат з локальним LLM
 description: Станьте більш упевненим комунікатором з Razmova — вашим приватним локальним AI-компаньйоном для вивчення мов, зміцнення навичок спілкування та змістовних розмов. Практикуйте мови, відкриваючи культуру, їжу та звичаї через AI-персонажів, які нагадують захопливих співрозмовників, пропонуючи емпатію та підтримку.
 permalink: /uk
+lang: uk-UA
 ---
 
  <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">

@@ -3,6 +3,7 @@ layout: default
 title: Razmova - Política de privacidad
 description: No recopilación ni compartición de datos personales. Cálculo de IA solo en el dispositivo. Control local del usuario sobre el almacenamiento y eliminación de datos. Sin integraciones de análisis o publicidad. Cumplimiento total con Apple App Store y estándares globales de privacidad.
 permalink: /es/privacy-policy
+lang: es-MX
 ---
 
 ## Introducción

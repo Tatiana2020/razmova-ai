@@ -3,6 +3,7 @@ layout: default
 title: Razmova - Chat privado gratuito para iOS con LLM local
 description: Conviértete en un comunicador más seguro con Razmova, tu compañero privado y local de IA para el aprendizaje de idiomas, el fortalecimiento de tus habilidades de comunicación y conversaciones significativas. Practica idiomas mientras descubres cultura, comida y costumbres a través de personajes de IA que se sienten como compañeros de conversación atractivos, brindando empatía y apoyo.
 permalink: /es
+lang: es-MX
 ---
 
  <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
