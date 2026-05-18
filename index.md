@@ -14,7 +14,7 @@ Become a more confident communicator with Razmova — your private local AI comp
 ## Key Features
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
-- **Private:** Your chats stay on your phone—delete them anytime. **[Privacy Policy](privacy-policy.md)**
+- **Private:** Your chats stay on your phone—delete them anytime. **[Privacy Policy](privacy-policy)**
 
 <div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
   <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
@@ -41,19 +41,6 @@ Because your conversations are processed locally using state-of-the-art on-devic
 
 ---
 
-## Third Party Notices
-### Dependencies
-- [mlx-swift](https://github.com/ml-explore/mlx-swift) — license: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
-- [mlx-libraries](https://github.com/ml-explore/mlx-swift-examples) — license: [MIT](https://github.com/ml-explore/mlx-swift-examples/blob/main/LICENSE)
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) — license: [Apache-2.0](https://github.com/apple/swift-argument-parser/blob/main/LICENSE.txt)
-- [swift-collections](https://github.com/apple/swift-collections) — license: [Apache-2.0](https://github.com/apple/swift-collections/blob/main/LICENSE.txt)
-- [swift-numerics](https://github.com/apple/swift-numerics) — license: [Apache-2.0](https://github.com/apple/swift-numerics/blob/main/LICENSE.txt)
-- [swift-transformers](https://github.com/huggingface/swift-transformers) — license: [Apache-2.0](https://github.com/huggingface/swift-transformers/blob/main/LICENSE)
-
-### LLM Model
-- [Llama-3.2-3B-Instruct-4bit](https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit) - [license](https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt)
-
----
 ## Contact Information
 
 For any questions or support related inquiries, please contact:
@@ -63,4 +50,4 @@ For any questions or support related inquiries, please contact:
 
 ---
 
-© 2025 Tarnovski Consulting. All rights reserved.
+© 2025 Tarnovski Consulting. All rights reserved. | [Open Source Licenses](/licenses)
