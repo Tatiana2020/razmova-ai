@@ -50,4 +50,6 @@ For any questions or support related inquiries, please contact:
 
 ---
 
-© 2025 Tarnovski Consulting. All rights reserved. | [Open Source Licenses](/licenses)
+[Third-Party Licenses](/licenses)
+
+© 2025 Tarnovski Consulting. All rights reserved.

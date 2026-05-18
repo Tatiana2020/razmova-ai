@@ -5,7 +5,7 @@ description: Third Party Licenses
 permalink: /licenses
 ---
 
-## Third-Party Notices
+## Third-Party Licenses
 ### Dependencies
 - [mlx-swift](https://github.com/ml-explore/mlx-swift) — license: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
 - [mlx-libraries](https://github.com/ml-explore/mlx-swift-examples) — license: [MIT](https://github.com/ml-explore/mlx-swift-examples/blob/main/LICENSE)

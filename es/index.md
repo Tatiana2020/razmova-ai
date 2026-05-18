@@ -41,20 +41,6 @@ Debido a que tus conversaciones se procesan localmente utilizando una arquitectu
 
 ---
 
-## Avisos de terceros
-### Dependencias
-- [mlx-swift](https://github.com/ml-explore/mlx-swift) — licencia: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
-- [mlx-libraries](https://github.com/ml-explore/mlx-swift-examples) — licencia: [MIT](https://github.com/ml-explore/mlx-swift-examples/blob/main/LICENSE)
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) — licencia: [Apache-2.0](https://github.com/apple/swift-argument-parser/blob/main/LICENSE.txt)
-- [swift-collections](https://github.com/apple/swift-collections) — licencia: [Apache-2.0](https://github.com/apple/swift-collections/blob/main/LICENSE.txt)
-- [swift-numerics](https://github.com/apple/swift-numerics) — licencia: [Apache-2.0](https://github.com/apple/swift-numerics/blob/main/LICENSE.txt)
-- [swift-transformers](https://github.com/huggingface/swift-transformers) — licencia: [Apache-2.0](https://github.com/huggingface/swift-transformers/blob/main/LICENSE)
-
-### Modelo LLM
-- [Llama-3.2-3B-Instruct-4bit](https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit) - [licencia](https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt)
-
----
-
 ## Información de contacto
 
 Para cualquier pregunta o consulta de soporte, por favor contacte:
@@ -63,5 +49,7 @@ Para cualquier pregunta o consulta de soporte, por favor contacte:
 **Correo:** [tatiana@tarnovskiconsulting.com](mailto:tatiana@tarnovskiconsulting.com)
 
 ---
+
+[Licencias de terceros](/licenses)
 
 © 2025 Tarnovski Consulting. Todos los derechos reservados.

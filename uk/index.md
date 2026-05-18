@@ -41,20 +41,6 @@ permalink: /uk
 
 ---
 
-## Повідомлення третіх сторін
-### Залежності
-- [mlx-swift](https://github.com/ml-explore/mlx-swift) — ліцензія: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
-- [mlx-libraries](https://github.com/ml-explore/mlx-swift-examples) — ліцензія: [MIT](https://github.com/ml-explore/mlx-swift-examples/blob/main/LICENSE)
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) — ліцензія: [Apache-2.0](https://github.com/apple/swift-argument-parser/blob/main/LICENSE.txt)
-- [swift-collections](https://github.com/apple/swift-collections) — ліцензія: [Apache-2.0](https://github.com/apple/swift-collections/blob/main/LICENSE.txt)
-- [swift-numerics](https://github.com/apple/swift-numerics) — ліцензія: [Apache-2.0](https://github.com/apple/swift-numerics/blob/main/LICENSE.txt)
-- [swift-transformers](https://github.com/huggingface/swift-transformers) — ліцензія: [Apache-2.0](https://github.com/huggingface/swift-transformers/blob/main/LICENSE)
-
-### Модель LLM
-- [Llama-3.2-3B-Instruct-4bit](https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit) - [ліцензія](https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt)
-
----
-
 ## Контактна інформація
 
 Для будь-яких питань або запитів підтримки звертайтеся:
@@ -63,5 +49,7 @@ permalink: /uk
 **Електронна пошта:** [tatiana@tarnovskiconsulting.com](mailto:tatiana@tarnovskiconsulting.com)
 
 ---
+
+[Ліцензії третіх сторін](/licenses)
 
 © 2025 Tarnovski Consulting. Всі права захищені.

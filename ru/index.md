@@ -41,20 +41,6 @@ permalink: /ru
 
 ---
 
-## Уведомления третьих сторон
-### Зависимости
-- [mlx-swift](https://github.com/ml-explore/mlx-swift) — лицензия: [MIT](https://github.com/ml-explore/mlx-swift/blob/main/LICENSE)
-- [mlx-libraries](https://github.com/ml-explore/mlx-swift-examples) — лицензия: [MIT](https://github.com/ml-explore/mlx-swift-examples/blob/main/LICENSE)
-- [swift-argument-parser](https://github.com/apple/swift-argument-parser) — лицензия: [Apache-2.0](https://github.com/apple/swift-argument-parser/blob/main/LICENSE.txt)
-- [swift-collections](https://github.com/apple/swift-collections) — лицензия: [Apache-2.0](https://github.com/apple/swift-collections/blob/main/LICENSE.txt)
-- [swift-numerics](https://github.com/apple/swift-numerics) — лицензия: [Apache-2.0](https://github.com/apple/swift-numerics/blob/main/LICENSE.txt)
-- [swift-transformers](https://github.com/huggingface/swift-transformers) — лицензия: [Apache-2.0](https://github.com/huggingface/swift-transformers/blob/main/LICENSE)
-
-### Модель LLM
-- [Llama-3.2-3B-Instruct-4bit](https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit) - [лицензия](https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt)
-
----
-
 ## Контактная информация
 
 По всем вопросам или запросам поддержки обращайтесь:
@@ -63,5 +49,7 @@ permalink: /ru
 **Email:** [tatiana@tarnovskiconsulting.com](mailto:tatiana@tarnovskiconsulting.com)
 
 ---
+
+[Лицензии третьих лиц](/licenses)
 
 © 2025 Tarnovski Consulting. Все права защищены.
