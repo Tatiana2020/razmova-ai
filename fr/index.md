@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Razmova - Chat privé iOS gratuit avec LLM local
+title: Razmova - Chat IA hors ligne privé et gratuit pour pratiquer les langues
 description: Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local privé pour l’apprentissage des langues, le renforcement de vos compétences en communication et des conversations significatives. Pratiquez les langues tout en découvrant la culture, la nourriture et les coutumes grâce à des personnages IA qui ressemblent à des partenaires de conversation engageants, offrant empathie et encouragement.
 permalink: /fr
 lang: fr-CA
