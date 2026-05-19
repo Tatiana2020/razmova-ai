@@ -34,6 +34,7 @@ Razmova uses on-device artificial intelligence to assist users with language lea
 - **No Remote Inference:** The App does not send user inputs, chat content, or outputs to external servers or third-party AI providers.  
 - **Data Confidentiality:** No third-party organizations have access to user-generated content.
 - **Native System Translation:** The App allows you to translate chat messages using Apple's built-in system translation framework. Razmova does not transmit, monitor, or process this text. Processing occurs entirely through the iOS operating system. To ensure this translation happens 100% offline, you must download your preferred language pairs in your iPhone's system settings (Settings > Translate). If these are not downloaded, Apple may process the text remotely on its servers in accordance with Apple’s privacy policy.
+
 ---
 
 ## 3. Analytics and Third-Party Tools
