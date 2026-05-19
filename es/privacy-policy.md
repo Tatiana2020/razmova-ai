@@ -24,6 +24,7 @@ Razmova **no** recopila, transmite ni almacena información personal de los usua
 - **Almacenamiento local:** Todas las conversaciones y preferencias del usuario se procesan y almacenan **localmente en el dispositivo del usuario**.  
 - **Sin sincronización con servidor:** La App no transmite, sincroniza ni almacena los datos de los usuarios en servidores remotos o servicios en la nube de terceros.  
 - **Copia de seguridad opcional en iCloud:** Los usuarios pueden elegir incluir los datos de la App en sus copias de seguridad personales de iCloud mediante la configuración de su dispositivo. Esta copia de seguridad es controlada completamente por el usuario y gestionada fuera de la App. Todas las conversaciones y preferencias permanecen almacenadas localmente en el dispositivo a menos que se respalden mediante iCloud por elección del usuario.
+- **Acciones del portapapeles del sistema:** Cuando elige explícitamente copiar un mensaje dentro de la Aplicación, ese texto se envía al portapapeles del sistema de su dispositivo. Aunque Razmova no almacena, monitorea ni transmite los datos de su portapapeles, el portapapeles del sistema es un recurso compartido del sistema operativo. El texto copiado en él podría ser accesible para otras aplicaciones instaladas en su dispositivo, según sus configuraciones de privacidad de iOS.
 
 ---
 
@@ -34,6 +35,7 @@ Razmova utiliza inteligencia artificial en el dispositivo para ayudar a los usua
 - **Procesamiento local:** Todos los cálculos de IA se realizan **completamente en el dispositivo** usando el modelo **Llama‑3.2‑3B‑Instruct‑4bit**.  
 - **Sin inferencia remota:** La App no envía las entradas del usuario, el contenido de los chats o resultados a servidores externos o proveedores de IA terceros.  
 - **Confidencialidad de datos:** Ninguna organización externa tiene acceso al contenido generado por los usuarios.
+- **Traducción nativa del sistema:** La Aplicación le permite traducir mensajes de chat utilizando el entorno de traducción nativo de Apple. Razmova no transmite, monitorea ni procesa este texto. El procesamiento se realiza completamente a través del sistema operativo iOS. Para garantizar que esta traducción se realice 100% sin conexión, debe descargar sus pares de idiomas de preferencia en la configuración del sistema de su iPhone (Configuración > Traducir). Si no están descargados, Apple podría procesar el texto de forma remota en sus servidores, de acuerdo con la política de privacidad de Apple.
 
 ---
 
@@ -102,6 +104,6 @@ Respondemos todas las consultas de privacidad en un plazo razonable.
 
 ---
 
-Última actualización: 10 de noviembre de 2025
+Última actualización: 18 de mayo de 2026
 
 © 2025 Tarnovski Consulting. Todos los derechos reservados.

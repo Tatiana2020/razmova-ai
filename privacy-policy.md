@@ -22,6 +22,7 @@ Razmova does **not** collect, transmit, or store any personal information from u
 - **Local Data Storage:** All user conversations and preferences are processed and stored **locally on the user’s device**.  
 - **No server syncing:** The App does not transmit, synchronize, or back up user data to any remote servers or third-party cloud services.
 - **Optional iCloud backup:** Users may choose to include app data in their personal iCloud backups as part of their device’s settings. This backup is controlled entirely by the user and managed outside the app. All conversations and preferences remain stored locally on the device unless backed up by iCloud per user choice.
+- **System Clipboard Actions:** When you explicitly choose to copy a message within the App, that text is sent to your device's system clipboard. While Razmova does not store, monitor, or transmit your clipboard data, the system clipboard is a shared OS resource. Text copied to it could potentially be accessed by other applications installed on your device, depending on your iOS privacy configurations.
 
 ---
 
@@ -32,7 +33,7 @@ Razmova uses on-device artificial intelligence to assist users with language lea
 - **Local Processing:** All AI computations are performed **entirely on-device** using the **Llama‑3.2‑3B‑Instruct‑4bit** model.  
 - **No Remote Inference:** The App does not send user inputs, chat content, or outputs to external servers or third-party AI providers.  
 - **Data Confidentiality:** No third-party organizations have access to user-generated content.
-
+- **Native System Translation:** The App allows you to translate chat messages using Apple's built-in system translation framework. Razmova does not transmit, monitor, or process this text. Processing occurs entirely through the iOS operating system. To ensure this translation happens 100% offline, you must download your preferred language pairs in your iPhone's system settings (Settings > Translate). If these are not downloaded, Apple may process the text remotely on its servers in accordance with Apple’s privacy policy.
 ---
 
 ## 3. Analytics and Third-Party Tools
@@ -99,6 +100,6 @@ We respond to all privacy inquiries within a reasonable timeframe.
 - Full compliance with Apple App Store and global privacy standards
 
 ---
-Last updated: November 10, 2025
+Last updated: May 18, 2026
 
 © 2025 Tarnovski Consulting. All rights reserved.

@@ -24,6 +24,7 @@ Razmova **ne collecte, transmet ni ne stocke** aucune information personnelle de
 - **Stockage local des données :** Toutes les conversations et préférences des utilisateurs sont traitées et stockées **localement sur l’appareil de l’utilisateur**.  
 - **Pas de synchronisation serveur :** L’App ne transmet, synchronise ni ne stocke les données utilisateurs sur des serveurs distants ou services cloud tiers.  
 - **Sauvegarde iCloud optionnelle :** Les utilisateurs peuvent choisir d’inclure les données de l’app dans leurs sauvegardes personnelles iCloud via les paramètres de leur appareil. Cette sauvegarde est entièrement contrôlée par l’utilisateur et gérée en dehors de l’application. Toutes les conversations et préférences restent stockées localement sur l’appareil sauf si elles sont sauvegardées via iCloud par choix de l’utilisateur.
+- **Actions du presse-papiers système :** Lorsque vous choisissez explicitement de copier un message dans l'Application, ce texte est envoyé dans le presse-papiers système de votre appareil. Bien que Razmova ne stocke, ne surveille ni ne transmette vos données de presse-papiers, le presse-papiers système est une ressource partagée de l'OS. Le texte qui y est copié pourrait potentiellement être consulté par d'autres applications installées sur votre appareil, selon vos configurations de confidentialité iOS.
 
 ---
 
@@ -34,6 +35,7 @@ Razmova utilise une intelligence artificielle embarquée pour aider les utilisat
 - **Traitement local :** Tous les calculs IA sont effectués **entièrement sur l’appareil** via le modèle **Llama‑3.2‑3B‑Instruct‑4bit**.  
 - **Pas d’inférence distante :** L’App n’envoie pas les entrées utilisateurs, le contenu des conversations, ni les résultats à des serveurs externes ou fournisseurs IA tiers.  
 - **Confidentialité des données :** Aucune organisation tierce n’a accès au contenu généré par les utilisateurs.
+- **Traduction système native :** L'Application vous permet de traduire les messages de chat à l'aide de l'infrastructure de traduction native d'Apple. Razmova ne transmet, ne surveille ni ne traite ce texte. Le traitement s'effectue entièrement via le système d'exploitation iOS. Pour garantir que cette traduction s'effectue à 100 % hors ligne, vous devez télécharger vos paires de langues préférées dans les réglages système de votre iPhone (Réglages > Traduction). Si elles ne sont pas téléchargées, Apple peut traiter le texte à distance sur ses serveurs, conformément à la politique de confidentialité d'Apple.
 
 ---
 
@@ -102,6 +104,6 @@ Nous répondons à toutes les demandes dans des délais raisonnables.
 
 ---
 
-Dernière mise à jour : 10 novembre 2025
+Dernière mise à jour : 18 mai 2026
 
 © 2025 Tarnovski Consulting. Tous droits réservés.
