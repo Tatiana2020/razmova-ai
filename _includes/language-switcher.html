@@ -1,0 +1,11 @@
+---
+# Language switcher for header navigation
+---
+
+<div style="display: flex; gap: 15px; margin-bottom: 20px; font-size: 14px;">
+  <a href="/" style="text-decoration: none; {% if page.lang == null or page.lang == '' %}font-weight: bold;{% endif %}">English</a>
+  <a href="/es" style="text-decoration: none; {% if page.lang == 'es-MX' %}font-weight: bold;{% endif %}">Español</a>
+  <a href="/fr" style="text-decoration: none; {% if page.lang == 'fr-CA' %}font-weight: bold;{% endif %}">Français</a>
+  <a href="/ru" style="text-decoration: none; {% if page.lang == 'ru-RU' %}font-weight: bold;{% endif %}">Русский</a>
+  <a href="/uk" style="text-decoration: none; {% if page.lang == 'uk-UA' %}font-weight: bold;{% endif %}">Українська</a>
+</div>

@@ -6,6 +6,8 @@ permalink: /ru
 lang: ru-RU
 ---
 
+{% include language-switcher.html %}
+
 <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
@@ -49,8 +51,6 @@ lang: ru-RU
 **Tarnovski Consulting**  
 **Email:** [tatiana@tarnovskiconsulting.com](mailto:tatiana@tarnovskiconsulting.com)
 
----
-
-[Лицензии третьих лиц](/licenses)
+{% include footer.html %}
 
 © 2025 Tarnovski Consulting. Все права защищены.
