@@ -51,6 +51,9 @@ lang: ru-RU
 **Tarnovski Consulting**  
 **Email:** [tatiana@tarnovskiconsulting.com](mailto:tatiana@tarnovskiconsulting.com)
 
-{% include footer.html %}
+---
 
-© 2025 Tarnovski Consulting. Все права защищены.
+[Лицензии третьих лиц](/licenses)
+
+---
+{% include footer.html %}
