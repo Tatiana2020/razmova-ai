@@ -17,4 +17,4 @@ permalink: /licenses
 ### LLM Model
 - [Llama-3.2-3B-Instruct-4bit](https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit) - [license](https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt)
 
-{% include footer.html %}
+

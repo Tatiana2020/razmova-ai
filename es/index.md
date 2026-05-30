@@ -8,8 +8,8 @@ lang: es-MX
 
 {% include language-switcher.html %}
 
- <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/es-mx?releaseDate=1762819200" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+ <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" class="app-store-badge">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/es-mx?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
 Conviértete en un comunicador más seguro con Razmova, tu compañero privado y local de IA para el aprendizaje de idiomas, el fortalecimiento de tus habilidades de comunicación y conversaciones significativas. Practica idiomas mientras descubres cultura, comida y costumbres a través de personajes de IA que se sienten como compañeros de conversación atractivos, brindando empatía y apoyo.
@@ -19,15 +19,15 @@ Conviértete en un comunicador más seguro con Razmova, tu compañero privado y 
 - **Offline:** Chatea sin internet después de la descarga inicial del modelo.
 - **Privado:** Tus chats permanecen en tu teléfono—elimínalos cuando quieras. **[Política de privacidad](/es/privacy-policy)**
 
-<div style="display: flex; gap: 15px; justify-content: flex-start; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 5px; margin: 20px 0; -webkit-overflow-scrolling: touch;">
-  <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
-    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+<div class="screenshots">
+  <div class="screenshot">
+    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
   </div>
-  <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
-    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <div class="screenshot">
+    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
   </div>
-  <div style="flex: 0 0 auto; scroll-snap-align: start; width: 75%; max-width: 240px;">
-    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <div class="screenshot">
+    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
   </div>
 </div>
 
@@ -57,4 +57,3 @@ Para cualquier pregunta o consulta de soporte, por favor contacte:
 
 [Licencias de terceros](/licenses)
 
-{% include footer.html %}

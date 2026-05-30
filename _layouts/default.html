@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <img src="{{ '/images/razmova.png' | relative_url }}" alt="{{ site.title }} app icon">
+    <div class="site-header-text">
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    {% if page.lang == "es-MX" %}
+      © 2025 Tarnovski Consulting. Todos los derechos reservados.
+    {% elsif page.lang == "fr-CA" %}
+      © 2025 Tarnovski Consulting. Tous droits réservés.
+    {% elsif page.lang == "ru-RU" %}
+      © 2025 Tarnovski Consulting. Все права защищены.
+    {% elsif page.lang == "uk-UA" %}
+      © 2025 Tarnovski Consulting. Всі права захищені.
+    {% else %}
+      © 2025 Tarnovski Consulting. All rights reserved.
+    {% endif %}
+  </footer>
+
+</body>
+</html>

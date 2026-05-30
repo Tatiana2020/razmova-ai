@@ -106,4 +106,4 @@ Respondemos todas las consultas de privacidad en un plazo razonable.
 
 Última actualización: 18 de mayo de 2026
 
-{% include footer.html %}
+
