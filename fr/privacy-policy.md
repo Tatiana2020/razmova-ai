@@ -106,4 +106,4 @@ Nous répondons à toutes les demandes dans des délais raisonnables.
 
 Dernière mise à jour : 18 mai 2026
 
-© 2025 Tarnovski Consulting. Tous droits réservés.
+{% include footer.html %}

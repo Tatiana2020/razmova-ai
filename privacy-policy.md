@@ -103,4 +103,4 @@ We respond to all privacy inquiries within a reasonable timeframe.
 ---
 Last updated: May 18, 2026
 
-© 2025 Tarnovski Consulting. All rights reserved.
+{% include footer.html %}
