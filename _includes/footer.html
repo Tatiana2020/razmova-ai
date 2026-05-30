@@ -1,0 +1,33 @@
+---
+# Footer with multi-language support
+---
+
+<footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ccc; font-size: 14px;">
+  <div style="display: flex; gap: 20px; margin-bottom: 20px;">
+    {% if page.lang == "es-MX" %}
+      [Licencias de terceros](/licenses)
+    {% elsif page.lang == "fr-CA" %}
+      [Mentions tierces](/licenses)
+    {% elsif page.lang == "ru-RU" %}
+      [Лицензии третьих лиц](/licenses)
+    {% elsif page.lang == "uk-UA" %}
+      [Ліцензії третіх сторін](/licenses)
+    {% else %}
+      [Third-Party Licenses](/licenses)
+    {% endif %}
+  </div>
+
+  <div style="text-align: left; color: #666;">
+    {% if page.lang == "es-MX" %}
+      © 2025 Tarnovski Consulting. Todos los derechos reservados.
+    {% elsif page.lang == "fr-CA" %}
+      © 2025 Tarnovski Consulting. Tous droits réservés.
+    {% elsif page.lang == "ru-RU" %}
+      © 2025 Tarnovski Consulting. Все права защищены.
+    {% elsif page.lang == "uk-UA" %}
+      © 2025 Tarnovski Consulting. Всі права захищені.
+    {% else %}
+      © 2025 Tarnovski Consulting. All rights reserved.
+    {% endif %}
+  </div>
+</footer>
