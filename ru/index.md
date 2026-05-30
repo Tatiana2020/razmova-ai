@@ -53,6 +53,7 @@ lang: ru-RU
 
 ---
 
+## Лицензии
 [Лицензии третьих лиц](/licenses)
 
 {% include footer.html %}

@@ -6,6 +6,8 @@ permalink: /uk
 lang: uk-UA
 ---
 
+{% include language-switcher.html %}
+
  <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" style="display: inline-block;">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/uk-ua?releaseDate=1762819200" alt="Download on the App Store" style="width: 241px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
@@ -51,6 +53,8 @@ lang: uk-UA
 
 ---
 
+## Ліцензії
+
 [Ліцензії третіх сторін](/licenses)
 
-© 2025 Tarnovski Consulting. Всі права захищені.
+{% include footer.html %}
