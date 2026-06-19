@@ -18,6 +18,7 @@ Conviértete en un comunicador más seguro con Razmova, tu compañero privado y 
 - **Gratis:** Sin tarifas ni anuncios.
 - **Offline:** Chatea sin internet después de la descarga inicial del modelo.
 - **Privado:** Tus chats permanecen en tu teléfono—elimínalos cuando quieras. **[Política de privacidad](/es/privacy-policy)**
+- **IA en el dispositivo a tu elección:** Usa el modelo integrado u opta por Apple Intelligence; en ambos casos, todo permanece en tu dispositivo.
 
 <div class="screenshots">
   <div class="screenshot">

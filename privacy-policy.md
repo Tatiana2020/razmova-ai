@@ -30,7 +30,8 @@ Razmova does **not** collect, transmit, or store any personal information from u
 
 Razmova uses on-device artificial intelligence to assist users with language learning and communication.
 
-- **Local Processing:** All AI computations are performed **entirely on-device** using the **Llama‑3.2‑3B‑Instruct‑4bit** model.  
+- **Local Processing:** All AI computations are performed **entirely on-device**. By default, Razmova uses the **Llama‑3.2‑3B‑Instruct‑4bit** model.  
+- **Apple Intelligence:** On supported devices, you can opt in to use Apple Intelligence — Apple's on-device foundation model — as an alternative engine. When enabled, all AI processing still runs **entirely on your device**. This option does **not** use Apple's Private Cloud Compute and never transmits your inputs, chat content, or outputs to Apple or any third party. The feature is in Beta and stays off unless you turn it on.
 - **No Remote Inference:** The App does not send user inputs, chat content, or outputs to external servers or third-party AI providers.  
 - **Data Confidentiality:** No third-party organizations have access to user-generated content.
 - **Native System Translation:** The App allows you to translate chat messages using Apple's built-in system translation framework. Razmova does not transmit, monitor, or process this text. Processing occurs entirely through the iOS operating system. To ensure this translation happens 100% offline, you must download your preferred language pairs in your iPhone's system settings (Settings > Translate). If these are not downloaded, Apple may process the text remotely on its servers in accordance with Apple’s privacy policy.
@@ -101,6 +102,6 @@ We respond to all privacy inquiries within a reasonable timeframe.
 - Full compliance with Apple App Store and global privacy standards
 
 ---
-Last updated: May 18, 2026
+Last updated: June 19, 2026
 
 

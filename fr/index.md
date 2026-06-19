@@ -18,6 +18,7 @@ Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local
 - **Gratuit :** Pas de frais ni de publicités.
 - **Hors ligne :** Discutez sans internet après le téléchargement initial du modèle.
 - **Privé :** Vos conversations restent sur votre téléphone — supprimez-les quand vous voulez. **[Politique de confidentialité](/fr/privacy-policy)**
+- **Votre choix d’IA sur l’appareil :** Utilisez le modèle intégré ou optez pour Apple Intelligence — dans les deux cas, tout reste sur votre appareil.
 
 <div class="screenshots">
   <div class="screenshot">

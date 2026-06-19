@@ -32,7 +32,8 @@ Razmova **no** recopila, transmite ni almacena información personal de los usua
 
 Razmova utiliza inteligencia artificial en el dispositivo para ayudar a los usuarios a aprender idiomas y comunicarse.
 
-- **Procesamiento local:** Todos los cálculos de IA se realizan **completamente en el dispositivo** usando el modelo **Llama‑3.2‑3B‑Instruct‑4bit**.  
+- **Procesamiento local:** Todos los cálculos de IA se realizan **completamente en el dispositivo**. De forma predeterminada, Razmova usa el modelo **Llama‑3.2‑3B‑Instruct‑4bit**.  
+- **Apple Intelligence:** En dispositivos compatibles, puedes optar por usar Apple Intelligence —el modelo base en el dispositivo de Apple— como motor alternativo. Cuando está activado, todo el procesamiento de IA sigue ejecutándose **completamente en tu dispositivo**. Esta opción **no** utiliza Private Cloud Compute de Apple y nunca transmite tus entradas, el contenido de los chats ni los resultados a Apple ni a terceros. La función está en Beta y permanece desactivada a menos que la actives.
 - **Sin inferencia remota:** La App no envía las entradas del usuario, el contenido de los chats o resultados a servidores externos o proveedores de IA terceros.  
 - **Confidencialidad de datos:** Ninguna organización externa tiene acceso al contenido generado por los usuarios.
 - **Traducción nativa del sistema:** La Aplicación le permite traducir mensajes de chat utilizando el entorno de traducción nativo de Apple. Razmova no transmite, monitorea ni procesa este texto. El procesamiento se realiza completamente a través del sistema operativo iOS. Para garantizar que esta traducción se realice 100% sin conexión, debe descargar sus pares de idiomas de preferencia en la configuración del sistema de su iPhone (Configuración > Traducir). Si no están descargados, Apple podría procesar el texto de forma remota en sus servidores, de acuerdo con la política de privacidad de Apple.
@@ -104,6 +105,6 @@ Respondemos todas las consultas de privacidad en un plazo razonable.
 
 ---
 
-Última actualización: 18 de mayo de 2026
+Última actualización: 19 de junio de 2026
 
 

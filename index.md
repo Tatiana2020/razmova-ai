@@ -17,6 +17,7 @@ Become a more confident communicator with Razmova — your private local AI comp
 - **Free:** No fees or ads.
 - **Offline:** Chat without internet after the initial model download.
 - **Private:** Your chats stay on your phone—delete them anytime. **[Privacy Policy](privacy-policy)**
+- **Your choice of on-device AI:** Run the built-in model or opt in to Apple Intelligence — either way, everything stays on your device.
 
 <div class="screenshots">
   <div class="screenshot">
