@@ -32,7 +32,8 @@ Razmova **ne collecte, transmet ni ne stocke** aucune information personnelle de
 
 Razmova utilise une intelligence artificielle embarquée pour aider les utilisateurs à apprendre les langues et à communiquer.
 
-- **Traitement local :** Tous les calculs IA sont effectués **entièrement sur l’appareil** via le modèle **Llama‑3.2‑3B‑Instruct‑4bit**.  
+- **Traitement local :** Tous les calculs IA sont effectués **entièrement sur l’appareil**. Par défaut, Razmova utilise le modèle **Llama‑3.2‑3B‑Instruct‑4bit**.  
+- **Apple Intelligence :** Sur les appareils compatibles, vous pouvez choisir d’utiliser Apple Intelligence — le modèle de fondation sur l’appareil d’Apple — comme moteur alternatif. Lorsqu’elle est activée, tout le traitement IA continue de s’exécuter **entièrement sur votre appareil**. Cette option **n’utilise pas** Private Cloud Compute d’Apple et ne transmet jamais vos entrées, le contenu de vos conversations ni les résultats à Apple ou à un tiers. La fonctionnalité est en Beta et reste désactivée tant que vous ne l’activez pas.
 - **Pas d’inférence distante :** L’App n’envoie pas les entrées utilisateurs, le contenu des conversations, ni les résultats à des serveurs externes ou fournisseurs IA tiers.  
 - **Confidentialité des données :** Aucune organisation tierce n’a accès au contenu généré par les utilisateurs.
 - **Traduction système native :** L'Application vous permet de traduire les messages de chat à l'aide de l'infrastructure de traduction native d'Apple. Razmova ne transmet, ne surveille ni ne traite ce texte. Le traitement s'effectue entièrement via le système d'exploitation iOS. Pour garantir que cette traduction s'effectue à 100 % hors ligne, vous devez télécharger vos paires de langues préférées dans les réglages système de votre iPhone (Réglages > Traduction). Si elles ne sont pas téléchargées, Apple peut traiter le texte à distance sur ses serveurs, conformément à la politique de confidentialité d'Apple.
@@ -104,6 +105,6 @@ Nous répondons à toutes les demandes dans des délais raisonnables.
 
 ---
 
-Dernière mise à jour : 18 mai 2026
+Dernière mise à jour : 19 juin 2026
 
 
