@@ -6,6 +6,9 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   {% seo %}
+  {%- if page.app_schema %}
+  {% include schema-app.html %}
+  {%- endif %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
