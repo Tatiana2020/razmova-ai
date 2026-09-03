@@ -3,6 +3,7 @@ layout: default
 title: Razmova - Free Private Offline AI Chat
 description: AI language companion for confident communication
 permalink: /
+app_schema: true
 ---
 
 {% include language-switcher.html %}

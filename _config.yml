@@ -20,6 +20,10 @@ plugins:
 tagline: "Free Private AI Language Practice & On-Device Chat"
 keywords: "free offline ai, private language practice, on device ai ios, local llm chat, learn languages securely, speak confidently app ios, no internet ai chat, language learning app, secure ai conversation, offline language practice"
 
+app_version: "1.8.0"
+app_release_date: "2025-11-11"
+app_store_url: "https://apps.apple.com/us/app/razmova/id6753091541"
+
 # GitHub Pages settings
 github:
   repository_name: razmova-ai

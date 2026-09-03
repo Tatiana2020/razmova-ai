@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Razmova",
+  "alternateName": "Razmova: Private AI Chat",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "installUrl": {{ site.app_store_url | jsonify }},
+  "downloadUrl": {{ site.app_store_url | jsonify }},
+  "applicationCategory": "EducationalApplication",
+  "applicationSubCategory": "Language Learning",
+  "operatingSystem": "iOS 18.6 or later; iPadOS 18.6 or later",
+  "softwareVersion": {{ site.app_version | jsonify }},
+  "datePublished": {{ site.app_release_date | jsonify }},
+  "isAccessibleForFree": true,
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Tarnovski Consulting Inc.",
+    "url": {{ '/' | absolute_url | jsonify }}
+  },
+  "inLanguage": ["en", "es", "fr", "ru", "uk"],
+  "teaches": ["English", "Spanish", "French"],
+  "memoryRequirements": "6 GB RAM minimum",
+  "storageRequirements": "About 2 GB for the one-time AI model download",
+  "permissions": "Microphone (optional, for voice input on iOS 26 and later)",
+  "featureList": [
+    "Runs a large language model entirely on the device — no server, no account, no subscription",
+    "Works fully offline after a one-time model download",
+    "Seven AI conversation partners across English, Spanish and French",
+    "Beginner (A1/A2), intermediate (B1/B2) and communication-coaching partners",
+    "Voice input: speak your reply and edit the transcription before sending (iOS 26+)",
+    "Read-aloud: hear beginner partners' replies at normal speed or slowed down",
+    "Built-in translation for any message",
+    "Choice of on-device engine: the bundled model or Apple Intelligence",
+    "No ads, no analytics, no tracking; conversations never leave the device",
+    "Interface in English, Spanish, French, Russian and Ukrainian"
+  ],
+  "screenshot": [
+    {{ '/images/ChatE.webp' | absolute_url | jsonify }},
+    {{ '/images/ChatJ.webp' | absolute_url | jsonify }},
+    {{ '/images/Chats.webp' | absolute_url | jsonify }}
+  ]
+}
+</script>
