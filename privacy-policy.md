@@ -34,7 +34,9 @@ Razmova uses on-device artificial intelligence to assist users with language lea
 - **Apple Intelligence:** On supported devices, you can opt in to use Apple Intelligence — Apple's on-device foundation model — as an alternative engine. When enabled, all AI processing still runs **entirely on your device**. This option does **not** use Apple's Private Cloud Compute and never transmits your inputs, chat content, or outputs to Apple or any third party. The feature is in Beta and stays off unless you turn it on.
 - **No Remote Inference:** The App does not send user inputs, chat content, or outputs to external servers or third-party AI providers.  
 - **Data Confidentiality:** No third-party organizations have access to user-generated content.
-- **Native System Translation:** The App allows you to translate chat messages using Apple's built-in system translation framework. Razmova does not transmit, monitor, or process this text. Processing occurs entirely through the iOS operating system. To ensure this translation happens 100% offline, you must download your preferred language pairs in your iPhone's system settings (Settings > Translate). If these are not downloaded, Apple may process the text remotely on its servers in accordance with Apple’s privacy policy.
+- **Native System Translation:** The App allows you to translate chat messages using Apple's built-in system translation framework. Razmova does not transmit, monitor, or process this text. Processing occurs entirely through the iOS operating system. To ensure this translation happens 100% offline, you must download your preferred language pairs in your iPhone's system settings (Settings > Apps > Translate). If these are not downloaded, Apple may process the text remotely on its servers in accordance with Apple’s privacy policy.
+- **Voice Input (Microphone and Speech Recognition):** On iOS 26 and later, you can speak a message instead of typing it. Razmova uses the microphone only after you tap the microphone button, and only while voice input is active. Your speech is converted to text **entirely on your device** using Apple's speech recognition, and the audio is never saved or sent anywhere. If the speech recognition model for a language is not yet on your device, it is downloaded from Apple before first use; if it cannot be downloaded, voice input is unavailable, and your speech is never sent to a server instead. The text appears in the message box so you can review and edit it before sending. iOS asks for your permission before Razmova can use the microphone and speech recognition, and you can change this at any time in Settings > Privacy & Security.
+- **Read-Aloud:** You can have your conversation partner's replies read aloud using the free voices that come with iOS. The speech is generated **on your device**, and message text is not sent anywhere. If a voice is not installed yet, Razmova shows you how to download it in your iPhone's settings; iOS handles the download, and it does not involve your conversations.
 
 ---
 
@@ -102,6 +104,6 @@ We respond to all privacy inquiries within a reasonable timeframe.
 - Full compliance with Apple App Store and global privacy standards
 
 ---
-Last updated: June 19, 2026
+Last updated: September 14, 2026
 
 
