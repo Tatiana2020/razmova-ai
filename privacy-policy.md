@@ -4,6 +4,9 @@ title: Razmova - Privacy Policy
 description: No personal data collection or sharing. On-device AI computation only. Local user control over data storage and deletion. No analytics or advertising integrations. Full compliance with Apple App Store and global privacy standards
 permalink: /privacy-policy
 ---
+
+{% include language-switcher.html path="privacy-policy" %}
+
 ## Introduction
 
 This Privacy Policy describes how **Tarnovski Consulting** ("we," "our," or "us") collects, uses, and protects user information in connection with the **Razmova** mobile application ("the App").  

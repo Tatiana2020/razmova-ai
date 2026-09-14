@@ -1,7 +1,9 @@
+{%- assign suffix = '' -%}
+{%- if include.path -%}{%- assign suffix = include.path | prepend: '/' -%}{%- endif -%}
 <nav class="lang-switcher">
-  <a href="/" class="{% if page.lang == null or page.lang == '' %}active{% endif %}">English</a>
-  <a href="/es" class="{% if page.lang == 'es-MX' %}active{% endif %}">Español</a>
-  <a href="/fr" class="{% if page.lang == 'fr-CA' %}active{% endif %}">Français</a>
-  <a href="/ru" class="{% if page.lang == 'ru-RU' %}active{% endif %}">Русский</a>
-  <a href="/uk" class="{% if page.lang == 'uk-UA' %}active{% endif %}">Українська</a>
+  <a href="{{ suffix | default: '/' }}" class="{% if page.lang == null or page.lang == '' %}active{% endif %}">English</a>
+  <a href="/es{{ suffix }}" class="{% if page.lang == 'es-MX' %}active{% endif %}">Español</a>
+  <a href="/fr{{ suffix }}" class="{% if page.lang == 'fr-CA' %}active{% endif %}">Français</a>
+  <a href="/ru{{ suffix }}" class="{% if page.lang == 'ru-RU' %}active{% endif %}">Русский</a>
+  <a href="/uk{{ suffix }}" class="{% if page.lang == 'uk-UA' %}active{% endif %}">Українська</a>
 </nav>

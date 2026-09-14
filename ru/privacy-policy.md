@@ -6,6 +6,8 @@ permalink: /ru/privacy-policy
 lang: ru-RU
 ---
 
+{% include language-switcher.html path="privacy-policy" %}
+
 ## Введение
 
 Настоящая Политика конфиденциальности описывает, как **Tarnovski Consulting** («мы», «наш» или «нас») собирает, использует и защищает информацию пользователей в связи с мобильным приложением **Razmova** («Приложение»).  
