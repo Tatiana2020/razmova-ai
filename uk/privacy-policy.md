@@ -6,6 +6,8 @@ permalink: /uk/privacy-policy
 lang: uk-UA
 ---
 
+{% include language-switcher.html path="privacy-policy" %}
+
 ## Вступ
 
 Ця Політика конфіденційності описує, як **Tarnovski Consulting** («ми», «наш» або «нас») збирає, використовує та захищає інформацію користувачів у зв’язку з мобільним додатком **Razmova** («Додаток»).  

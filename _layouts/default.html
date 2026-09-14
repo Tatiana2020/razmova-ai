@@ -16,12 +16,17 @@
 </head>
 <body>
 
+  {%- assign lang_key = page.lang | default: 'en' -%}
+  {%- assign home_url = '/' -%}
+  {%- if page.lang -%}{%- assign home_url = page.lang | split: '-' | first | prepend: '/' -%}{%- endif %}
   <header class="site-header">
-    <img src="{{ '/images/razmova.png' | relative_url }}" alt="{{ site.title }} app icon">
-    <div class="site-header-text">
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}</p>
-    </div>
+    <a class="site-home" href="{{ home_url }}" aria-label="{{ site.title }}">
+      <img src="{{ '/images/razmova.png' | relative_url }}" alt="">
+      <div class="site-header-text">
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.data.taglines[lang_key] | default: site.description }}</p>
+      </div>
+    </a>
   </header>
 
   <main>

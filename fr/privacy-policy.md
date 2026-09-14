@@ -6,6 +6,8 @@ permalink: /fr/privacy-policy
 lang: fr-CA
 ---
 
+{% include language-switcher.html path="privacy-policy" %}
+
 ## Introduction
 
 Cette politique de confidentialité décrit comment **Tarnovski Consulting** (« nous », « notre » ou « nos ») collecte, utilise et protège les informations des utilisateurs en lien avec l’application mobile **Razmova** (« l’App »).  
