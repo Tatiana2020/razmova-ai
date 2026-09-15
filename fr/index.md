@@ -21,15 +21,22 @@ Devenez un communicateur plus confiant avec Razmova — votre compagnon IA local
 - **Votre choix d’IA sur l’appareil :** Utilisez le modèle intégré ou optez pour Apple Intelligence — dans les deux cas, tout reste sur votre appareil.
 
 <div class="screenshots">
-  <div class="screenshot">
-    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
-  </div>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-1-english-read-aloud.webp' | relative_url }}" width="720" height="1560" alt="Conversation d’anglais pour débutants avec Razmova, qui lit une réponse à voix haute en surlignant chaque mot prononcé" />
+    <figcaption>Écoutez chaque réponse lue à voix haute et suivez-la mot à mot, à vitesse normale ou ralentie</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-2-spanish-translate.webp' | relative_url }}" width="720" height="1560" alt="Conversation d’espagnol pour débutants avec Sofía, avec le menu ouvert pour copier ou traduire sa réponse" />
+    <figcaption>Traduisez n’importe quel message</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Conversation de français pour débutants avec Romy, avec la saisie vocale qui écrit une réponse dictée en français" />
+    <figcaption>Parlez au lieu de taper (iOS 26)</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Liste des partenaires IA avec Emma, Gabriel et Javier et leur niveau" />
+    <figcaption>Choisissez parmi sept partenaires de conversation</figcaption>
+  </figure>
 </div>
 
 ## Conçu pour une confiance réelle

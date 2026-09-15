@@ -21,15 +21,22 @@ lang: uk-UA
 - **ШІ на пристрої на ваш вибір:** Використовуйте вбудовану модель або оберіть Apple Intelligence — у будь-якому разі всі дані залишаються на вашому пристрої.
 
 <div class="screenshots">
-  <div class="screenshot">
-    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
-  </div>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-1-english-read-aloud.webp' | relative_url }}" width="720" height="1560" alt="Чат англійською для початківців із Razmova: відповідь читається вголос, а слово, що звучить, виділено" />
+    <figcaption>Слухайте кожну відповідь уголос і стежте за текстом слово за словом, у звичайному чи сповільненому темпі</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-2-spanish-translate.webp' | relative_url }}" width="720" height="1560" alt="Чат іспанською для початківців із Sofía: відкрито меню, щоб скопіювати або перекласти її відповідь" />
+    <figcaption>Перекладайте будь-яке повідомлення</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Чат французькою для початківців із Romy: голосове введення записує продиктовану відповідь французькою" />
+    <figcaption>Говоріть замість того, щоб друкувати (iOS 26)</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ШІ-співрозмовників: Emma, Gabriel і Javier із зазначенням рівня" />
+    <figcaption>Обирайте з-поміж семи співрозмовників</figcaption>
+  </figure>
 </div>
 
 ## Створено для впевненості у реальному житті
