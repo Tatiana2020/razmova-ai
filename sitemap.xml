@@ -32,7 +32,247 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://razmova.ca/es</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk" />
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/fr</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk" />
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/ru</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk" />
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/uk</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk" />
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://razmova.ca/privacy-policy</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk/privacy-policy" />
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/es/privacy-policy</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk/privacy-policy" />
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/fr/privacy-policy</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk/privacy-policy" />
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/ru/privacy-policy</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://razmova.ca/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://razmova.ca/fr/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://razmova.ca/es/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://razmova.ca/ru/privacy-policy" />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk"
+      href="https://razmova.ca/uk/privacy-policy" />
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://razmova.ca/uk/privacy-policy</loc>
     <xhtml:link
       rel="alternate"
       hreflang="x-default"
