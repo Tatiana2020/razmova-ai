@@ -8,7 +8,7 @@ lang: uk-UA
 
 {% include language-switcher.html %}
 
- <a href="https://apps.apple.com/us/app/razmova/id6753091541?itscg=30200&itsct=apps_box_badge&mttnsubad=6753091541" class="app-store-badge">
+ <a href="https://apps.apple.com/app/apple-store/id6753091541?pt=128154174&ct=RazmovaWebsite&mt=8" class="app-store-badge">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/uk-ua?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
