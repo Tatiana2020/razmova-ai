@@ -21,15 +21,22 @@ Become a more confident communicator with Razmova — your private local AI comp
 - **Your choice of on-device AI:** Run the built-in model or opt in to Apple Intelligence — either way, everything stays on your device.
 
 <div class="screenshots">
-  <div class="screenshot">
-    <img src="images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
-  </div>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-1-english-read-aloud.webp' | relative_url }}" width="720" height="1560" alt="Beginner English chat with Razmova, reading a reply aloud and highlighting each word as it is spoken" />
+    <figcaption>Hear every reply read aloud and follow along word by word, at normal or slow speed</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-2-spanish-translate.webp' | relative_url }}" width="720" height="1560" alt="Beginner Spanish chat with Sofía, with the menu open to copy or translate her reply" />
+    <figcaption>Translate any message</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Beginner French chat with Romy, with voice input typing a spoken reply in French" />
+    <figcaption>Speak instead of typing (iOS 26)</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="List of AI partners showing Emma, Gabriel and Javier with their levels" />
+    <figcaption>Choose from seven conversation partners</figcaption>
+  </figure>
 </div>
 
 ## Built for Real-World Confidence

@@ -21,15 +21,22 @@ Conviértete en un comunicador más seguro con Razmova, tu compañero privado y 
 - **IA en el dispositivo a tu elección:** Usa el modelo integrado u opta por Apple Intelligence; en ambos casos, todo permanece en tu dispositivo.
 
 <div class="screenshots">
-  <div class="screenshot">
-    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
-  </div>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-1-english-read-aloud.webp' | relative_url }}" width="720" height="1560" alt="Chat de inglés para principiantes con Razmova, que lee una respuesta en voz alta y resalta cada palabra al pronunciarla" />
+    <figcaption>Escucha cada respuesta en voz alta y síguela palabra por palabra, a velocidad normal o lenta</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-2-spanish-translate.webp' | relative_url }}" width="720" height="1560" alt="Chat de español para principiantes con Sofía, con el menú abierto para copiar o traducir su respuesta" />
+    <figcaption>Traduce cualquier mensaje</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Chat de francés para principiantes con Romy, con la entrada de voz escribiendo una respuesta dictada en francés" />
+    <figcaption>Habla en lugar de escribir (iOS 26)</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Lista de compañeros de IA con Emma, Gabriel y Javier y sus niveles" />
+    <figcaption>Elige entre siete compañeros de conversación</figcaption>
+  </figure>
 </div>
 
 ## Creado para una confianza del mundo real

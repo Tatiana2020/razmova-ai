@@ -21,15 +21,22 @@ lang: ru-RU
 - **ИИ на устройстве на ваш выбор:** Используйте встроенную модель или выберите Apple Intelligence — в любом случае все данные остаются на вашем устройстве.
 
 <div class="screenshots">
-  <div class="screenshot">
-    <img src="../images/ChatE.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/ChatJ.webp" alt="Screenshot 1 of an interactive offline chat session practicing conversational English" />
-  </div>
-  <div class="screenshot">
-    <img src="../images/Chats.webp" alt="Screenshot 3 of an interactive offline chat session practicing conversational English" />
-  </div>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-1-english-read-aloud.webp' | relative_url }}" width="720" height="1560" alt="Чат на английском для начинающих с Razmova: ответ читается вслух, а произносимое слово выделено" />
+    <figcaption>Слушайте каждый ответ вслух и следите за текстом слово за словом, в обычном или замедленном темпе</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-2-spanish-translate.webp' | relative_url }}" width="720" height="1560" alt="Чат на испанском для начинающих с Sofía: открыто меню, чтобы скопировать или перевести её ответ" />
+    <figcaption>Переводите любое сообщение</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Чат на французском для начинающих с Romy: голосовой ввод записывает продиктованный ответ на французском" />
+    <figcaption>Говорите вместо того, чтобы печатать (iOS 26)</figcaption>
+  </figure>
+  <figure class="screenshot">
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ИИ-собеседников: Emma, Gabriel и Javier с указанием уровня" />
+    <figcaption>Выбирайте из семи собеседников</figcaption>
+  </figure>
 </div>
 
 ## Создано для уверенности в реальной жизни
