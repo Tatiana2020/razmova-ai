@@ -61,6 +61,8 @@ On devices that support Apple Intelligence, you can switch to it (beta) in Razmo
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
+{% include faq.html %}
+
 ---
 
 ## Contact Information

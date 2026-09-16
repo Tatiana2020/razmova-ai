@@ -61,6 +61,8 @@ Razmova требуется iPhone или iPad с iOS 18.6 или новее и �
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
+{% include faq.html %}
+
 ---
 
 ## Контактная информация
