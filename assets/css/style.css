@@ -183,6 +183,12 @@ code {
   vertical-align: middle;
 }
 
+.app-version {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin: 0.1rem 0 0;
+}
+
 /* Screenshot carousel */
 .screenshots {
   display: flex;

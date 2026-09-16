@@ -35,7 +35,7 @@ Razmova **no** recopila, transmite ni almacena información personal de los usua
 Razmova utiliza inteligencia artificial en el dispositivo para ayudar a los usuarios a aprender idiomas y comunicarse.
 
 - **Procesamiento local:** Todos los cálculos de IA se realizan **completamente en el dispositivo**. De forma predeterminada, Razmova usa el modelo **Llama‑3.2‑3B‑Instruct‑4bit**.  
-- **Apple Intelligence:** En dispositivos compatibles, puede optar por usar Apple Intelligence —el modelo base en el dispositivo de Apple— como motor alternativo. Cuando está activado, todo el procesamiento de IA sigue ejecutándose **completamente en su dispositivo**. Esta opción **no** utiliza Private Cloud Compute de Apple y nunca transmite sus entradas, el contenido de los chats ni los resultados a Apple ni a terceros. La función está en Beta y permanece desactivada a menos que la active.
+- **Apple Intelligence:** En dispositivos compatibles, puede optar por usar Apple Intelligence, el modelo base en el dispositivo de Apple, como motor alternativo. Cuando está activado, todo el procesamiento de IA sigue ejecutándose **completamente en su dispositivo**. Esta opción **no** utiliza Private Cloud Compute de Apple y nunca transmite sus entradas, el contenido de los chats ni los resultados a Apple ni a terceros. La función está en Beta y permanece desactivada a menos que la active.
 - **Sin inferencia remota:** La App no envía las entradas del usuario, el contenido de los chats o resultados a servidores externos o proveedores de IA terceros.  
 - **Confidencialidad de datos:** Ninguna organización externa tiene acceso al contenido generado por los usuarios.
 - **Traducción nativa del sistema:** La App le permite traducir mensajes de chat utilizando el entorno de traducción nativo de Apple. Razmova no transmite, monitorea ni procesa este texto. El procesamiento se realiza completamente a través del sistema operativo iOS. Para garantizar que esta traducción se realice 100% sin conexión, debe descargar sus pares de idiomas de preferencia en la configuración del sistema de su iPhone (Configuración > Apps > Traducir). Si no están descargados, Apple podría procesar el texto de forma remota en sus servidores, de acuerdo con la política de privacidad de Apple.
@@ -77,7 +77,7 @@ Las funciones de seguridad del sistema operativo Apple (incluido el cifrado del 
 
 ## 7. Derechos de los usuarios
 
-Como Razmova no recopila ni almacena información personal, los derechos de los usuarios bajo las regulaciones vigentes (como acceso, corrección o portabilidad de datos) se aplican de forma inherente — no existen datos identificables en sistemas remotos.  
+Como Razmova no recopila ni almacena información personal, los derechos de los usuarios bajo las regulaciones vigentes (como acceso, corrección o portabilidad de datos) se aplican de forma inherente, ya que no existen datos identificables en sistemas remotos.  
 Los usuarios pueden borrar todas las conversaciones en la App en cualquier momento.
 
 ---
