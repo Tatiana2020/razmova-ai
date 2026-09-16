@@ -1,0 +1,539 @@
+en:
+  heading: "Questions and Answers"
+  items:
+    - q: "Is Razmova free?"
+      a: >-
+        Yes. No subscription, no in-app purchases, no ads and no account.
+        There is no paid tier and no plan to add one.
+    - q: "Why is Razmova free?"
+      a: >-
+        When I immigrated to Canada many years ago, I panicked every time I had
+        to communicate in English, even though I had studied it for years. Many
+        friends tell me they are still afraid to speak English after years of
+        living in Toronto. It is not about how much you study. It is about
+        confidence and practice.
+
+        That is why I wanted to build an app that would have helped me then, and
+        I am happy to share it with everyone for free.
+    - q: "Which iPhones and iPads does it work on?"
+      a: >-
+        Razmova needs 6 GB of memory or more, iOS or iPadOS 18.6 or later, and
+        about 2 GB of free space. That means iPhone 14 and every newer model,
+        plus iPhone 12 Pro, 12 Pro Max, 13 Pro and 13 Pro Max. On iPad it runs
+        on iPad Pro from 2020 onward, iPad Air with M1 or newer, iPad mini
+        (2024) and iPad (2025). It does not run on iPhone 13, 13 mini, 12,
+        12 mini, 11 or any iPhone SE, which have too little memory even though
+        they can run iOS 18.6. Razmova checks your device at first launch and
+        tells you before anything downloads.
+    - q: "What needs an internet connection?"
+      a: >-
+        Only the downloads: the AI model, the iOS voices for reading replies
+        aloud, and the language pairs for translation. Razmova downloads the
+        model over Wi-Fi, and if Wi-Fi is not available it asks whether to use
+        cellular data instead. The download pauses if you leave Wi-Fi. After
+        that, it works in airplane mode.
+    - q: "Which languages can I practice?"
+      a: >-
+        English, Spanish and French. The app itself is available in English,
+        Spanish, French, Russian and Ukrainian, and the two are separate
+        choices: you can practice English with the app in Ukrainian, or French
+        with the app in Russian.
+    - q: "Does Razmova correct my mistakes?"
+      a: >-
+        No, and that is on purpose. Razmova is a place to speak without someone
+        marking every sentence, because the fear of getting it wrong is what
+        stops many people from speaking at all. If you want grammar exercises
+        and corrections, use Razmova alongside a course or a teacher. This is
+        where you practice what you learn there.
+    - q: "Can I speak instead of typing, and can I hear the replies?"
+      a: >-
+        Both. Every partner reads replies aloud in a voice that suits them, at
+        normal or slow speed, from iOS 18.6 onward. For speaking, the microphone
+        button needs iOS 26 or later. On earlier versions you can still speak
+        your message using the dictation key on the iOS keyboard.
+    - q: "What happens to my conversations?"
+      a: >-
+        They stay on your device and you can delete any of them at any time.
+        Razmova has no account, no server and no analytics, so nothing is sent
+        anywhere to be stored. Like other app data, your conversations are
+        included in your iCloud backup if you use one, and you can exclude
+        Razmova in your iCloud Backup settings. The AI model itself is never
+        backed up.
+    - q: "How much storage does it need?"
+      a: >-
+        The app is about 25 MB. The AI model is about 2 GB and downloads once,
+        so keep about 2 GB free. You can remove the model in Settings to get
+        that space back, and download it again whenever you want. On devices
+        with Apple Intelligence you can remove it for good and keep practicing
+        with Apple’s built-in model.
+    - q: "Which AI model runs on my device?"
+      a: >-
+        Llama 3.2 3B, in a 4-bit version sized for phones. On devices with Apple
+        Intelligence you can switch to Apple’s built-in on-device model instead.
+        Razmova also uses that built-in model, where it is available, while the
+        download finishes, so you can start talking right away. Both run
+        entirely on your device.
+    - q: "How is this different from a cloud chatbot?"
+      a: >-
+        A cloud chatbot sends what you write to a company’s servers and usually
+        asks you to make an account. Razmova runs the AI on your phone, so your
+        conversations stay with you and it works with no signal. It is also
+        built for practice rather than answers: each partner keeps to one level,
+        opens the conversation with a greeting so you never start from a blank
+        page, and reads replies in the clear, steady voices built into iOS. They
+        sound less natural than a cloud voice and are much easier to follow
+        while you are still learning.
+    - q: "How is this different from a language course app?"
+      a: >-
+        A course teaches you: lessons, vocabulary, exercises. Razmova is where
+        you use what you learned, in open conversation about whatever you feel
+        like talking about. Most people who get on well with Razmova use both.
+    - q: "I am a complete beginner. Should I start here?"
+      a: >-
+        Razmova works best as practice, so if you are starting from zero, pair
+        it with something that teaches the basics. You can still use it early
+        on: the beginner partners keep to short sentences and an unhurried pace,
+        and you can translate any message you do not understand.
+    - q: "Is it suitable for teenagers?"
+      a: >-
+        The App Store rating is 13+. There are no ads, no accounts, nobody else
+        to talk to, and nothing leaving the device.
+    - q: "Is there an Android, Mac or web version?"
+      a: >-
+        No. Razmova is an iPhone and iPad app.
+
+es-MX:
+  heading: "Preguntas y respuestas"
+  items:
+    - q: "¿Razmova es gratis?"
+      a: >-
+        Sí. Sin suscripción, sin compras dentro de la app, sin anuncios y sin
+        cuenta. No hay una versión de pago ni planes de agregarla.
+    - q: "¿Por qué Razmova es gratis?"
+      a: >-
+        Cuando emigré a Canadá hace muchos años, me daba pánico cada vez que
+        tenía que comunicarme en inglés, aunque lo había estudiado durante años.
+        Muchos amigos me dicen que todavía les da miedo hablar inglés después de
+        años viviendo en Toronto. No se trata de cuánto estudias. Se trata de
+        confianza y práctica.
+
+        Por eso quise crear la app que me habría ayudado entonces, y me alegra
+        compartirla con todos de forma gratuita.
+    - q: "¿En qué iPhone y iPad funciona?"
+      a: >-
+        Razmova necesita 6 GB de memoria o más, iOS o iPadOS 18.6 o posterior, y
+        unos 2 GB de espacio libre. Eso incluye el iPhone 14 y todos los modelos
+        más nuevos, además del iPhone 12 Pro, 12 Pro Max, 13 Pro y 13 Pro Max.
+        En iPad funciona en el iPad Pro de 2020 en adelante, el iPad Air con M1
+        o más nuevo, el iPad mini (2024) y el iPad (2025). No funciona en el
+        iPhone 13, 13 mini, 12, 12 mini, 11 ni en ningún iPhone SE, que tienen
+        muy poca memoria aunque puedan ejecutar iOS 18.6. Razmova revisa tu
+        dispositivo la primera vez que la abres y te avisa antes de descargar
+        nada.
+    - q: "¿Qué necesita conexión a internet?"
+      a: >-
+        Solo las descargas: el modelo de IA, las voces de iOS para leer las
+        respuestas en voz alta y los pares de idiomas para la traducción.
+        Razmova descarga el modelo por Wi-Fi y, si no hay Wi-Fi disponible, te
+        pregunta si prefieres usar datos móviles. La descarga se pausa si sales
+        del Wi-Fi. Después de eso, funciona en modo avión.
+    - q: "¿Qué idiomas puedo practicar?"
+      a: >-
+        Inglés, español y francés. La app está disponible en inglés, español,
+        francés, ruso y ucraniano, y son dos opciones independientes: puedes
+        practicar inglés con la app en ucraniano, o francés con la app en ruso.
+    - q: "¿Razmova corrige mis errores?"
+      a: >-
+        No, y es a propósito. Razmova es un lugar para hablar sin que alguien
+        marque cada frase, porque el miedo a equivocarse es lo que impide hablar
+        a muchas personas. Si quieres ejercicios de gramática y correcciones,
+        usa Razmova junto con un curso o un maestro. Aquí practicas lo que
+        aprendes allá.
+    - q: "¿Puedo hablar en lugar de escribir? ¿Puedo escuchar las respuestas?"
+      a: >-
+        Ambas cosas. Cada compañero lee sus respuestas en voz alta con una voz
+        que le queda bien, a velocidad normal o lenta, desde iOS 18.6 en
+        adelante. Para hablar, el botón del micrófono necesita iOS 26 o
+        posterior. En versiones anteriores puedes dictar tu mensaje con la tecla
+        de dictado del teclado de iOS.
+    - q: "¿Qué pasa con mis conversaciones?"
+      a: >-
+        Se quedan en tu dispositivo y puedes borrar cualquiera de ellas cuando
+        quieras. Razmova no tiene cuenta, ni servidor, ni analíticas, así que no
+        se envía nada a ningún lado para guardarlo. Como los datos de cualquier
+        app, tus conversaciones se incluyen en tu respaldo de iCloud si usas
+        uno, y puedes excluir a Razmova en los ajustes de Respaldo en iCloud. El
+        modelo de IA nunca se respalda.
+    - q: "¿Cuánto espacio necesita?"
+      a: >-
+        La app ocupa unos 25 MB. El modelo de IA ocupa unos 2 GB y se descarga
+        una sola vez, así que deja unos 2 GB libres. Puedes eliminar el modelo
+        en los ajustes para recuperar ese espacio y volver a descargarlo cuando
+        quieras. En dispositivos con Apple Intelligence puedes eliminarlo de
+        forma definitiva y seguir practicando con el modelo integrado de Apple.
+    - q: "¿Qué modelo de IA funciona en mi dispositivo?"
+      a: >-
+        Llama 3.2 3B, en una versión de 4 bits pensada para teléfonos. En
+        dispositivos con Apple Intelligence puedes cambiar al modelo integrado
+        de Apple. Razmova también usa ese modelo integrado, donde está
+        disponible, mientras termina la descarga, para que puedas empezar a
+        conversar de inmediato. Ambos funcionan por completo en tu dispositivo.
+    - q: "¿En qué se diferencia de un chatbot en la nube?"
+      a: >-
+        Un chatbot en la nube envía lo que escribes a los servidores de una
+        empresa y casi siempre te pide crear una cuenta. Razmova ejecuta la IA
+        en tu teléfono, así que tus conversaciones se quedan contigo y funciona
+        sin señal. También está hecha para practicar más que para dar
+        respuestas: cada compañero se mantiene en un nivel, abre la conversación
+        con un saludo para que nunca empieces frente a una página en blanco, y
+        lee las respuestas con las voces claras y estables de iOS. Suenan menos
+        naturales que una voz en la nube y son mucho más fáciles de seguir
+        mientras estás aprendiendo.
+    - q: "¿En qué se diferencia de una app de cursos de idiomas?"
+      a: >-
+        Un curso te enseña: lecciones, vocabulario, ejercicios. En Razmova usas
+        lo que aprendiste, en una conversación abierta sobre lo que tengas ganas
+        de hablar. La mayoría de quienes disfrutan Razmova usan las dos cosas.
+    - q: "Soy principiante total. ¿Debería empezar aquí?"
+      a: >-
+        Razmova funciona mejor como práctica, así que si empiezas desde cero,
+        combínala con algo que te enseñe lo básico. Aun así puedes usarla desde
+        temprano: los compañeros para principiantes usan frases cortas y un
+        ritmo pausado, y puedes traducir cualquier mensaje que no entiendas.
+    - q: "¿Es apropiada para adolescentes?"
+      a: >-
+        La clasificación en la App Store es 13+. No hay anuncios, ni cuentas, ni
+        otras personas con quienes hablar, y nada sale del dispositivo.
+    - q: "¿Hay versión para Android, Mac o web?"
+      a: >-
+        No. Razmova funciona solo en iPhone y iPad.
+
+fr-CA:
+  heading: "Questions et réponses"
+  items:
+    - q: "Razmova est-elle gratuite ?"
+      a: >-
+        Oui. Aucun abonnement, aucun achat intégré, aucune publicité et aucun
+        compte. Il n’y a pas de version payante et aucun projet d’en ajouter
+        une.
+    - q: "Pourquoi Razmova est-elle gratuite ?"
+      a: >-
+        Quand j’ai immigré au Canada il y a de nombreuses années, je paniquais
+        chaque fois que je devais communiquer en anglais, même si je l’avais
+        étudié pendant des années. Beaucoup de mes amis me disent qu’ils ont
+        encore peur de parler anglais après des années passées à Toronto. Ce
+        n’est pas une question de temps d’étude. C’est une question de confiance
+        et de pratique.
+
+        C’est pourquoi j’ai voulu créer l’application qui m’aurait aidée à
+        l’époque, et je suis heureuse de la partager gratuitement avec tout le
+        monde.
+    - q: "Sur quels iPhone et iPad fonctionne-t-elle ?"
+      a: >-
+        Razmova a besoin de 6 Go de mémoire ou plus, d’iOS ou iPadOS 18.6 ou
+        version ultérieure, et d’environ 2 Go d’espace libre. Cela comprend
+        l’iPhone 14 et tous les modèles plus récents, ainsi que l’iPhone 12 Pro,
+        12 Pro Max, 13 Pro et 13 Pro Max. Sur iPad, elle fonctionne sur l’iPad
+        Pro à partir de 2020, l’iPad Air avec M1 ou plus récent, l’iPad mini
+        (2024) et l’iPad (2025). Elle ne fonctionne pas sur l’iPhone 13, 13
+        mini, 12, 12 mini, 11 ni sur aucun iPhone SE, qui n’ont pas assez de
+        mémoire même s’ils peuvent exécuter iOS 18.6. Razmova vérifie votre
+        appareil au premier lancement et vous prévient avant tout
+        téléchargement.
+    - q: "Qu’est-ce qui nécessite une connexion Internet ?"
+      a: >-
+        Seulement les téléchargements : le modèle d’IA, les voix iOS qui lisent
+        les réponses à voix haute et les paires de langues pour la traduction.
+        Razmova télécharge le modèle par Wi-Fi et, si le Wi-Fi n’est pas
+        disponible, vous demande si vous voulez utiliser les données
+        cellulaires. Le téléchargement se met en pause si vous quittez le Wi-Fi.
+        Ensuite, elle fonctionne en mode avion.
+    - q: "Quelles langues puis-je pratiquer ?"
+      a: >-
+        L’anglais, l’espagnol et le français. L’application elle-même est
+        offerte en anglais, espagnol, français, russe et ukrainien, et ce sont
+        deux choix distincts : vous pouvez pratiquer l’anglais avec
+        l’application en ukrainien, ou le français avec l’application en russe.
+    - q: "Est-ce que Razmova corrige mes erreurs ?"
+      a: >-
+        Non, et c’est voulu. Razmova est un endroit où parler sans que quelqu’un
+        corrige chaque phrase, parce que la peur de se tromper est ce qui
+        empêche beaucoup de gens de parler. Si vous voulez des exercices de
+        grammaire et des corrections, utilisez Razmova en complément d’un cours
+        ou d’un professeur. Ici, vous pratiquez ce que vous apprenez ailleurs.
+    - q: "Puis-je parler au lieu d’écrire, et entendre les réponses ?"
+      a: >-
+        Les deux. Chaque partenaire lit ses réponses à voix haute, avec une voix
+        qui lui convient, à vitesse normale ou ralentie, à partir d’iOS 18.6.
+        Pour parler, le bouton du micro nécessite iOS 26 ou une version
+        ultérieure. Sur les versions antérieures, vous pouvez dicter votre
+        message avec la touche de dictée du clavier iOS.
+    - q: "Qu’arrive-t-il à mes conversations ?"
+      a: >-
+        Elles restent sur votre appareil et vous pouvez en supprimer n’importe
+        laquelle à tout moment. Razmova n’a ni compte, ni serveur, ni outils
+        d’analyse : rien n’est envoyé ailleurs pour être conservé. Comme les
+        données de toute application, vos conversations sont incluses dans votre
+        sauvegarde iCloud si vous en utilisez une, et vous pouvez exclure
+        Razmova dans les réglages de la sauvegarde iCloud. Le modèle d’IA, lui,
+        n’est jamais sauvegardé.
+    - q: "De combien d’espace a-t-elle besoin ?"
+      a: >-
+        L’application occupe environ 25 Mo. Le modèle d’IA occupe environ 2 Go
+        et se télécharge une seule fois, alors gardez environ 2 Go de libre.
+        Vous pouvez supprimer le modèle dans les réglages pour récupérer cet
+        espace, puis le télécharger de nouveau quand vous voulez. Sur les
+        appareils avec Apple Intelligence, vous pouvez le supprimer
+        définitivement et continuer à pratiquer avec le modèle intégré d’Apple.
+    - q: "Quel modèle d’IA fonctionne sur mon appareil ?"
+      a: >-
+        Llama 3.2 3B, dans une version 4 bits conçue pour les téléphones. Sur
+        les appareils avec Apple Intelligence, vous pouvez plutôt utiliser le
+        modèle intégré d’Apple. Razmova utilise aussi ce modèle intégré, là où
+        il est disponible, pendant que le téléchargement se termine, pour que
+        vous puissiez commencer à discuter tout de suite. Les deux fonctionnent
+        entièrement sur votre appareil.
+    - q: "En quoi est-ce différent d’une IA conversationnelle en ligne ?"
+      a: >-
+        Une IA en ligne envoie ce que vous écrivez vers les serveurs d’une
+        entreprise et vous demande presque toujours de créer un compte. Razmova
+        exécute l’IA sur votre téléphone : vos conversations restent avec vous
+        et tout fonctionne sans réseau. Elle est aussi conçue pour la pratique
+        plutôt que pour les réponses : chaque partenaire garde un seul niveau,
+        ouvre la conversation par une salutation pour que vous ne partiez jamais
+        d’une page blanche, et lit les réponses avec les voix claires et posées
+        d’iOS. Elles sonnent moins naturelles qu’une voix en ligne et sont
+        beaucoup plus faciles à suivre quand on apprend encore.
+    - q: "En quoi est-ce différent d’une application de cours de langue ?"
+      a: >-
+        Un cours vous enseigne : leçons, vocabulaire, exercices. Dans Razmova,
+        vous utilisez ce que vous avez appris, dans une conversation ouverte sur
+        ce dont vous avez envie de parler. La plupart des gens qui aiment
+        Razmova utilisent les deux.
+    - q: "Je suis débutant complet. Est-ce que je devrais commencer ici ?"
+      a: >-
+        Razmova sert surtout à pratiquer : si vous partez de zéro, utilisez-la
+        avec quelque chose qui enseigne les bases. Vous pouvez quand même
+        commencer tôt : les partenaires pour débutants s’en tiennent à des
+        phrases courtes et à un rythme tranquille, et vous pouvez traduire tout
+        message que vous ne comprenez pas.
+    - q: "Est-ce adapté aux adolescents ?"
+      a: >-
+        La classification de l’App Store est 13+. Il n’y a pas de publicité, pas
+        de compte, personne d’autre à qui parler, et rien ne quitte l’appareil.
+    - q: "Existe-t-il une version Android, Mac ou Web ?"
+      a: >-
+        Non. Razmova fonctionne uniquement sur iPhone et iPad.
+
+ru-RU:
+  heading: "Вопросы и ответы"
+  items:
+    - q: "Razmova бесплатна?"
+      a: >-
+        Да. Без подписки, без покупок внутри приложения, без рекламы и без
+        аккаунта. Платной версии нет, и добавлять её не планируется.
+    - q: "Почему Razmova бесплатна?"
+      a: >-
+        Когда я переехала в Канаду много лет назад, я паниковала каждый раз,
+        когда нужно было говорить по-английски, хотя до этого я учила его
+        годами. Многие мои друзья говорят, что до сих пор боятся говорить
+        по-английски, прожив в Торонто много лет. Дело не в том, как долго вы
+        учите язык. Дело в уверенности и практике.
+
+        Поэтому я захотела создать приложение, которое помогло бы мне тогда, и
+        рада со всеми бесплатно им поделиться.
+    - q: "На каких iPhone и iPad работает приложение?"
+      a: >-
+        Razmova нужно 6 ГБ оперативной памяти или больше, iOS или iPadOS 18.6
+        либо новее и около 2 ГБ свободного места. Это iPhone 14 и все более
+        новые модели, а также iPhone 12 Pro, 12 Pro Max, 13 Pro и 13 Pro Max. На
+        iPad приложение работает на iPad Pro с 2020 года, iPad Air с M1 или
+        новее, iPad mini (2024) и iPad (2025). Оно не работает на iPhone 13, 13
+        mini, 12, 12 mini, 11 и ни на одном iPhone SE: памяти в них слишком
+        мало, даже если на них можно установить iOS 18.6. Razmova проверяет
+        устройство при первом запуске и предупреждает до того, как что-то начнёт
+        загружаться.
+    - q: "Что требует подключения к интернету?"
+      a: >-
+        Только загрузки: модель ИИ, голоса iOS для чтения ответов вслух и
+        языковые пары для перевода. Razmova загружает модель через Wi-Fi, а если
+        Wi-Fi недоступен, спрашивает, использовать ли мобильный интернет.
+        Загрузка ставится на паузу, если Wi-Fi пропал. После этого приложение
+        работает без интернета.
+    - q: "Какие языки можно практиковать?"
+      a: >-
+        Английский, испанский и французский. Само приложение доступно на
+        английском, испанском, французском, русском и украинском, и это два
+        независимых выбора: можно практиковать английский с интерфейсом на
+        украинском или французский с интерфейсом на русском.
+    - q: "Исправляет ли Razmova мои ошибки?"
+      a: >-
+        Нет, и это сделано намеренно. Razmova нужна для того, чтобы говорить,
+        когда никто не правит каждую фразу: именно страх ошибиться мешает многим
+        начать говорить. Если вам нужны упражнения по грамматике и исправления,
+        используйте Razmova вместе с курсом или преподавателем. Здесь вы
+        практикуете то, что выучили там.
+    - q: "Можно ли говорить вместо того, чтобы печатать, и слышать ответы?"
+      a: >-
+        И то, и другое. Каждый собеседник читает ответы вслух своим голосом, в
+        обычном или замедленном темпе, начиная с iOS 18.6. Для голосового ввода
+        кнопке микрофона нужна iOS 26 или новее. На более ранних версиях можно
+        надиктовать сообщение клавишей диктовки на клавиатуре iOS.
+    - q: "Что происходит с моими разговорами?"
+      a: >-
+        Они остаются на вашем устройстве, и вы можете удалить любой из них в
+        любой момент. У Razmova нет аккаунта, сервера и аналитики, поэтому
+        никуда ничего не отправляется на хранение. Как и данные других
+        приложений, ваши разговоры попадают в резервную копию iCloud, если вы ею
+        пользуетесь, и Razmova можно исключить в настройках резервного
+        копирования iCloud. Сама модель ИИ в копию не попадает.
+    - q: "Сколько места нужно приложению?"
+      a: >-
+        Приложение занимает около 25 МБ. Модель ИИ занимает около 2 ГБ и
+        загружается один раз, так что оставьте около 2 ГБ свободного места.
+        Модель можно удалить в настройках, чтобы вернуть это место, и загрузить
+        снова когда угодно. На устройствах с Apple Intelligence её можно удалить
+        насовсем и продолжать практиковаться со встроенной моделью Apple.
+    - q: "Какая модель ИИ работает на моём устройстве?"
+      a: >-
+        Llama 3.2 3B в 4-битной версии, рассчитанной на телефоны. На устройствах
+        с Apple Intelligence можно переключиться на встроенную модель Apple.
+        Razmova также использует встроенную модель там, где она доступна, пока
+        идёт загрузка, чтобы вы могли начать разговор сразу. Обе работают
+        полностью на вашем устройстве.
+    - q: "Чем это отличается от облачного чат-бота?"
+      a: >-
+        Облачный чат-бот отправляет написанное вами на серверы компании и почти
+        всегда просит создать аккаунт. Razmova запускает ИИ на вашем телефоне,
+        поэтому разговоры остаются у вас, и всё работает без связи. Приложение
+        сделано для практики, а не для ответов: каждый собеседник держится
+        одного уровня, начинает разговор с приветствия, чтобы вы не начинали с
+        чистого листа, и читает ответы понятными ровными голосами iOS. Они
+        звучат менее естественно, чем облачный голос, и их гораздо легче
+        понимать, пока вы учитесь.
+    - q: "Чем это отличается от приложения с языковыми курсами?"
+      a: >-
+        Курс учит: уроки, слова, упражнения. В Razmova вы применяете выученное,
+        в свободном разговоре о том, о чём хочется поговорить. Большинству тех,
+        кому нравится Razmova, подходит сочетание того и другого.
+    - q: "Я совсем начинающий. Стоит ли начинать здесь?"
+      a: >-
+        Razmova лучше всего подходит для практики, поэтому, если вы начинаете с
+        нуля, сочетайте её с чем-то, что учит основам. Начать можно и раньше:
+        собеседники для начинающих говорят короткими фразами и не торопятся, а
+        любое сообщение можно перевести.
+    - q: "Подходит ли приложение подросткам?"
+      a: >-
+        Возрастной рейтинг в App Store 13+. Здесь нет рекламы, нет аккаунтов,
+        нет других пользователей, с которыми можно переписываться, и ничего не
+        покидает устройство.
+    - q: "Есть ли версия для Android, Mac или веб-версия?"
+      a: >-
+        Нет. Razmova работает только на iPhone и iPad.
+
+uk-UA:
+  heading: "Запитання та відповіді"
+  items:
+    - q: "Чи Razmova безкоштовна?"
+      a: >-
+        Так. Без підписки, без покупок у застосунку, без реклами та без
+        облікового запису. Платної версії немає, і додавати її не планується.
+    - q: "Чому Razmova безкоштовна?"
+      a: >-
+        Коли я переїхала до Канади багато років тому, я панікувала щоразу, коли
+        треба було говорити англійською, хоча до того вчила її роками. Багато
+        моїх друзів кажуть, що досі бояться говорити англійською, проживши в
+        Торонто багато років. Річ не в тому, як довго ви вчите мову. Річ в
+        упевненості та практиці.
+
+        Саме тому я захотіла створити застосунок, який допоміг би мені тоді, і
+        рада безкоштовно поділитися ним з усіма.
+    - q: "На яких iPhone та iPad він працює?"
+      a: >-
+        Razmova потрібно 6 ГБ оперативної пам’яті або більше, iOS чи iPadOS 18.6
+        або новіша та близько 2 ГБ вільного місця. Це iPhone 14 і всі новіші
+        моделі, а також iPhone 12 Pro, 12 Pro Max, 13 Pro і 13 Pro Max. На iPad
+        застосунок працює на iPad Pro від 2020 року, iPad Air з M1 або новішим,
+        iPad mini (2024) та iPad (2025). Він не працює на iPhone 13, 13 mini,
+        12, 12 mini, 11 і на жодному iPhone SE: пам’яті в них замало, навіть
+        якщо на них можна встановити iOS 18.6. Razmova перевіряє пристрій під
+        час першого запуску і попереджає ще до того, як щось почне
+        завантажуватися.
+    - q: "Що потребує підключення до інтернету?"
+      a: >-
+        Лише завантаження: модель ШІ, голоси iOS для читання відповідей уголос і
+        мовні пари для перекладу. Razmova завантажує модель через Wi-Fi, а якщо
+        Wi-Fi недоступний, запитує, чи використати мобільний інтернет.
+        Завантаження стає на паузу, якщо Wi-Fi зник. Після цього застосунок
+        працює без інтернету.
+    - q: "Які мови можна практикувати?"
+      a: >-
+        Англійську, іспанську та французьку. Сам застосунок доступний
+        англійською, іспанською, французькою, російською та українською, і це
+        два незалежні вибори: можна практикувати англійську з інтерфейсом
+        українською або французьку з інтерфейсом російською.
+    - q: "Чи виправляє Razmova мої помилки?"
+      a: >-
+        Ні, і це зроблено свідомо. Razmova потрібна, щоб говорити, коли ніхто не
+        виправляє кожну фразу: саме страх помилитися заважає багатьом почати
+        говорити. Якщо вам потрібні вправи з граматики та виправлення,
+        користуйтеся Razmova разом із курсом або викладачем. Тут ви практикуєте
+        те, що вивчили там.
+    - q: "Чи можна говорити замість того, щоб писати, і чути відповіді?"
+      a: >-
+        І те, і інше. Кожен співрозмовник читає відповіді вголос власним
+        голосом, у звичайному або сповільненому темпі, починаючи з iOS 18.6. Для
+        голосового введення кнопці мікрофона потрібна iOS 26 або новіша. На
+        попередніх версіях можна надиктувати повідомлення клавішею диктування на
+        клавіатурі iOS.
+    - q: "Що відбувається з моїми розмовами?"
+      a: >-
+        Вони залишаються на вашому пристрої, і ви можете видалити будь-яку з них
+        будь-коли. У Razmova немає облікового запису, сервера та аналітики, тож
+        нічого нікуди не надсилається на зберігання. Як і дані інших
+        застосунків, ваші розмови потрапляють до резервної копії iCloud, якщо ви
+        нею користуєтеся, і Razmova можна виключити в налаштуваннях резервного
+        копіювання iCloud. Сама модель ШІ до копії не потрапляє.
+    - q: "Скільки місця потрібно застосунку?"
+      a: >-
+        Застосунок займає близько 25 МБ. Модель ШІ займає близько 2 ГБ і
+        завантажується один раз, тож залиште близько 2 ГБ вільного місця. Модель
+        можна видалити в налаштуваннях, щоб повернути це місце, і завантажити
+        знову будь-коли. На пристроях з Apple Intelligence її можна видалити
+        назавжди і продовжувати практикуватися із вбудованою моделлю Apple.
+    - q: "Яка модель ШІ працює на моєму пристрої?"
+      a: >-
+        Llama 3.2 3B у 4-бітній версії, розрахованій на телефони. На пристроях з
+        Apple Intelligence можна перемкнутися на вбудовану модель Apple. Razmova
+        також використовує вбудовану модель там, де вона доступна, поки триває
+        завантаження, щоб ви могли почати розмову одразу. Обидві працюють
+        повністю на вашому пристрої.
+    - q: "Чим це відрізняється від хмарного чат-бота?"
+      a: >-
+        Хмарний чат-бот надсилає написане вами на сервери компанії і майже
+        завжди просить створити обліковий запис. Razmova запускає ШІ на вашому
+        телефоні, тому розмови залишаються у вас, і все працює без зв’язку.
+        Застосунок створено для практики, а не для відповідей: кожен
+        співрозмовник тримається одного рівня, починає розмову з привітання, щоб
+        ви не починали з чистого аркуша, і читає відповіді зрозумілими рівними
+        голосами iOS. Вони звучать менш природно, ніж хмарний голос, і їх
+        набагато легше розуміти, поки ви вчитеся.
+    - q: "Чим це відрізняється від застосунку з мовними курсами?"
+      a: >-
+        Курс навчає: уроки, слова, вправи. У Razmova ви застосовуєте вивчене, у
+        вільній розмові про те, про що хочеться поговорити. Більшості тих, кому
+        подобається Razmova, підходить поєднання одного й іншого.
+    - q: "Я цілковитий початківець. Чи варто починати тут?"
+      a: >-
+        Razmova найкраще підходить для практики, тож якщо ви починаєте з нуля,
+        поєднуйте її з чимось, що навчає основ. Почати можна й раніше:
+        співрозмовники для початківців говорять короткими реченнями і не
+        поспішають, а будь-яке повідомлення можна перекласти.
+    - q: "Чи підходить застосунок підліткам?"
+      a: >-
+        Віковий рейтинг в App Store 13+. Тут немає реклами, немає облікових
+        записів, немає інших користувачів, з якими можна листуватися, і ніщо не
+        залишає пристрій.
+    - q: "Чи є версія для Android, Mac або веб-версія?"
+      a: >-
+        Ні. Razmova працює лише на iPhone та iPad.

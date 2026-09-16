@@ -226,6 +226,41 @@ code {
   color: var(--muted);
 }
 
+/* FAQ */
+.faq details {
+  border-bottom: 1px solid var(--border);
+}
+
+.faq details:last-of-type {
+  border-bottom: none;
+}
+
+.faq summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  padding: 0.7rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::after {
+  content: "+";
+  color: var(--muted);
+  font-weight: 400;
+  flex-shrink: 0;
+}
+
+.faq details[open] summary::after { content: "–"; }
+
+.faq details p {
+  margin: 0 0 0.9rem;
+}
+
 /* Responsive images */
 img { max-width: 100%; height: auto; }
 

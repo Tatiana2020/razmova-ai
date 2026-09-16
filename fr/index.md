@@ -61,6 +61,8 @@ Sur les appareils compatibles avec Apple Intelligence, vous pouvez la choisir (b
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/fr-ca?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
+{% include faq.html %}
+
 ---
 
 ## Informations de contact
