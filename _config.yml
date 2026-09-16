@@ -31,6 +31,9 @@ github:
   repository_url: https://github.com/Tatiana2020/razmova-ai
   is_project_page: false
 
+exclude:
+  - README.md
+
 defaults:
   - scope:
       path: ""

@@ -1,9 +1,9 @@
 {%- assign suffix = '' -%}
 {%- if include.path -%}{%- assign suffix = include.path | prepend: '/' -%}{%- endif -%}
 <nav class="lang-switcher">
-  <a href="{{ suffix | default: '/' }}" class="{% if page.lang == null or page.lang == '' %}active{% endif %}">English</a>
-  <a href="/es{{ suffix }}" class="{% if page.lang == 'es-MX' %}active{% endif %}">Español</a>
-  <a href="/fr{{ suffix }}" class="{% if page.lang == 'fr-CA' %}active{% endif %}">Français</a>
-  <a href="/ru{{ suffix }}" class="{% if page.lang == 'ru-RU' %}active{% endif %}">Русский</a>
-  <a href="/uk{{ suffix }}" class="{% if page.lang == 'uk-UA' %}active{% endif %}">Українська</a>
+  <a href="{{ suffix | default: '/' }}" lang="en" hreflang="en"{% if page.lang == null or page.lang == '' %} class="active" aria-current="page"{% endif %}>English</a>
+  <a href="/es{{ suffix }}" lang="es" hreflang="es"{% if page.lang == 'es-MX' %} class="active" aria-current="page"{% endif %}>Español</a>
+  <a href="/fr{{ suffix }}" lang="fr" hreflang="fr"{% if page.lang == 'fr-CA' %} class="active" aria-current="page"{% endif %}>Français</a>
+  <a href="/ru{{ suffix }}" lang="ru" hreflang="ru"{% if page.lang == 'ru-RU' %} class="active" aria-current="page"{% endif %}>Русский</a>
+  <a href="/uk{{ suffix }}" lang="uk" hreflang="uk"{% if page.lang == 'uk-UA' %} class="active" aria-current="page"{% endif %}>Українська</a>
 </nav>
