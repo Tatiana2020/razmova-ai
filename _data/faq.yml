@@ -61,8 +61,8 @@ en:
         backed up.
     - q: "How much storage does it need?"
       a: >-
-        The app is about 25 MB. The AI model is about 2 GB and downloads once,
-        so keep about 2 GB free. You can remove the model in Settings to get
+        The app is about 25 MB. The AI model is about 1.8 GB and downloads
+        once, so keep about 2 GB free. You can remove the model in Settings to get
         that space back, and download it again whenever you want. On devices
         with Apple Intelligence you can remove it for good and keep practicing
         with Apple’s built-in model.
@@ -166,7 +166,7 @@ es-MX:
         modelo de IA nunca se respalda.
     - q: "¿Cuánto espacio necesita?"
       a: >-
-        La app ocupa unos 25 MB. El modelo de IA ocupa unos 2 GB y se descarga
+        La app ocupa unos 25 MB. El modelo de IA ocupa unos 1.8 GB y se descarga
         una sola vez, así que deja unos 2 GB libres. Puedes eliminar el modelo
         en los ajustes para recuperar ese espacio y volver a descargarlo cuando
         quieras. En dispositivos con Apple Intelligence puedes eliminarlo de
@@ -279,7 +279,7 @@ fr-CA:
         n’est jamais sauvegardé.
     - q: "De combien d’espace a-t-elle besoin ?"
       a: >-
-        L’application occupe environ 25 Mo. Le modèle d’IA occupe environ 2 Go
+        L’application occupe environ 25 Mo. Le modèle d’IA occupe environ 1,8 Go
         et se télécharge une seule fois, alors gardez environ 2 Go de libre.
         Vous pouvez supprimer le modèle dans les réglages pour récupérer cet
         espace, puis le télécharger de nouveau quand vous voulez. Sur les
@@ -389,7 +389,7 @@ ru-RU:
         копирования iCloud. Сама модель ИИ в копию не попадает.
     - q: "Сколько места нужно приложению?"
       a: >-
-        Приложение занимает около 25 МБ. Модель ИИ занимает около 2 ГБ и
+        Приложение занимает около 25 МБ. Модель ИИ занимает около 1,8 ГБ и
         загружается один раз, так что оставьте около 2 ГБ свободного места.
         Модель можно удалить в настройках, чтобы вернуть это место, и загрузить
         снова когда угодно. На устройствах с Apple Intelligence её можно удалить
@@ -496,7 +496,7 @@ uk-UA:
         копіювання iCloud. Сама модель ШІ до копії не потрапляє.
     - q: "Скільки місця потрібно застосунку?"
       a: >-
-        Застосунок займає близько 25 МБ. Модель ШІ займає близько 2 ГБ і
+        Застосунок займає близько 25 МБ. Модель ШІ займає близько 1,8 ГБ і
         завантажується один раз, тож залиште близько 2 ГБ вільного місця. Модель
         можна видалити в налаштуваннях, щоб повернути це місце, і завантажити
         знову будь-коли. На пристроях з Apple Intelligence її можна видалити

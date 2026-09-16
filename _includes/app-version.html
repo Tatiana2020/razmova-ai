@@ -1,0 +1,6 @@
+{%- assign version_label = 'Version' -%}
+{%- if page.lang == 'es-MX' -%}{%- assign version_label = 'Versión' -%}
+{%- elsif page.lang == 'ru-RU' -%}{%- assign version_label = 'Версия' -%}
+{%- elsif page.lang == 'uk-UA' -%}{%- assign version_label = 'Версія' -%}
+{%- endif -%}
+<p class="app-version">{{ version_label }} {{ site.app_version }} · <time datetime="{{ site.app_version_date }}">{{ site.app_version_date }}</time></p>
