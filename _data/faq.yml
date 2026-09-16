@@ -31,7 +31,10 @@ en:
         aloud, and the language pairs for translation. Razmova downloads the
         model over Wi-Fi, and if Wi-Fi is not available it asks whether to use
         cellular data instead. The download pauses if you leave Wi-Fi. After
-        that, it works in airplane mode.
+        that, it works in airplane mode. One exception: translating a message
+        uses Apple’s built-in translation, so if you have not downloaded that
+        language pair in your iOS settings, Apple may translate the text on its
+        servers.
     - q: "Which languages can I practice?"
       a: >-
         English, Spanish and French. The app itself is available in English,
@@ -136,7 +139,10 @@ es-MX:
         respuestas en voz alta y los pares de idiomas para la traducción.
         Razmova descarga el modelo por Wi-Fi y, si no hay Wi-Fi disponible, te
         pregunta si prefieres usar datos móviles. La descarga se pausa si sales
-        del Wi-Fi. Después de eso, funciona en modo avión.
+        del Wi-Fi. Después de eso, funciona en modo avión. Una excepción:
+        traducir un mensaje usa la traducción integrada de iOS, así que si no
+        has descargado ese par de idiomas en los ajustes de iOS, Apple puede
+        traducir el texto en sus servidores.
     - q: "¿Qué idiomas puedo practicar?"
       a: >-
         Inglés, español y francés. La app está disponible en inglés, español,
@@ -247,7 +253,10 @@ fr-CA:
         Razmova télécharge le modèle par Wi-Fi et, si le Wi-Fi n’est pas
         disponible, vous demande si vous voulez utiliser les données
         cellulaires. Le téléchargement se met en pause si vous quittez le Wi-Fi.
-        Ensuite, elle fonctionne en mode avion.
+        Ensuite, elle fonctionne en mode avion. Une exception : la traduction
+        d’un message passe par la traduction intégrée d’iOS, donc si vous n’avez
+        pas téléchargé cette paire de langues dans les réglages d’iOS, Apple
+        peut traduire le texte sur ses serveurs.
     - q: "Quelles langues puis-je pratiquer ?"
       a: >-
         L’anglais, l’espagnol et le français. L’application elle-même est
@@ -359,7 +368,9 @@ ru-RU:
         языковые пары для перевода. Razmova загружает модель через Wi-Fi, а если
         Wi-Fi недоступен, спрашивает, использовать ли мобильный интернет.
         Загрузка ставится на паузу, если Wi-Fi пропал. После этого приложение
-        работает без интернета.
+        работает без интернета. Одно исключение: перевод сообщения использует
+        встроенный перевод iOS, поэтому, если вы не загрузили эту языковую пару
+        в настройках iOS, Apple может перевести текст на своих серверах.
     - q: "Какие языки можно практиковать?"
       a: >-
         Английский, испанский и французский. Само приложение доступно на
@@ -465,7 +476,9 @@ uk-UA:
         мовні пари для перекладу. Razmova завантажує модель через Wi-Fi, а якщо
         Wi-Fi недоступний, запитує, чи використати мобільний інтернет.
         Завантаження стає на паузу, якщо Wi-Fi зник. Після цього застосунок
-        працює без інтернету.
+        працює без інтернету. Один виняток: переклад повідомлення використовує
+        вбудований переклад iOS, тож якщо ви не завантажили цю мовну пару в
+        налаштуваннях iOS, Apple може перекласти текст на своїх серверах.
     - q: "Які мови можна практикувати?"
       a: >-
         Англійську, іспанську та французьку. Сам застосунок доступний
