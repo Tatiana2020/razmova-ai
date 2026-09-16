@@ -30,3 +30,45 @@ github:
   repository_name: razmova-ai
   repository_url: https://github.com/Tatiana2020/razmova-ai
   is_project_page: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/share.jpg
+        width: 1200
+        height: 630
+        alt: "The Razmova app icon beside three app screenshots"
+  - scope:
+      path: "es"
+    values:
+      image:
+        path: /images/share.jpg
+        width: 1200
+        height: 630
+        alt: "El icono de la app Razmova junto a tres capturas de pantalla de la app"
+  - scope:
+      path: "fr"
+    values:
+      image:
+        path: /images/share.jpg
+        width: 1200
+        height: 630
+        alt: "L’icône de l’app Razmova à côté de trois captures d’écran de l’application"
+  - scope:
+      path: "ru"
+    values:
+      image:
+        path: /images/share.jpg
+        width: 1200
+        height: 630
+        alt: "Значок приложения Razmova и три скриншота приложения"
+  - scope:
+      path: "uk"
+    values:
+      image:
+        path: /images/share.jpg
+        width: 1200
+        height: 630
+        alt: "Значок застосунку Razmova і три знімки екрана застосунку"
