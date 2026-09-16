@@ -109,6 +109,6 @@ Nous répondons à toutes les demandes dans des délais raisonnables.
 
 ---
 
-Dernière mise à jour : 14 septembre 2026
+Dernière mise à jour : 16 septembre 2026
 
 

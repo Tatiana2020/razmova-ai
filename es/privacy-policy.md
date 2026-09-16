@@ -109,6 +109,6 @@ Respondemos todas las consultas de privacidad en un plazo razonable.
 
 ---
 
-Última actualización: 14 de septiembre de 2026
+Última actualización: 16 de septiembre de 2026
 
 

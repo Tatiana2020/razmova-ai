@@ -107,6 +107,6 @@ We respond to all privacy inquiries within a reasonable timeframe.
 - Full compliance with Apple App Store and global privacy standards
 
 ---
-Last updated: September 14, 2026
+Last updated: September 16, 2026
 
 
