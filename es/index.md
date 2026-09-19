@@ -31,7 +31,7 @@ Conviértete en un comunicador más seguro con Razmova, tu compañero privado y 
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Chat de francés para principiantes con Romy, con la entrada de voz escribiendo una respuesta dictada en francés" />
-    <figcaption>Habla en lugar de escribir (iOS 26)</figcaption>
+    <figcaption>Habla en lugar de escribir (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Lista de compañeros de IA con Emma, Gabriel y Javier y sus niveles" />
