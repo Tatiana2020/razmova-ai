@@ -55,7 +55,7 @@ lang: ru-RU
 
 Razmova требуется iPhone или iPad с iOS 18.6 или новее и оперативной памятью не менее 6 ГБ. Приложение проверяет это при первом запуске и сразу предупредит вас, ещё до начала загрузки. Модель ИИ загружается по Wi-Fi. Голосовой ввод требует iOS 26 или новее.
 
-На устройствах с поддержкой Apple Intelligence можно переключиться на него (бета-версия) в настройках Razmova и удалить загруженную модель, чтобы освободить около 1,8 ГБ. В любом случае всё остаётся на вашем устройстве.
+На устройствах с поддержкой Apple Intelligence можно переключиться на него в настройках Razmova и удалить загруженную модель, чтобы освободить около 1,8 ГБ. В любом случае всё остаётся на вашем устройстве.
 
 <a href="https://apps.apple.com/app/apple-store/id6753091541?pt=128154174&ct=RazmovaWebsite&mt=8" class="app-store-badge">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1762819200" alt="Download on the App Store" />

@@ -28,7 +28,7 @@ Tap the microphone and speak with any partner. Your words appear as text you can
 
 Razmova needs an iPhone or iPad with iOS 18.6 or later and at least 6 GB of memory (RAM). It checks at first launch and tells you right away, before any download starts. The AI model itself downloads over Wi-Fi. Voice input requires iOS 26 or later.
 
-On devices that support Apple Intelligence, you can switch to it (beta) in Razmova's settings and remove the downloaded model to free up about 1.8 GB. Either way, everything stays on your device.
+On devices that support Apple Intelligence, you can switch to it in Razmova's settings and remove the downloaded model to free up about 1.8 GB. Either way, everything stays on your device.
 
 ---
 
