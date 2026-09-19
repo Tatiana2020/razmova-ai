@@ -31,7 +31,7 @@ Become a more confident communicator with Razmova, your private local AI compani
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Beginner French chat with Romy, with voice input typing a spoken reply in French" />
-    <figcaption>Speak instead of typing (iOS 26)</figcaption>
+    <figcaption>Speak instead of typing (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="List of AI partners showing Emma, Gabriel and Javier with their levels" />

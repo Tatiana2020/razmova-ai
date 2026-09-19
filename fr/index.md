@@ -31,7 +31,7 @@ Devenez un communicateur plus confiant avec Razmova, votre compagnon IA local pr
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Conversation de français pour débutants avec Romy, avec la saisie vocale qui écrit une réponse dictée en français" />
-    <figcaption>Parlez au lieu de taper (iOS 26)</figcaption>
+    <figcaption>Parlez au lieu de taper (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Liste des partenaires IA avec Emma, Gabriel et Javier et leur niveau" />

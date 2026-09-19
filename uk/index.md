@@ -31,7 +31,7 @@ lang: uk-UA
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Чат французькою для початківців із Romy: голосове введення записує продиктовану відповідь французькою" />
-    <figcaption>Говоріть замість того, щоб друкувати (iOS 26)</figcaption>
+    <figcaption>Говоріть замість того, щоб друкувати (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ШІ-співрозмовників: Emma, Gabriel і Javier із зазначенням рівня" />

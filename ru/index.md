@@ -31,7 +31,7 @@ lang: ru-RU
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-3-french-voice-input.webp' | relative_url }}" width="720" height="1560" alt="Чат на французском для начинающих с Romy: голосовой ввод записывает продиктованный ответ на французском" />
-    <figcaption>Говорите вместо того, чтобы печатать (iOS 26)</figcaption>
+    <figcaption>Говорите вместо того, чтобы печатать (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
     <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ИИ-собеседников: Emma, Gabriel и Javier с указанием уровня" />
