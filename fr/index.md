@@ -55,7 +55,7 @@ Touchez le micro et parlez avec le partenaire de votre choix : vos paroles appar
 
 Razmova nécessite un iPhone ou un iPad sous iOS 18.6 ou version ultérieure, doté d’au moins 6 Go de mémoire vive (RAM). L’application le vérifie au premier lancement et vous prévient immédiatement, avant le moindre téléchargement. Le modèle d’IA se télécharge en Wi-Fi. La saisie vocale nécessite iOS 26 ou version ultérieure.
 
-Sur les appareils compatibles avec Apple Intelligence, vous pouvez la choisir (bêta) dans les réglages de Razmova et supprimer le modèle téléchargé pour libérer environ 1,8 Go. Dans les deux cas, tout reste sur votre appareil.
+Sur les appareils compatibles avec Apple Intelligence, vous pouvez la choisir dans les réglages de Razmova et supprimer le modèle téléchargé pour libérer environ 1,8 Go. Dans les deux cas, tout reste sur votre appareil.
 
 <a href="https://apps.apple.com/app/apple-store/id6753091541?pt=128154174&ct=RazmovaWebsite&mt=8" class="app-store-badge">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/fr-ca?releaseDate=1762819200" alt="Download on the App Store" />
