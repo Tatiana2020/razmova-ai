@@ -72,9 +72,7 @@ en:
     - q: "How much battery does it use?"
       a: >-
         In our test, a 15-minute practice session with the downloaded AI model
-        used about 5% of the battery on an iPhone 15 Pro Max. The AI runs on
-        your device rather than on a server, so it uses a little more power than
-        an ordinary chat app.
+        used about 5% of the battery on an iPhone 15 Pro Max.
     - q: "Which AI model runs on my device?"
       a: >-
         Llama 3.2 3B, in a 4-bit version sized for phones. On devices with Apple
@@ -82,21 +80,46 @@ en:
         Razmova also uses that built-in model, where it is available, while the
         download finishes, so you can start talking right away. Both run
         entirely on your device.
+    - q: "Does the AI make mistakes?"
+      a: >-
+        In English, neither model has made a language mistake in our testing. In
+        Spanish and French, the model occasionally picks an odd word or slips on
+        grammar. That is the trade-off for a model small enough to run on your
+        phone. Facts are a different matter: any AI can state something wrong
+        with confidence, large cloud chatbots included, and a small model does
+        so more often. The AI also works offline, so it does not know about
+        recent events. Razmova is for practicing conversation, not for looking
+        things up.
     - q: "How is this different from a cloud chatbot?"
       a: >-
-        A cloud chatbot sends what you write to a company’s servers and usually
-        asks you to make an account. Razmova runs the AI on your phone, so your
-        conversations stay with you and it works with no signal. It is also
-        built for practice rather than answers: each partner keeps to one level,
-        opens the conversation with a greeting so you never start from a blank
-        page, and reads replies in the clear, steady voices built into iOS. They
-        sound less natural than a cloud voice and are much easier to follow
-        while you are still learning.
+        A cloud chatbot sends your conversation to a company’s servers and
+        usually asks you to make an account. Razmova runs the AI on your phone,
+        so your conversations stay with you, it works with no signal, and every
+        reply is written by your phone rather than a server in a data center. It
+        is also built for practice rather than answers: each partner keeps to
+        one level, opens the conversation with a greeting so you never start
+        from a blank page, and reads replies in the clear, steady voices built
+        into iOS. They sound less natural than a cloud voice and are much easier
+        to follow while you are still learning. When you speak, Razmova keeps
+        listening until you tap stop, so you can pause to find a word without
+        being cut off.
     - q: "How is this different from a language course app?"
       a: >-
         A course teaches you: lessons, vocabulary, exercises. Razmova is where
         you use what you learned, in open conversation about whatever you feel
         like talking about. Most people who get on well with Razmova use both.
+    - q: "Does practicing with AI actually help?"
+      a: >-
+        The research so far is encouraging. <a
+        href="https://link.springer.com/article/10.1007/s10791-026-10015-1">A
+        2026 review of 51 studies</a> by Saarela, Gunasekara and Kumarage,
+        published in Discover Computing, found that learners who used generative
+        AI tools, most often ChatGPT, improved their language skills, speaking
+        included, and felt less anxious and more motivated than learners who
+        studied in other ways. The effects were stronger when people used AI on
+        their own rather than in class, and over longer periods. The studies
+        looked at AI tools in general, not at Razmova, and their results varied
+        widely.
     - q: "I am a complete beginner. Should I start here?"
       a: >-
         Razmova works best as practice, so if you are starting from zero, pair
@@ -109,7 +132,10 @@ en:
         to talk to, and nothing leaving the device.
     - q: "Is there an Android, Mac or web version?"
       a: >-
-        No. Razmova is an iPhone and iPad app.
+        There is no Android or web version, and no separate Mac app. Razmova is
+        built for iPhone and iPad, and the same app also runs on a Mac with an
+        Apple M1 chip or later and macOS 15.6 or later. Download it from the App
+        Store on your Mac.
 
 es-MX:
   heading: "Preguntas y respuestas"
@@ -187,8 +213,7 @@ es-MX:
       a: >-
         En nuestra prueba, una sesión de práctica de 15 minutos con el modelo de
         IA descargado consumió alrededor del 5% de la batería de un iPhone 15
-        Pro Max. La IA funciona en tu dispositivo y no en un servidor, así que
-        consume un poco más que una app de chat común.
+        Pro Max.
     - q: "¿Qué modelo de IA funciona en mi dispositivo?"
       a: >-
         Llama 3.2 3B, en una versión de 4 bits pensada para teléfonos. En
@@ -196,22 +221,48 @@ es-MX:
         de Apple. Razmova también usa ese modelo integrado, donde está
         disponible, mientras termina la descarga, para que puedas empezar a
         conversar de inmediato. Ambos funcionan por completo en tu dispositivo.
+    - q: "¿La IA comete errores?"
+      a: >-
+        En inglés, ninguno de los dos modelos ha cometido errores de idioma en
+        nuestras pruebas. En español y francés, el modelo a veces elige una
+        palabra rara o se equivoca en la gramática. Es la contrapartida de un
+        modelo lo bastante pequeño para funcionar en tu teléfono. Con los hechos
+        es distinto: cualquier IA puede afirmar algo falso con total seguridad,
+        incluidos los grandes chatbots en la nube, y un modelo pequeño lo hace
+        con más frecuencia. Además, la IA funciona sin internet, así que no sabe
+        nada de acontecimientos recientes. Razmova sirve para practicar
+        conversación, no para buscar información.
     - q: "¿En qué se diferencia de un chatbot en la nube?"
       a: >-
-        Un chatbot en la nube envía lo que escribes a los servidores de una
+        Un chatbot en la nube envía tu conversación a los servidores de una
         empresa y casi siempre te pide crear una cuenta. Razmova ejecuta la IA
-        en tu teléfono, así que tus conversaciones se quedan contigo y funciona
-        sin señal. También está hecha para practicar más que para dar
+        en tu teléfono, así que tus conversaciones se quedan contigo, funciona
+        sin señal y cada respuesta la escribe tu teléfono, no un servidor en un
+        centro de datos. También está hecha para practicar más que para dar
         respuestas: cada compañero se mantiene en un nivel, abre la conversación
         con un saludo para que nunca empieces frente a una página en blanco, y
         lee las respuestas con las voces claras y estables de iOS. Suenan menos
         naturales que una voz en la nube y son mucho más fáciles de seguir
-        mientras estás aprendiendo.
+        mientras estás aprendiendo. Cuando hablas, Razmova sigue escuchando
+        hasta que tocas el botón de detener, así que puedes hacer una pausa para
+        buscar una palabra sin que te interrumpa.
     - q: "¿En qué se diferencia de una app de cursos de idiomas?"
       a: >-
         Un curso te enseña: lecciones, vocabulario, ejercicios. En Razmova usas
         lo que aprendiste, en una conversación abierta sobre lo que tengas ganas
         de hablar. La mayoría de quienes disfrutan Razmova usan las dos cosas.
+    - q: "¿De verdad sirve practicar con IA?"
+      a: >-
+        Lo que dice la investigación hasta ahora es alentador. <a
+        href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Una
+        revisión de 51 estudios publicada en 2026</a> por Saarela, Gunasekara y
+        Kumarage en Discover Computing encontró que quienes usaron herramientas
+        de IA generativa, sobre todo ChatGPT, mejoraron sus habilidades en el
+        idioma, incluida la expresión oral, y sintieron menos ansiedad y más
+        motivación que quienes estudiaron de otras formas. Los efectos fueron
+        mayores cuando las personas usaron la IA por su cuenta y no en clase, y
+        durante periodos más largos. Los estudios analizaron herramientas de IA
+        en general, no Razmova, y sus resultados variaron mucho.
     - q: "Soy principiante total. ¿Debería empezar aquí?"
       a: >-
         Razmova funciona mejor como práctica, así que si empiezas desde cero,
@@ -224,7 +275,10 @@ es-MX:
         otras personas con quienes hablar, y nada sale del dispositivo.
     - q: "¿Hay versión para Android, Mac o web?"
       a: >-
-        No. Razmova funciona solo en iPhone y iPad.
+        No hay versión para Android ni para web, ni una app aparte para Mac.
+        Razmova está hecha para iPhone y iPad, y la misma app también funciona
+        en una Mac con chip Apple M1 o posterior y macOS 15.6 o posterior.
+        Descárgala desde la App Store en tu Mac.
 
 fr-CA:
   heading: "Questions et réponses"
@@ -310,8 +364,7 @@ fr-CA:
       a: >-
         Lors de notre test, une séance de pratique de 15 minutes avec le modèle
         d’IA téléchargé a utilisé environ 5 % de la batterie d’un iPhone 15 Pro
-        Max. L’IA fonctionne sur votre appareil plutôt que sur un serveur, alors
-        elle consomme un peu plus qu’une application de messagerie ordinaire.
+        Max.
     - q: "Quel modèle d’IA fonctionne sur mon appareil ?"
       a: >-
         Llama 3.2 3B, dans une version 4 bits conçue pour les téléphones. Sur
@@ -320,23 +373,51 @@ fr-CA:
         il est disponible, pendant que le téléchargement se termine, pour que
         vous puissiez commencer à discuter tout de suite. Les deux fonctionnent
         entièrement sur votre appareil.
+    - q: "Est-ce que l’IA fait des erreurs ?"
+      a: >-
+        En anglais, aucun des deux modèles n’a fait d’erreur de langue lors de
+        nos tests. En espagnol et en français, le modèle choisit parfois un mot
+        étrange ou fait une faute de grammaire. C’est la contrepartie d’un
+        modèle assez petit pour fonctionner sur votre téléphone. Pour les faits,
+        c’est autre chose : toute IA peut affirmer quelque chose de faux avec
+        assurance, y compris les grandes IA en ligne, et un petit modèle le fait
+        plus souvent. De plus, l’IA fonctionne sans Internet, elle ne connaît
+        donc pas l’actualité récente. Razmova sert à pratiquer la conversation,
+        pas à chercher de l’information.
     - q: "En quoi est-ce différent d’une IA conversationnelle en ligne ?"
       a: >-
-        Une IA en ligne envoie ce que vous écrivez vers les serveurs d’une
+        Une IA en ligne envoie votre conversation vers les serveurs d’une
         entreprise et vous demande presque toujours de créer un compte. Razmova
-        exécute l’IA sur votre téléphone : vos conversations restent avec vous
-        et tout fonctionne sans réseau. Elle est aussi conçue pour la pratique
-        plutôt que pour les réponses : chaque partenaire garde un seul niveau,
-        ouvre la conversation par une salutation pour que vous ne partiez jamais
-        d’une page blanche, et lit les réponses avec les voix claires et posées
-        d’iOS. Elles sonnent moins naturelles qu’une voix en ligne et sont
-        beaucoup plus faciles à suivre quand on apprend encore.
+        exécute l’IA sur votre téléphone : vos conversations restent avec vous,
+        tout fonctionne sans réseau, et chaque réponse est rédigée par votre
+        téléphone plutôt que par un serveur dans un centre de données. Elle est
+        aussi conçue pour la pratique plutôt que pour les réponses : chaque
+        partenaire garde un seul niveau, ouvre la conversation par une
+        salutation pour que vous ne partiez jamais d’une page blanche, et lit
+        les réponses avec les voix claires et posées d’iOS. Elles sonnent moins
+        naturelles qu’une voix en ligne et sont beaucoup plus faciles à suivre
+        quand on apprend encore. Quand vous parlez, Razmova écoute jusqu’à ce
+        que vous touchiez le bouton d’arrêt : vous pouvez faire une pause pour
+        chercher un mot sans être interrompu.
     - q: "En quoi est-ce différent d’une application de cours de langue ?"
       a: >-
         Un cours vous enseigne : leçons, vocabulaire, exercices. Dans Razmova,
         vous utilisez ce que vous avez appris, dans une conversation ouverte sur
         ce dont vous avez envie de parler. La plupart des gens qui aiment
         Razmova utilisent les deux.
+    - q: "Est-ce que pratiquer avec l’IA aide vraiment ?"
+      a: >-
+        Les recherches menées jusqu’ici sont encourageantes. <a
+        href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Une
+        revue de 51 études publiée en 2026</a> par Saarela, Gunasekara et
+        Kumarage dans Discover Computing a montré que les apprenants qui
+        utilisaient des outils d’IA générative, surtout ChatGPT, ont amélioré
+        leurs compétences en langue, y compris à l’oral, et se sentaient moins
+        anxieux et plus motivés que ceux qui apprenaient autrement. Les effets
+        étaient plus forts quand les gens utilisaient l’IA par eux-mêmes plutôt
+        qu’en classe, et sur de plus longues périodes. Ces études portaient sur
+        les outils d’IA en général, pas sur Razmova, et leurs résultats
+        variaient beaucoup.
     - q: "Je suis débutant complet. Est-ce que je devrais commencer ici ?"
       a: >-
         Razmova sert surtout à pratiquer : si vous partez de zéro, utilisez-la
@@ -350,7 +431,11 @@ fr-CA:
         de compte, personne d’autre à qui parler, et rien ne quitte l’appareil.
     - q: "Existe-t-il une version Android, Mac ou Web ?"
       a: >-
-        Non. Razmova fonctionne uniquement sur iPhone et iPad.
+        Il n’y a pas de version Android ou Web, ni d’application Mac distincte.
+        Razmova est conçue pour iPhone et iPad, et la même application
+        fonctionne aussi sur un Mac doté d’une puce Apple M1 ou plus récente et
+        de macOS 15.6 ou version ultérieure. Téléchargez-la depuis l’App Store
+        sur votre Mac.
 
 ru-RU:
   heading: "Вопросы и ответы"
@@ -426,9 +511,7 @@ ru-RU:
     - q: "Сколько заряда батареи расходует приложение?"
       a: >-
         В нашем тесте 15-минутная тренировка с загруженной моделью ИИ
-        израсходовала около 5% заряда батареи iPhone 15 Pro Max. ИИ работает на
-        вашем устройстве, а не на сервере, поэтому расходует немного больше
-        энергии, чем обычный мессенджер.
+        израсходовала около 5% заряда батареи iPhone 15 Pro Max.
     - q: "Какая модель ИИ работает на моём устройстве?"
       a: >-
         Llama 3.2 3B в 4-битной версии, рассчитанной на телефоны. На устройствах
@@ -436,21 +519,46 @@ ru-RU:
         Razmova также использует встроенную модель там, где она доступна, пока
         идёт загрузка, чтобы вы могли начать разговор сразу. Обе работают
         полностью на вашем устройстве.
+    - q: "Ошибается ли ИИ?"
+      a: >-
+        На английском ни одна из двух моделей не допустила языковых ошибок в
+        наших тестах. На испанском и французском модель иногда выбирает странное
+        слово или ошибается в грамматике. Это цена модели, достаточно
+        компактной, чтобы работать на телефоне. С фактами другое дело: любой ИИ
+        может уверенно сказать неправду, в том числе крупные облачные чат-боты,
+        а небольшая модель делает это чаще. К тому же ИИ работает без интернета,
+        поэтому ничего не знает о недавних событиях. Razmova нужна для
+        разговорной практики, а не для поиска информации.
     - q: "Чем это отличается от облачного чат-бота?"
       a: >-
-        Облачный чат-бот отправляет написанное вами на серверы компании и почти
+        Облачный чат-бот отправляет ваш разговор на серверы компании и почти
         всегда просит создать аккаунт. Razmova запускает ИИ на вашем телефоне,
-        поэтому разговоры остаются у вас, и всё работает без связи. Приложение
-        сделано для практики, а не для ответов: каждый собеседник держится
-        одного уровня, начинает разговор с приветствия, чтобы вы не начинали с
-        чистого листа, и читает ответы понятными ровными голосами iOS. Они
-        звучат менее естественно, чем облачный голос, и их гораздо легче
-        понимать, пока вы учитесь.
+        поэтому разговоры остаются у вас, всё работает без связи, и каждый ответ
+        создаёт ваш телефон, а не сервер в дата-центре. Приложение сделано для
+        практики, а не для ответов: каждый собеседник держится одного уровня,
+        начинает разговор с приветствия, чтобы вы не начинали с чистого листа, и
+        читает ответы понятными ровными голосами iOS. Они звучат менее
+        естественно, чем облачный голос, и их гораздо легче понимать, пока вы
+        учитесь. Когда вы говорите, Razmova слушает, пока вы не нажмёте кнопку
+        остановки, так что можно сделать паузу и подобрать слово, и вас не
+        перебьют.
     - q: "Чем это отличается от приложения с языковыми курсами?"
       a: >-
         Курс учит: уроки, слова, упражнения. В Razmova вы применяете выученное,
         в свободном разговоре о том, о чём хочется поговорить. Большинству тех,
         кому нравится Razmova, подходит сочетание того и другого.
+    - q: "Действительно ли практика с ИИ помогает?"
+      a: >-
+        Научные данные пока обнадёживают. <a
+        href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Обзор
+        51 исследования, опубликованный в 2026 году</a> (Saarela, Gunasekara и
+        Kumarage, журнал Discover Computing), показал, что те, кто занимался с
+        инструментами генеративного ИИ, чаще всего с ChatGPT, лучше продвинулись
+        в языке, в том числе в устной речи, меньше тревожились и были более
+        мотивированы, чем те, кто учился другими способами. Эффект был сильнее,
+        когда люди занимались с ИИ самостоятельно, а не на уроках, и в течение
+        более долгого времени. Исследования касались инструментов ИИ в целом, а
+        не Razmova, и их результаты сильно различались.
     - q: "Я совсем начинающий. Стоит ли начинать здесь?"
       a: >-
         Razmova лучше всего подходит для практики, поэтому, если вы начинаете с
@@ -464,7 +572,10 @@ ru-RU:
         покидает устройство.
     - q: "Есть ли версия для Android, Mac или веб-версия?"
       a: >-
-        Нет. Razmova работает только на iPhone и iPad.
+        Версий для Android и веба нет, отдельного приложения для Mac тоже.
+        Razmova создана для iPhone и iPad, и то же приложение работает на Mac с
+        чипом Apple M1 или новее и macOS 15.6 или новее. Скачайте его из App
+        Store на своём Mac.
 
 uk-UA:
   heading: "Запитання та відповіді"
@@ -541,9 +652,7 @@ uk-UA:
     - q: "Скільки заряду батареї витрачає застосунок?"
       a: >-
         У нашому тесті 15-хвилинне тренування із завантаженою моделлю ШІ
-        витратило близько 5% заряду батареї iPhone 15 Pro Max. ШІ працює на
-        вашому пристрої, а не на сервері, тому витрачає трохи більше енергії,
-        ніж звичайний месенджер.
+        витратило близько 5% заряду батареї iPhone 15 Pro Max.
     - q: "Яка модель ШІ працює на моєму пристрої?"
       a: >-
         Llama 3.2 3B у 4-бітній версії, розрахованій на телефони. На пристроях з
@@ -551,21 +660,46 @@ uk-UA:
         також використовує вбудовану модель там, де вона доступна, поки триває
         завантаження, щоб ви могли почати розмову одразу. Обидві працюють
         повністю на вашому пристрої.
+    - q: "Чи помиляється ШІ?"
+      a: >-
+        Англійською жодна з двох моделей не припустилася мовних помилок у наших
+        тестах. Іспанською та французькою модель іноді добирає дивне слово або
+        помиляється в граматиці. Це ціна моделі, достатньо компактної, щоб
+        працювати на телефоні. З фактами інакше: будь-який ШІ може впевнено
+        сказати неправду, зокрема великі хмарні чат-боти, а невелика модель
+        робить це частіше. До того ж ШІ працює без інтернету, тож нічого не знає
+        про нещодавні події. Razmova потрібна для розмовної практики, а не для
+        пошуку інформації.
     - q: "Чим це відрізняється від хмарного чат-бота?"
       a: >-
-        Хмарний чат-бот надсилає написане вами на сервери компанії і майже
-        завжди просить створити обліковий запис. Razmova запускає ШІ на вашому
-        телефоні, тому розмови залишаються у вас, і все працює без зв’язку.
+        Хмарний чат-бот надсилає вашу розмову на сервери компанії і майже завжди
+        просить створити обліковий запис. Razmova запускає ШІ на вашому
+        телефоні, тому розмови залишаються у вас, усе працює без зв’язку, і
+        кожну відповідь створює ваш телефон, а не сервер у дата-центрі.
         Застосунок створено для практики, а не для відповідей: кожен
         співрозмовник тримається одного рівня, починає розмову з привітання, щоб
         ви не починали з чистого аркуша, і читає відповіді зрозумілими рівними
         голосами iOS. Вони звучать менш природно, ніж хмарний голос, і їх
-        набагато легше розуміти, поки ви вчитеся.
+        набагато легше розуміти, поки ви вчитеся. Коли ви говорите, Razmova
+        слухає, доки ви не натиснете кнопку зупинки, тож можна зробити паузу й
+        дібрати слово, і вас не переб’ють.
     - q: "Чим це відрізняється від застосунку з мовними курсами?"
       a: >-
         Курс навчає: уроки, слова, вправи. У Razmova ви застосовуєте вивчене, у
         вільній розмові про те, про що хочеться поговорити. Більшості тих, кому
         подобається Razmova, підходить поєднання одного й іншого.
+    - q: "Чи справді практика з ШІ допомагає?"
+      a: >-
+        Наукові дані поки що обнадійливі. <a
+        href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Огляд
+        51 дослідження, опублікований у 2026 році</a> (Saarela, Gunasekara і
+        Kumarage, журнал Discover Computing), показав, що ті, хто займався з
+        інструментами генеративного ШІ, найчастіше з ChatGPT, краще просунулися
+        в мові, зокрема в усному мовленні, менше тривожилися і мали більше
+        мотивації, ніж ті, хто навчався іншими способами. Ефект був сильнішим,
+        коли люди займалися з ШІ самостійно, а не на уроках, і протягом довшого
+        часу. Дослідження стосувалися інструментів ШІ загалом, а не Razmova, і
+        їхні результати дуже різнилися.
     - q: "Я цілковитий початківець. Чи варто починати тут?"
       a: >-
         Razmova найкраще підходить для практики, тож якщо ви починаєте з нуля,
@@ -579,4 +713,7 @@ uk-UA:
         залишає пристрій.
     - q: "Чи є версія для Android, Mac або веб-версія?"
       a: >-
-        Ні. Razmova працює лише на iPhone та iPad.
+        Версій для Android і вебу немає, окремого застосунку для Mac теж.
+        Razmova створена для iPhone та iPad, і той самий застосунок працює на
+        Mac із чипом Apple M1 або новішим і macOS 15.6 або новішою. Завантажте
+        його з App Store на своєму Mac.
