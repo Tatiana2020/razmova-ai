@@ -85,11 +85,11 @@ en:
         In English, neither model has made a language mistake in our testing. In
         Spanish and French, the model occasionally picks an odd word or slips on
         grammar. That is the trade-off for a model small enough to run on your
-        phone. Facts are a different matter: any AI can state something wrong
-        with confidence, large cloud chatbots included, and a small model does
-        so more often. The AI also works offline, so it does not know about
-        recent events. Razmova is for practicing conversation, not for looking
-        things up.
+        phone, so that your data stays private. Facts are a different matter:
+        any AI can state something wrong with confidence, large cloud chatbots
+        included, and a small model does so more often. The AI also works
+        offline, so it does not know about recent events. Razmova is for
+        practicing conversation, not for looking things up.
     - q: "How is this different from a cloud chatbot?"
       a: >-
         A cloud chatbot sends your conversation to a company’s servers and
@@ -113,9 +113,9 @@ en:
         The research so far is encouraging. <a
         href="https://link.springer.com/article/10.1007/s10791-026-10015-1">A
         2026 review of 51 studies</a> by Saarela, Gunasekara and Kumarage,
-        published in Discover Computing, found that learners who used generative
-        AI tools, most often ChatGPT, improved their language skills, speaking
-        included, and felt less anxious and more motivated than learners who
+        published in Discover Computing, found that learners who practiced with
+        AI, most often ChatGPT, improved their language skills, speaking
+        included, and felt more confident and more motivated than learners who
         studied in other ways. The effects were stronger when people used AI on
         their own rather than in class, and over longer periods. The studies
         looked at AI tools in general, not at Razmova, and their results varied
@@ -226,12 +226,13 @@ es-MX:
         En inglés, ninguno de los dos modelos ha cometido errores de idioma en
         nuestras pruebas. En español y francés, el modelo a veces elige una
         palabra rara o se equivoca en la gramática. Es la contrapartida de un
-        modelo lo bastante pequeño para funcionar en tu teléfono. Con los hechos
-        es distinto: cualquier IA puede afirmar algo falso con total seguridad,
-        incluidos los grandes chatbots en la nube, y un modelo pequeño lo hace
-        con más frecuencia. Además, la IA funciona sin internet, así que no sabe
-        nada de acontecimientos recientes. Razmova sirve para practicar
-        conversación, no para buscar información.
+        modelo lo bastante pequeño para funcionar en tu teléfono, para que tus
+        datos sigan siendo privados. Con los hechos es distinto: cualquier IA
+        puede afirmar algo falso con total seguridad, incluidos los grandes
+        chatbots en la nube, y un modelo pequeño lo hace con más frecuencia.
+        Además, la IA funciona sin internet, así que no sabe nada de
+        acontecimientos recientes. Razmova sirve para practicar conversación, no
+        para buscar información.
     - q: "¿En qué se diferencia de un chatbot en la nube?"
       a: >-
         Un chatbot en la nube envía tu conversación a los servidores de una
@@ -256,13 +257,13 @@ es-MX:
         Lo que dice la investigación hasta ahora es alentador. <a
         href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Una
         revisión de 51 estudios publicada en 2026</a> por Saarela, Gunasekara y
-        Kumarage en Discover Computing encontró que quienes usaron herramientas
-        de IA generativa, sobre todo ChatGPT, mejoraron sus habilidades en el
-        idioma, incluida la expresión oral, y sintieron menos ansiedad y más
-        motivación que quienes estudiaron de otras formas. Los efectos fueron
-        mayores cuando las personas usaron la IA por su cuenta y no en clase, y
-        durante periodos más largos. Los estudios analizaron herramientas de IA
-        en general, no Razmova, y sus resultados variaron mucho.
+        Kumarage en Discover Computing encontró que quienes practicaron con IA,
+        sobre todo ChatGPT, mejoraron sus habilidades en el idioma, incluida la
+        expresión oral, y se sintieron más seguros y más motivados que quienes
+        estudiaron de otras formas. Los efectos fueron mayores cuando las
+        personas usaron la IA por su cuenta y no en clase, y durante periodos
+        más largos. Los estudios analizaron herramientas de IA en general, no
+        Razmova, y sus resultados variaron mucho.
     - q: "Soy principiante total. ¿Debería empezar aquí?"
       a: >-
         Razmova funciona mejor como práctica, así que si empiezas desde cero,
@@ -378,12 +379,13 @@ fr-CA:
         En anglais, aucun des deux modèles n’a fait d’erreur de langue lors de
         nos tests. En espagnol et en français, le modèle choisit parfois un mot
         étrange ou fait une faute de grammaire. C’est la contrepartie d’un
-        modèle assez petit pour fonctionner sur votre téléphone. Pour les faits,
-        c’est autre chose : toute IA peut affirmer quelque chose de faux avec
-        assurance, y compris les grandes IA en ligne, et un petit modèle le fait
-        plus souvent. De plus, l’IA fonctionne sans Internet, elle ne connaît
-        donc pas l’actualité récente. Razmova sert à pratiquer la conversation,
-        pas à chercher de l’information.
+        modèle assez petit pour fonctionner sur votre téléphone, afin que vos
+        données restent privées. Pour les faits, c’est autre chose : toute IA
+        peut affirmer quelque chose de faux avec assurance, y compris les
+        grandes IA en ligne, et un petit modèle le fait plus souvent. De plus,
+        l’IA fonctionne sans Internet, elle ne connaît donc pas l’actualité
+        récente. Razmova sert à pratiquer la conversation, pas à chercher de
+        l’information.
     - q: "En quoi est-ce différent d’une IA conversationnelle en ligne ?"
       a: >-
         Une IA en ligne envoie votre conversation vers les serveurs d’une
@@ -411,13 +413,12 @@ fr-CA:
         href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Une
         revue de 51 études publiée en 2026</a> par Saarela, Gunasekara et
         Kumarage dans Discover Computing a montré que les apprenants qui
-        utilisaient des outils d’IA générative, surtout ChatGPT, ont amélioré
-        leurs compétences en langue, y compris à l’oral, et se sentaient moins
-        anxieux et plus motivés que ceux qui apprenaient autrement. Les effets
-        étaient plus forts quand les gens utilisaient l’IA par eux-mêmes plutôt
-        qu’en classe, et sur de plus longues périodes. Ces études portaient sur
-        les outils d’IA en général, pas sur Razmova, et leurs résultats
-        variaient beaucoup.
+        pratiquaient avec l’IA, surtout ChatGPT, ont amélioré leurs compétences
+        en langue, y compris à l’oral, et se sentaient plus confiants et plus
+        motivés que ceux qui apprenaient autrement. Les effets étaient plus
+        forts quand les gens utilisaient l’IA par eux-mêmes plutôt qu’en classe,
+        et sur de plus longues périodes. Ces études portaient sur les outils
+        d’IA en général, pas sur Razmova, et leurs résultats variaient beaucoup.
     - q: "Je suis débutant complet. Est-ce que je devrais commencer ici ?"
       a: >-
         Razmova sert surtout à pratiquer : si vous partez de zéro, utilisez-la
@@ -523,12 +524,13 @@ ru-RU:
       a: >-
         На английском ни одна из двух моделей не допустила языковых ошибок в
         наших тестах. На испанском и французском модель иногда выбирает странное
-        слово или ошибается в грамматике. Это цена модели, достаточно
-        компактной, чтобы работать на телефоне. С фактами другое дело: любой ИИ
-        может уверенно сказать неправду, в том числе крупные облачные чат-боты,
-        а небольшая модель делает это чаще. К тому же ИИ работает без интернета,
-        поэтому ничего не знает о недавних событиях. Razmova нужна для
-        разговорной практики, а не для поиска информации.
+        слово или ошибается в грамматике. Это цена модели, достаточно компактной
+        для работы на телефоне, благодаря чему ваши данные остаются
+        конфиденциальными. С фактами другое дело: любой ИИ может уверенно
+        сказать неправду, в том числе крупные облачные чат-боты, а небольшая
+        модель делает это чаще. К тому же ИИ работает без интернета, поэтому
+        ничего не знает о недавних событиях. Razmova нужна для разговорной
+        практики, а не для поиска информации.
     - q: "Чем это отличается от облачного чат-бота?"
       a: >-
         Облачный чат-бот отправляет ваш разговор на серверы компании и почти
@@ -553,12 +555,12 @@ ru-RU:
         href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Обзор
         51 исследования, опубликованный в 2026 году</a> (Saarela, Gunasekara и
         Kumarage, журнал Discover Computing), показал, что те, кто занимался с
-        инструментами генеративного ИИ, чаще всего с ChatGPT, лучше продвинулись
-        в языке, в том числе в устной речи, меньше тревожились и были более
-        мотивированы, чем те, кто учился другими способами. Эффект был сильнее,
-        когда люди занимались с ИИ самостоятельно, а не на уроках, и в течение
-        более долгого времени. Исследования касались инструментов ИИ в целом, а
-        не Razmova, и их результаты сильно различались.
+        ИИ, чаще всего с ChatGPT, лучше продвинулись в языке, в том числе в
+        устной речи, чувствовали себя более уверенно и были более мотивированы,
+        чем те, кто учился другими способами. Эффект был сильнее, когда люди
+        занимались с ИИ самостоятельно, а не на уроках, и в течение более
+        долгого времени. Исследования касались инструментов ИИ в целом, а не
+        Razmova, и их результаты сильно различались.
     - q: "Я совсем начинающий. Стоит ли начинать здесь?"
       a: >-
         Razmova лучше всего подходит для практики, поэтому, если вы начинаете с
@@ -664,12 +666,12 @@ uk-UA:
       a: >-
         Англійською жодна з двох моделей не припустилася мовних помилок у наших
         тестах. Іспанською та французькою модель іноді добирає дивне слово або
-        помиляється в граматиці. Це ціна моделі, достатньо компактної, щоб
-        працювати на телефоні. З фактами інакше: будь-який ШІ може впевнено
-        сказати неправду, зокрема великі хмарні чат-боти, а невелика модель
-        робить це частіше. До того ж ШІ працює без інтернету, тож нічого не знає
-        про нещодавні події. Razmova потрібна для розмовної практики, а не для
-        пошуку інформації.
+        помиляється в граматиці. Це ціна моделі, достатньо компактної для роботи
+        на телефоні, завдяки чому ваші дані залишаються конфіденційними. З
+        фактами інакше: будь-який ШІ може впевнено сказати неправду, зокрема
+        великі хмарні чат-боти, а невелика модель робить це частіше. До того ж
+        ШІ працює без інтернету, тож нічого не знає про нещодавні події. Razmova
+        потрібна для розмовної практики, а не для пошуку інформації.
     - q: "Чим це відрізняється від хмарного чат-бота?"
       a: >-
         Хмарний чат-бот надсилає вашу розмову на сервери компанії і майже завжди
@@ -693,13 +695,13 @@ uk-UA:
         Наукові дані поки що обнадійливі. <a
         href="https://link.springer.com/article/10.1007/s10791-026-10015-1">Огляд
         51 дослідження, опублікований у 2026 році</a> (Saarela, Gunasekara і
-        Kumarage, журнал Discover Computing), показав, що ті, хто займався з
-        інструментами генеративного ШІ, найчастіше з ChatGPT, краще просунулися
-        в мові, зокрема в усному мовленні, менше тривожилися і мали більше
-        мотивації, ніж ті, хто навчався іншими способами. Ефект був сильнішим,
-        коли люди займалися з ШІ самостійно, а не на уроках, і протягом довшого
-        часу. Дослідження стосувалися інструментів ШІ загалом, а не Razmova, і
-        їхні результати дуже різнилися.
+        Kumarage, журнал Discover Computing), показав, що ті, хто займався з ШІ,
+        найчастіше з ChatGPT, краще просунулися в мові, зокрема в усному
+        мовленні, почувалися більш упевнено і мали більше мотивації, ніж ті, хто
+        навчався іншими способами. Ефект був сильнішим, коли люди займалися з ШІ
+        самостійно, а не на уроках, і протягом довшого часу. Дослідження
+        стосувалися інструментів ШІ загалом, а не Razmova, і їхні результати
+        дуже різнилися.
     - q: "Я цілковитий початківець. Чи варто починати тут?"
       a: >-
         Razmova найкраще підходить для практики, тож якщо ви починаєте з нуля,
