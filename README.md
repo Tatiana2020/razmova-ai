@@ -4,7 +4,7 @@ Free Private AI Language Practice & On-Device Chat
 
 [razmova.ca](https://razmova.ca)
 
-Become a more confident communicator with Razmova, your private local AI companion for language learning, strengthening your communication skills, and meaningful conversations. Practice speaking English, Spanish, or French with an AI partner that runs entirely on your iPhone or iPad. The AI downloads once (about 1.8 GB), then works offline forever: free, no account, no subscription.
+Become a more confident communicator with Razmova. Practice speaking English, Spanish, or French with a private AI partner that runs entirely on your iPhone, iPad, or Mac. The AI downloads once (about 1.8 GB), then works offline forever: free, no account, no subscription.
 
 ## Choose Your Partner
 

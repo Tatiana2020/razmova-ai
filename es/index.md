@@ -12,7 +12,7 @@ lang: es-MX
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/es-mx?releaseDate=1762819200" alt="Download on the App Store" />
 </a>
 
-Conviértete en un comunicador más seguro con Razmova, tu compañero privado y local de IA para el aprendizaje de idiomas, el fortalecimiento de tus habilidades de comunicación y conversaciones significativas. Practica inglés, español o francés hablando con un compañero de conversación con IA que funciona por completo en tu iPhone o iPad. La IA se descarga una sola vez (unos 1.8 GB) y luego funciona sin conexión para siempre: gratis, sin cuenta y sin suscripción.
+Conviértete en un comunicador más seguro con Razmova. Practica inglés, español o francés hablando con un compañero de IA privado que funciona por completo en tu iPhone, iPad o Mac. La IA se descarga una sola vez (unos 1.8 GB) y luego funciona sin conexión para siempre: gratis, sin cuenta y sin suscripción.
 
 ## Elige tu compañero
 
