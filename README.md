@@ -22,7 +22,7 @@ Tap the microphone and speak with any partner. Your words appear as text you can
 
 **100% Judgment-Free Sandbox:** Vent about a tough day at work, complain about your boss, or prepare for an upcoming presentation. Razmova provides a completely safe, private space to build communication skills on your own terms.
 
-**Zero Cloud Footprint:** Because your conversations are processed locally using state-of-the-art on-device LLM architecture, your data never leaves your device. No accounts, no tracking, absolute privacy. Read the [Privacy Policy](https://razmova.ca/privacy-policy).
+**You Stay in Control:** The AI runs on your device, so your conversations are never sent to a cloud chatbot, where they could be stored, read or used for training. They stay on your device, and in your own iCloud backup if you use one, giving you full control of your data. You can delete them at any time. No accounts, no tracking, no ads. Read the [Privacy Policy](https://razmova.ca/privacy-policy).
 
 ## What You Need
 
