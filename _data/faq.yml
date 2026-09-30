@@ -45,9 +45,8 @@ en:
       a: >-
         No, and that is on purpose. Razmova is a place to speak without someone
         marking every sentence, because the fear of getting it wrong is what
-        stops many people from speaking at all. If you want grammar exercises
-        and corrections, use Razmova alongside a course or a teacher. This is
-        where you practice what you learn there.
+        stops many people from speaking at all. However, you can always ask your
+        AI partner for feedback.
     - q: "Can I speak instead of typing, and can I hear the replies?"
       a: >-
         Both. Every partner reads replies aloud in a voice that suits them, at
@@ -184,9 +183,8 @@ es-MX:
       a: >-
         No, y es a propósito. Razmova es un lugar para hablar sin que alguien
         marque cada frase, porque el miedo a equivocarse es lo que impide hablar
-        a muchas personas. Si quieres ejercicios de gramática y correcciones,
-        usa Razmova junto con un curso o un maestro. Aquí practicas lo que
-        aprendes allá.
+        a muchas personas. Sin embargo, siempre puedes pedirle retroalimentación
+        a tu compañero de IA.
     - q: "¿Puedo hablar en lugar de escribir? ¿Puedo escuchar las respuestas?"
       a: >-
         Ambas cosas. Cada compañero lee sus respuestas en voz alta con una voz
@@ -334,9 +332,8 @@ fr-CA:
       a: >-
         Non, et c’est voulu. Razmova est un endroit où parler sans que quelqu’un
         corrige chaque phrase, parce que la peur de se tromper est ce qui
-        empêche beaucoup de gens de parler. Si vous voulez des exercices de
-        grammaire et des corrections, utilisez Razmova en complément d’un cours
-        ou d’un professeur. Ici, vous pratiquez ce que vous apprenez ailleurs.
+        empêche beaucoup de gens de parler. Cependant, vous pouvez toujours
+        demander de la rétroaction à votre partenaire IA.
     - q: "Puis-je parler au lieu d’écrire, et entendre les réponses ?"
       a: >-
         Les deux. Chaque partenaire lit ses réponses à voix haute, avec une voix
@@ -483,11 +480,9 @@ ru-RU:
         украинском или французский с интерфейсом на русском.
     - q: "Исправляет ли Razmova мои ошибки?"
       a: >-
-        Нет, и это сделано намеренно. Razmova нужна для того, чтобы говорить,
-        когда никто не правит каждую фразу: именно страх ошибиться мешает многим
-        начать говорить. Если вам нужны упражнения по грамматике и исправления,
-        используйте Razmova вместе с курсом или преподавателем. Здесь вы
-        практикуете то, что выучили там.
+        Нет, и это сделано намеренно - именно страх ошибиться мешает многим
+        начать говорить. Однако вы всегда можете спросить у ИИ-собеседника, как
+        улучшить то, что вы сказали.
     - q: "Можно ли говорить вместо того, чтобы печатать, и слышать ответы?"
       a: >-
         И то, и другое. Каждый собеседник читает ответы вслух своим голосом, в
@@ -624,11 +619,9 @@ uk-UA:
         українською або французьку з інтерфейсом російською.
     - q: "Чи виправляє Razmova мої помилки?"
       a: >-
-        Ні, і це зроблено свідомо. Razmova потрібна, щоб говорити, коли ніхто не
-        виправляє кожну фразу: саме страх помилитися заважає багатьом почати
-        говорити. Якщо вам потрібні вправи з граматики та виправлення,
-        користуйтеся Razmova разом із курсом або викладачем. Тут ви практикуєте
-        те, що вивчили там.
+        Ні, і це зроблено свідомо - саме страх помилитися заважає багатьом почати
+        говорити. Однак ви завжди можете запитати в ШІ-співрозмовника, як
+        покращити те, що ви сказали.
     - q: "Чи можна говорити замість того, щоб писати, і чути відповіді?"
       a: >-
         І те, і інше. Кожен співрозмовник читає відповіді вголос власним
