@@ -127,8 +127,9 @@ en:
         and you can translate any message you do not understand.
     - q: "Is it suitable for teenagers?"
       a: >-
-        The App Store rating is 13+. There are no ads, no accounts, nobody else
-        to talk to, and nothing leaving the device.
+        The App Store rating is 13+. There are no ads, no accounts, and no other
+        users to talk to. Conversations stay on your device, and in your own
+        iCloud backup if you use one.
     - q: "Is there an Android, Mac or web version?"
       a: >-
         There is no Android or web version, and no separate Mac app. Razmova is
@@ -271,7 +272,8 @@ es-MX:
     - q: "¿Es apropiada para adolescentes?"
       a: >-
         La clasificación en la App Store es 13+. No hay anuncios, ni cuentas, ni
-        otras personas con quienes hablar, y nada sale del dispositivo.
+        otros usuarios con quienes hablar. Las conversaciones se quedan en tu
+        dispositivo, y en tu propio respaldo de iCloud si usas uno.
     - q: "¿Hay versión para Android, Mac o web?"
       a: >-
         No hay versión para Android ni para web, ni una app aparte para Mac.
@@ -426,7 +428,9 @@ fr-CA:
     - q: "Est-ce adapté aux adolescents ?"
       a: >-
         La classification de l’App Store est 13+. Il n’y a pas de publicité, pas
-        de compte, personne d’autre à qui parler, et rien ne quitte l’appareil.
+        de compte, ni d’autres utilisateurs à qui parler. Les conversations
+        restent sur votre appareil, et dans votre propre sauvegarde iCloud si
+        vous en utilisez une.
     - q: "Existe-t-il une version Android, Mac ou Web ?"
       a: >-
         Il n’y a pas de version Android ou Web, ni d’application Mac distincte.
@@ -564,9 +568,10 @@ ru-RU:
         любое сообщение можно перевести.
     - q: "Подходит ли приложение подросткам?"
       a: >-
-        Возрастной рейтинг в App Store 13+. Здесь нет рекламы, нет аккаунтов,
-        нет других пользователей, с которыми можно переписываться, и ничего не
-        покидает устройство.
+        Возрастной рейтинг в App Store 13+. Здесь нет рекламы, нет аккаунтов и
+        нет других пользователей, с которыми можно переписываться. Разговоры
+        остаются на вашем устройстве и в вашей собственной резервной копии
+        iCloud, если вы ею пользуетесь.
     - q: "Есть ли версия для Android, Mac или веб-версия?"
       a: >-
         Версий для Android и веба нет, отдельного приложения для Mac тоже.
@@ -704,8 +709,9 @@ uk-UA:
     - q: "Чи підходить застосунок підліткам?"
       a: >-
         Віковий рейтинг в App Store 13+. Тут немає реклами, немає облікових
-        записів, немає інших користувачів, з якими можна листуватися, і ніщо не
-        залишає пристрій.
+        записів і немає інших користувачів, з якими можна листуватися. Розмови
+        залишаються на вашому пристрої та у вашій власній резервній копії
+        iCloud, якщо ви нею користуєтеся.
     - q: "Чи є версія для Android, Mac або веб-версія?"
       a: >-
         Версій для Android і вебу немає, окремого застосунку для Mac теж.
