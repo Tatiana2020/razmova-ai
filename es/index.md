@@ -49,7 +49,7 @@ Toca el micrófono y habla con cualquier compañero: tus palabras aparecen como 
 
 **Un espacio 100% libre de juicios:** Desahógate sobre un día difícil en el trabajo, quéjate de tu jefe o prepárate para una próxima presentación. Razmova ofrece un espacio completamente seguro y privado para desarrollar tus habilidades de comunicación bajo tus propios términos.
 
-**Tú tienes el control:** La IA funciona en tu dispositivo, así que tus conversaciones nunca se envían a un chatbot en la nube, donde podrían guardarse, leerse o usarse para entrenamiento. Se quedan en tu dispositivo, y en tu propio respaldo de iCloud si usas uno, lo que te da control total de tus datos. Puedes borrarlas cuando quieras. Sin cuentas, sin rastreo, sin anuncios. Lee la [Política de privacidad](/es/privacy-policy).
+**Tú controlas tus datos:** La IA funciona en tu dispositivo, así que tus conversaciones nunca se envían a un chatbot en la nube, donde podrían guardarse, leerse o usarse para entrenamiento. Se quedan en tu dispositivo, y en tu propio respaldo de iCloud si usas uno. Puedes borrarlas cuando quieras. Sin cuentas, sin rastreo, sin anuncios. Lee la [Política de privacidad](/es/privacy-policy).
 
 ## Lo que necesitas
 
