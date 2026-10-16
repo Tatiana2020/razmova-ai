@@ -10,20 +10,20 @@ its source and to the full text of its license.
 
 ## Libraries
 
-| component | version | license | copyright |
-|---|---|---|---|
-| [eventsource](https://github.com/mattt/EventSource) | 1.4.1 | [MIT](https://opensource.org/license/mit) | Copyright 2025 Mattt (https://mat.tt) |
-| [mlx-swift](https://github.com/ml-explore/mlx-swift) | 0.31.4 | [MIT](https://opensource.org/license/mit) | Copyright (c) 2023 ml-explore |
-| [mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) | 3.31.4 | [MIT](https://opensource.org/license/mit) | Copyright (c) 2024 ml-explore |
-| [swift-atomics](https://github.com/apple/swift-atomics) | 1.3.1 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2020-2025 Apple Inc. and the Swift project authors |
-| [swift-collections](https://github.com/apple/swift-collections) | 1.5.1 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2019-2026 Apple Inc. and the Swift project authors |
-| [swift-crypto](https://github.com/apple/swift-crypto) | 4.5.1 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2019 The SwiftCrypto Project |
-| [swift-huggingface](https://github.com/huggingface/swift-huggingface) | 0.9.0 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2025 Hugging Face SAS. |
-| [swift-jinja](https://github.com/huggingface/swift-jinja) | 2.3.6 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2022 Hugging Face SAS. |
-| [swift-nio](https://github.com/apple/swift-nio) | 2.101.3 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2017, 2018 The SwiftNIO Project |
-| [swift-numerics](https://github.com/apple/swift-numerics) | 1.1.1 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2017-2025 Apple Inc. and the Swift Numerics project authors |
-| [swift-transformers](https://github.com/huggingface/swift-transformers) | 1.3.3 | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2022 Hugging Face SAS. |
-| [yyjson](https://github.com/ibireme/yyjson) | 0.12.0 | [MIT](https://opensource.org/license/mit) | Copyright (c) 2020 YaoYuan &lt;ibireme@gmail.com&gt; |
+| component | license | copyright |
+|---|---|---|
+| [eventsource](https://github.com/mattt/EventSource) | [MIT](https://opensource.org/license/mit) | Copyright 2025 Mattt (https://mat.tt) |
+| [mlx-swift](https://github.com/ml-explore/mlx-swift) | [MIT](https://opensource.org/license/mit) | Copyright (c) 2023 ml-explore |
+| [mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) | [MIT](https://opensource.org/license/mit) | Copyright (c) 2024 ml-explore |
+| [swift-atomics](https://github.com/apple/swift-atomics) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2020-2025 Apple Inc. and the Swift project authors |
+| [swift-collections](https://github.com/apple/swift-collections) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2019-2026 Apple Inc. and the Swift project authors |
+| [swift-crypto](https://github.com/apple/swift-crypto) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2019 The SwiftCrypto Project |
+| [swift-huggingface](https://github.com/huggingface/swift-huggingface) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2025 Hugging Face SAS. |
+| [swift-jinja](https://github.com/huggingface/swift-jinja) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2022 Hugging Face SAS. |
+| [swift-nio](https://github.com/apple/swift-nio) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2017, 2018 The SwiftNIO Project |
+| [swift-numerics](https://github.com/apple/swift-numerics) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright (c) 2017-2025 Apple Inc. and the Swift Numerics project authors |
+| [swift-transformers](https://github.com/huggingface/swift-transformers) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | Copyright 2022 Hugging Face SAS. |
+| [yyjson](https://github.com/ibireme/yyjson) | [MIT](https://opensource.org/license/mit) | Copyright (c) 2020 YaoYuan &lt;ibireme@gmail.com&gt; |
 
 ## Included within those libraries
 
