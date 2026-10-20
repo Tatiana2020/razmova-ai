@@ -43,6 +43,10 @@ Become a more confident communicator with Razmova. Practice speaking English, Sp
 
 Tap the microphone and speak with any partner. Your words appear as text you can edit before sending. Tap the speaker to hear any reply read aloud, word by word, at normal speed or slowed down. Every partner speaks in a voice that suits them, using free iOS voices that also work offline. Stuck on a word? You can translate any message, fully offline once you've downloaded the languages in Settings > Apps > Translate.
 
+## Role-Play
+
+Practice ordering at a café, shopping for clothes or checking in at a hotel with any of your partners. They play the waiter, the salesperson or the receptionist, at your level.
+
 ## Built for Real-World Confidence
 
 **Speak Without Anxiety:** Practice everyday conversations, vocabulary, and grammar with empathetic AI personas that feel like real conversation partners. Perfect for language learners looking to bridge the gap between studying and speaking.

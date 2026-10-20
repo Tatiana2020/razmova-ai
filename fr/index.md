@@ -43,6 +43,10 @@ Devenez un communicateur plus confiant avec Razmova. Entraînez-vous à parler a
 
 Touchez le micro et parlez avec le partenaire de votre choix : vos paroles apparaissent sous forme de texte que vous pouvez modifier avant de l’envoyer. Touchez le haut-parleur pour écouter n’importe quelle réponse à voix haute, mot à mot, à vitesse normale ou ralentie. Chaque partenaire parle avec une voix qui lui correspond, grâce aux voix gratuites d’iOS qui fonctionnent elles aussi hors ligne. Un mot vous échappe ? Vous pouvez traduire n’importe quel message, entièrement hors ligne une fois les langues téléchargées dans Réglages > Apps > Traduire.
 
+## Jeu de rôle
+
+Entraînez-vous à commander au café, à acheter des vêtements ou à vous enregistrer à l’hôtel avec n’importe lequel de vos partenaires. Ils jouent le serveur, le vendeur ou le réceptionniste, à votre niveau.
+
 ## Conçu pour une confiance réelle
 
 **Parler sans anxiété :** Pratiquez les conversations de tous les jours, le vocabulaire et la grammaire avec des personas IA empathiques qui agissent comme de véritables partenaires de discussion. Idéal pour les apprenants d’une langue qui souhaitent combler le fossé entre l’étude et la parole.
