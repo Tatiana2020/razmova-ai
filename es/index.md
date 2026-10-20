@@ -43,6 +43,10 @@ Conviértete en un comunicador más seguro con Razmova. Practica inglés, españ
 
 Toca el micrófono y habla con cualquier compañero: tus palabras aparecen como texto que puedes editar antes de enviarlo. Toca el altavoz para escuchar cualquier respuesta en voz alta, palabra por palabra, a velocidad normal o más despacio. Cada compañero habla con una voz a su medida, usando voces gratuitas de iOS que también funcionan sin conexión. ¿Te atoras con una palabra? Puedes traducir cualquier mensaje, totalmente sin conexión una vez que descargues los idiomas en Configuración > Apps > Traducir.
 
+## Juego de rol
+
+Practica pedir en un café, comprar ropa o registrarte en un hotel con cualquiera de tus compañeros. Ellos hacen de mesero, vendedor o recepcionista, a tu nivel.
+
 ## Creado para una confianza del mundo real
 
 **Habla sin ansiedad:** Practica conversaciones cotidianas, vocabulario y gramática con personajes de IA empáticos que se sienten como compañeros de charla reales. Perfecto para estudiantes de idiomas que buscan cerrar la brecha entre estudiar y hablar.
