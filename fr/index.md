@@ -18,7 +18,7 @@ Devenez un communicateur plus confiant avec Razmova. Entraînez-vous à parler a
 
 - **Razmova (anglais), Sofía (espagnol), Romy (français) :** niveau débutant (A1/A2). Phrases courtes, mots du quotidien et rythme patient.
 - **Emma (anglais), Javier (espagnol), Gabriel (français) :** niveau intermédiaire (B1/B2). Des conversations plus longues et naturelles sur les voyages, la cuisine, le cinéma et la culture.
-- **Juan Carlos :** un coach bienveillant pour communiquer avec assurance. Préparez-vous pour une présentation, soyez plus à l’aise dans les échanges informels ou réfléchissez ensemble à une conversation délicate. Les échanges se font en anglais.
+- **Juan Carlos :** un coach bienveillant pour communiquer avec assurance. Préparez une conversation qui vous intimide, rendez les échanges informels plus faciles ou réfléchissez à une situation délicate. Les échanges se font en anglais.
 
 <div class="screenshots">
   <figure class="screenshot">
@@ -51,7 +51,7 @@ Entraînez-vous à commander au café, à acheter des vêtements ou à vous enre
 
 **Parler sans anxiété :** Pratiquez les conversations de tous les jours, le vocabulaire et la grammaire avec des personas IA empathiques qui agissent comme de véritables partenaires de discussion. Idéal pour les apprenants d’une langue qui souhaitent combler le fossé entre l’étude et la parole.
 
-**Un espace 100 % sans jugement :** Racontez une journée difficile au travail, plaignez-vous de votre patron ou préparez une présentation à venir. Razmova offre un espace entièrement sécurisé et privé pour développer vos compétences en communication selon vos propres termes.
+**Un espace 100 % sans jugement :** Racontez une journée difficile au travail, plaignez-vous de votre patron ou préparez une conversation qui vous intimide. Razmova offre un espace entièrement sécurisé et privé pour développer vos compétences en communication selon vos propres termes.
 
 **Vous contrôlez vos données :** L’IA fonctionne sur votre appareil : vos conversations ne sont donc jamais envoyées à une IA conversationnelle en ligne, où elles pourraient être conservées, lues ou utilisées pour l’entraînement. Elles restent sur votre appareil, et dans votre propre sauvegarde iCloud si vous en utilisez une. Vous pouvez les supprimer à tout moment. Aucun compte, aucun suivi, aucune publicité. Consultez la [Politique de confidentialité](/fr/privacy-policy).
 
