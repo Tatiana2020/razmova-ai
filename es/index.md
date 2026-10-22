@@ -18,7 +18,7 @@ Conviértete en un comunicador más seguro con Razmova. Practica inglés, españ
 
 - **Razmova (inglés), Sofía (español), Romy (francés):** nivel principiante (A1/A2). Frases cortas, palabras del día a día y un ritmo paciente.
 - **Emma (inglés), Javier (español), Gabriel (francés):** nivel intermedio (B1/B2). Conversaciones más largas y naturales sobre viajes, comida, cine y cultura.
-- **Juan Carlos:** un entrenador cercano para comunicarte con confianza. Prepárate para una presentación, gana soltura en las charlas informales o repasa con él una conversación difícil. Las sesiones son en inglés.
+- **Juan Carlos:** un coach amable para comunicarte con seguridad. Prepárate para una conversación que te da nervios, conversa con más soltura en charlas informales o analiza a fondo una situación complicada. Las sesiones son en inglés.
 
 <div class="screenshots">
   <figure class="screenshot">
@@ -51,7 +51,7 @@ Practica pedir en un café, comprar ropa o registrarte en un hotel con cualquier
 
 **Habla sin ansiedad:** Practica conversaciones cotidianas, vocabulario y gramática con personajes de IA empáticos que se sienten como compañeros de charla reales. Perfecto para estudiantes de idiomas que buscan cerrar la brecha entre estudiar y hablar.
 
-**Un espacio 100% libre de juicios:** Desahógate sobre un día difícil en el trabajo, quéjate de tu jefe o prepárate para una próxima presentación. Razmova ofrece un espacio completamente seguro y privado para desarrollar tus habilidades de comunicación bajo tus propios términos.
+**Un espacio 100% libre de juicios:** Desahógate sobre un día difícil en el trabajo, quéjate de tu jefe o prepárate para una conversación que te da nervios. Razmova ofrece un espacio completamente seguro y privado para desarrollar tus habilidades de comunicación bajo tus propios términos.
 
 **Tú controlas tus datos:** La IA funciona en tu dispositivo, así que tus conversaciones nunca se envían a un chatbot en la nube, donde podrían guardarse, leerse o usarse para entrenamiento. Se quedan en tu dispositivo, y en tu propio respaldo de iCloud si usas uno. Puedes borrarlas cuando quieras. Sin cuentas, sin rastreo, sin anuncios. Lee la [Política de privacidad](/es/privacy-policy).
 

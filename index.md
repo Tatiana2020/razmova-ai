@@ -18,7 +18,7 @@ Become a more confident communicator with Razmova. Practice speaking English, Sp
 
 - **Razmova (English), Sofía (Spanish), Romy (French):** beginner (A1/A2). Short sentences, everyday words, a patient pace.
 - **Emma (English), Javier (Spanish), Gabriel (French):** intermediate (B1/B2). Longer, natural conversations about travel, food, films, and culture.
-- **Juan Carlos:** a friendly coach for confident communication. Get ready for a presentation, make small talk easier, or talk a tricky conversation through. Sessions are in English.
+- **Juan Carlos:** a friendly coach for confident communication. Prepare for a conversation you're nervous about, make small talk easier, or talk a tricky situation through. Sessions are in English.
 
 <div class="screenshots">
   <figure class="screenshot">
@@ -51,7 +51,7 @@ Practice ordering at a café, shopping for clothes or checking in at a hotel wit
 
 **Speak Without Anxiety:** Practice everyday conversations, vocabulary, and grammar with empathetic AI personas that feel like real conversation partners. Perfect for language learners looking to bridge the gap between studying and speaking.
 
-**100% Judgment-Free Sandbox:** Vent about a tough day at work, complain about your boss, or prepare for an upcoming presentation. Razmova provides a completely safe, private space to build communication skills on your own terms.
+**100% Judgment-Free Sandbox:** Vent about a tough day at work, complain about your boss, or prepare for a conversation you're nervous about. Razmova provides a completely safe, private space to build communication skills on your own terms.
 
 **You Control Your Data:** The AI runs on your device, so your conversations are never sent to a cloud chatbot, where they could be stored, read or used for training. They stay on your device, and in your own iCloud backup if you use one. You can delete them at any time. No accounts, no tracking, no ads. Read the [Privacy Policy](privacy-policy).
 
