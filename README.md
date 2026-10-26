@@ -14,7 +14,9 @@ Become a more confident communicator with Razmova. Practice speaking English, Sp
 
 ## Speak and Listen
 
-Tap the microphone and speak with any partner. Your words appear as text you can edit before sending. Tap the speaker to hear any reply read aloud, word by word, at normal speed or slowed down. Every partner speaks in a voice that suits them, using free iOS voices that also work offline. Stuck on a word? You can translate any message, fully offline once you've downloaded the languages in Settings > Apps > Translate.
+Tap the microphone and speak with any partner. Your words appear as text you can edit before sending. Tap the speaker to hear any reply read aloud, word by word, at normal speed or slowed down. Every partner speaks in a voice that suits them, using free iOS voices that also work offline.
+
+Stuck on a word? Press and hold any message and tap Translate. Not sure how to say something? Type it in your own language, select it, tap Translate, then Replace with Translation. Translation is available on iPhone and iPad only and works fully offline once you've downloaded the languages in Settings > Apps > Translate.
 
 ## Built for Real-World Confidence
 
