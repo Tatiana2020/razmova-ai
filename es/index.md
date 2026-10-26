@@ -41,7 +41,9 @@ Conviértete en un comunicador más seguro con Razmova. Practica inglés, españ
 
 ## Habla y escucha
 
-Toca el micrófono y habla con cualquier compañero: tus palabras aparecen como texto que puedes editar antes de enviarlo. Toca el altavoz para escuchar cualquier respuesta en voz alta, palabra por palabra, a velocidad normal o más despacio. Cada compañero habla con una voz a su medida, usando voces gratuitas de iOS que también funcionan sin conexión. ¿Te atoras con una palabra? Puedes traducir cualquier mensaje, totalmente sin conexión una vez que descargues los idiomas en Configuración > Apps > Traducir.
+Toca el micrófono y habla con cualquier compañero: tus palabras aparecen como texto que puedes editar antes de enviarlo. Toca el altavoz para escuchar cualquier respuesta en voz alta, palabra por palabra, a velocidad normal o más despacio. Cada compañero habla con una voz a su medida, usando voces gratuitas de iOS que también funcionan sin conexión.
+
+¿Te atoras con una palabra? Mantén presionado cualquier mensaje y toca Traducir. ¿No sabes cómo decir algo? Escríbelo en tu idioma, selecciónalo, toca Traducir y luego Reemplazar con traducción. La traducción solo está disponible en iPhone y iPad, y funciona totalmente sin conexión una vez que descargues los idiomas en Configuración > Apps > Traducir.
 
 ## Juego de rol
 
