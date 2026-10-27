@@ -43,7 +43,11 @@ Devenez un communicateur plus confiant avec Razmova. Entraînez-vous à parler a
 
 Touchez le micro et parlez avec le partenaire de votre choix : vos paroles apparaissent sous forme de texte que vous pouvez modifier avant de l’envoyer. Touchez le haut-parleur pour écouter n’importe quelle réponse à voix haute, mot à mot, à vitesse normale ou ralentie. Chaque partenaire parle avec une voix qui lui correspond, grâce aux voix gratuites d’iOS qui fonctionnent elles aussi hors ligne.
 
-Un mot vous échappe ? Touchez longuement n’importe quel message, puis touchez Traduire. Vous ne savez pas comment dire quelque chose ? Écrivez-le dans votre langue, sélectionnez-le, touchez Traduire, puis Remplacer par la traduction. La traduction n’est disponible que sur iPhone et iPad, et fonctionne entièrement hors ligne une fois les langues téléchargées dans Réglages > Apps > Traduire.
+## De l’aide en cas de blocage
+
+Razmova, Sofía et Romy, les partenaires pour débutants, ont un bouton d’aide à côté du champ de message. Touchez-le pour ajouter « Je ne comprends pas » dans la langue que vous pratiquez, voir comment demander le sens d’un mot ou traduire la dernière réponse dans votre langue.
+
+Avec n’importe quel partenaire, vous pouvez toucher longuement un message, puis toucher Traduire. Vous ne savez pas comment dire quelque chose ? Écrivez-le dans votre langue, sélectionnez-le, touchez Traduire, puis Remplacer par la traduction. La traduction n’est disponible que sur iPhone et iPad, et fonctionne entièrement hors ligne une fois les langues téléchargées dans Réglages > Apps > Traduire.
 
 ## Jeu de rôle
 

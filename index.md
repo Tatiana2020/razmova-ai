@@ -43,7 +43,11 @@ Become a more confident communicator with Razmova. Practice speaking English, Sp
 
 Tap the microphone and speak with any partner. Your words appear as text you can edit before sending. Tap the speaker to hear any reply read aloud, word by word, at normal speed or slowed down. Every partner speaks in a voice that suits them, using free iOS voices that also work offline.
 
-Stuck on a word? Press and hold any message and tap Translate. Not sure how to say something? Type it in your own language, select it, tap Translate, then Replace with Translation. Translation is available on iPhone and iPad only and works fully offline once you've downloaded the languages in Settings > Apps > Translate.
+## Help When You're Stuck
+
+Razmova, Sofía and Romy, the partners for beginners, have a help button beside the message field. Tap it to add “I don’t understand” in the language you practice, see how to ask what a word means, or translate the latest reply into your language.
+
+With any partner, you can press and hold a message and tap Translate. Not sure how to say something? Type it in your own language, select it, tap Translate, then Replace with Translation. Translation is available on iPhone and iPad only and works fully offline once you've downloaded the languages in Settings > Apps > Translate.
 
 ## Role-Play
 
