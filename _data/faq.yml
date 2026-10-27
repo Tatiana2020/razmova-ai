@@ -41,12 +41,13 @@ en:
         Spanish, French, Russian and Ukrainian, and the two are separate
         choices: you can practice English with the app in Ukrainian, or French
         with the app in Russian.
-    - q: "Does Razmova correct my mistakes?"
+    - q: "Does Razmova correct my mistakes or give feedback?"
       a: >-
-        No, and that is on purpose. Razmova is a place to speak without someone
-        marking every sentence, because the fear of getting it wrong is what
-        stops many people from speaking at all. However, you can always ask your
-        AI partner for feedback.
+        Not unless you ask. Razmova is a place to speak without being judged on
+        every sentence: practice over perfection. When you want feedback, ask
+        your AI partner, for example “Is my English correct?” or “Does that sound
+        natural?” For anything important, like a job application, check with a
+        native speaker too, because AI feedback can be wrong.
     - q: "Can I speak instead of typing, and can I hear the replies?"
       a: >-
         Both. Every partner reads replies aloud in a voice that suits them, at
@@ -180,12 +181,14 @@ es-MX:
         Inglés, español y francés. La app está disponible en inglés, español,
         francés, ruso y ucraniano, y son dos opciones independientes: puedes
         practicar inglés con la app en ucraniano, o francés con la app en ruso.
-    - q: "¿Razmova corrige mis errores?"
+    - q: "¿Razmova corrige mis errores o da retroalimentación?"
       a: >-
-        No, y es a propósito. Razmova es un lugar para hablar sin que alguien
-        marque cada frase, porque el miedo a equivocarse es lo que impide hablar
-        a muchas personas. Sin embargo, siempre puedes pedirle retroalimentación
-        a tu compañero de IA.
+        No, a menos que lo pidas. Razmova es un lugar para hablar sin que te
+        juzguen por cada frase: la práctica antes que la perfección. Cuando
+        quieras retroalimentación, pregúntale a tu compañero de IA, por ejemplo
+        “¿Está bien mi inglés?” o “¿Suena natural?”. Para algo importante, como
+        una solicitud de empleo, revísalo también con un hablante nativo, porque
+        la retroalimentación de la IA puede ser incorrecta.
     - q: "¿Puedo hablar en lugar de escribir? ¿Puedo escuchar las respuestas?"
       a: >-
         Ambas cosas. Cada compañero lee sus respuestas en voz alta con una voz
@@ -330,12 +333,15 @@ fr-CA:
         offerte en anglais, espagnol, français, russe et ukrainien, et ce sont
         deux choix distincts : vous pouvez pratiquer l’anglais avec
         l’application en ukrainien, ou le français avec l’application en russe.
-    - q: "Est-ce que Razmova corrige mes erreurs ?"
+    - q: "Est-ce que Razmova corrige mes erreurs ou donne de la rétroaction ?"
       a: >-
-        Non, et c’est voulu. Razmova est un endroit où parler sans que quelqu’un
-        corrige chaque phrase, parce que la peur de se tromper est ce qui
-        empêche beaucoup de gens de parler. Cependant, vous pouvez toujours
-        demander de la rétroaction à votre partenaire IA.
+        Non, sauf si vous le demandez. Razmova est un endroit où parler sans
+        être jugé sur chaque phrase : la pratique avant la perfection. Quand
+        vous voulez de la rétroaction, demandez à votre partenaire IA, par
+        exemple « Est-ce que mon anglais est correct ? » ou « Est-ce que ça se
+        dit comme ça ? » Pour tout ce qui est important, comme une candidature,
+        vérifiez aussi auprès d’un locuteur natif, car la rétroaction de l’IA
+        peut être erronée.
     - q: "Puis-je parler au lieu d’écrire, et entendre les réponses ?"
       a: >-
         Les deux. Chaque partenaire lit ses réponses à voix haute, avec une voix
@@ -482,11 +488,14 @@ ru-RU:
         английском, испанском, французском, русском и украинском, и это два
         независимых выбора: можно практиковать английский с интерфейсом на
         украинском или французский с интерфейсом на русском.
-    - q: "Исправляет ли Razmova мои ошибки?"
+    - q: "Исправляет ли Razmova мои ошибки или даёт советы по улучшению?"
       a: >-
-        Нет, и это сделано намеренно - именно страх ошибиться мешает многим
-        начать говорить. Однако вы всегда можете спросить у ИИ-собеседника, как
-        улучшить то, что вы сказали.
+        Нет, если вы сами не попросите. В Razmova никто не оценивает каждую вашу
+        фразу - практика важнее совершенства. Когда нужен совет,
+        спросите ИИ-собеседника, например: «Это правильно по-английски?» или
+        «Это звучит естественно?» Если речь о чём-то важном, скажем, о письме
+        работодателю, проверьте текст ещё и у носителя языка, потому что оценка
+        ИИ может быть ошибочной.
     - q: "Можно ли говорить вместо того, чтобы печатать, и слышать ответы?"
       a: >-
         И то, и другое. Каждый собеседник читает ответы вслух своим голосом, в
@@ -622,11 +631,14 @@ uk-UA:
         англійською, іспанською, французькою, російською та українською, і це
         два незалежні вибори: можна практикувати англійську з інтерфейсом
         українською або французьку з інтерфейсом російською.
-    - q: "Чи виправляє Razmova мої помилки?"
+    - q: "Чи виправляє Razmova мої помилки або дає поради щодо покращення?"
       a: >-
-        Ні, і це зроблено свідомо - саме страх помилитися заважає багатьом почати
-        говорити. Однак ви завжди можете запитати в ШІ-співрозмовника, як
-        покращити те, що ви сказали.
+        Ні, якщо ви самі не попросите. У Razmova ніхто не оцінює кожну вашу
+        фразу - практика важливіша за досконалість. Коли потрібна порада,
+        запитайте ШІ-співрозмовника, наприклад: «Це правильно англійською?» або
+        «Це звучить природно?» Якщо йдеться про щось важливе, скажімо, про лист
+        роботодавцю, перевірте текст ще й у носія мови, бо оцінка ШІ може бути
+        помилковою.
     - q: "Чи можна говорити замість того, щоб писати, і чути відповіді?"
       a: >-
         І те, і інше. Кожен співрозмовник читає відповіді вголос власним
