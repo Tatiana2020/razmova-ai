@@ -34,7 +34,7 @@ lang: uk-UA
     <figcaption>Говоріть замість того, щоб друкувати (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
-    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ШІ-співрозмовників: Emma, Gabriel і Javier із зазначенням рівня" />
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ШІ-співрозмовників: Emma і Gabriel із зазначенням рівня та кнопками рольової гри" />
     <figcaption>Обирайте з-поміж семи співрозмовників</figcaption>
   </figure>
 </div>

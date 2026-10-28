@@ -34,7 +34,7 @@ lang: ru-RU
     <figcaption>Говорите вместо того, чтобы печатать (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
-    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ИИ-собеседников: Emma, Gabriel и Javier с указанием уровня" />
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Список ИИ-собеседников: Emma и Gabriel с указанием уровня и кнопками ролевой игры" />
     <figcaption>Выбирайте из семи собеседников</figcaption>
   </figure>
 </div>
