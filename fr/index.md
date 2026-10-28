@@ -34,7 +34,7 @@ Devenez un communicateur plus confiant avec Razmova. Entraînez-vous à parler a
     <figcaption>Parlez au lieu de taper (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
-    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Liste des partenaires IA avec Emma, Gabriel et Javier et leur niveau" />
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="Liste des partenaires IA avec Emma et Gabriel, leur niveau et les boutons de jeu de rôle" />
     <figcaption>Choisissez parmi sept partenaires de conversation</figcaption>
   </figure>
 </div>

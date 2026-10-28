@@ -34,7 +34,7 @@ Become a more confident communicator with Razmova. Practice speaking English, Sp
     <figcaption>Speak instead of typing (iOS 26+)</figcaption>
   </figure>
   <figure class="screenshot">
-    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="List of AI partners showing Emma, Gabriel and Javier with their levels" />
+    <img src="{{ '/images/screenshot-4-partners.webp' | relative_url }}" width="720" height="1560" alt="List of AI partners showing Emma and Gabriel with their levels and Role-play buttons" />
     <figcaption>Choose from seven conversation partners</figcaption>
   </figure>
 </div>
