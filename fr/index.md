@@ -53,6 +53,8 @@ Avec n’importe quel partenaire, vous pouvez toucher longuement un message, pui
 
 Entraînez-vous à commander au café, à acheter des vêtements ou à vous enregistrer à l’hôtel avec n’importe lequel de vos partenaires. Ils jouent le serveur, le vendeur ou le réceptionniste, à votre niveau.
 
+Avant une scène avec Razmova, Sofía ou Romy, une carte vous propose des phrases que vous entendrez peut-être et des phrases à dire, chacune avec sa signification dans votre langue. Touchez Écouter pour les entendre, et rouvrez la carte à tout moment avec le bouton d’aide.
+
 ## Conçu pour une confiance réelle
 
 **Parler sans anxiété :** Pratiquez les conversations de tous les jours, le vocabulaire et la grammaire avec des personas IA empathiques qui agissent comme de véritables partenaires de discussion. Idéal pour les apprenants d’une langue qui souhaitent combler le fossé entre l’étude et la parole.
