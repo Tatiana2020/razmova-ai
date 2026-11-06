@@ -100,9 +100,8 @@ en:
         one level, opens the conversation with a greeting so you never start
         from a blank page, and reads replies in the clear, steady voices built
         into iOS. They sound less natural than a cloud voice and are much easier
-        to follow while you are still learning. When you speak, Razmova keeps
-        listening until you tap stop, so you can pause to find a word without
-        being cut off.
+        to follow while you are still learning. Take your time when you speak.
+        Razmova won’t cut you off and waits until you tap stop.
     - q: "How is this different from a language course app?"
       a: >-
         A course teaches you: lessons, vocabulary, exercises. Razmova is where
@@ -246,9 +245,8 @@ es-MX:
         con un saludo para que nunca empieces frente a una página en blanco, y
         lee las respuestas con las voces claras y estables de iOS. Suenan menos
         naturales que una voz en la nube y son mucho más fáciles de seguir
-        mientras estás aprendiendo. Cuando hablas, Razmova sigue escuchando
-        hasta que tocas el botón de detener, así que puedes hacer una pausa para
-        buscar una palabra sin que te interrumpa.
+        mientras estás aprendiendo. Tómate tu tiempo al hablar. Razmova no te
+        interrumpe y espera hasta que toques el botón de detener.
     - q: "¿En qué se diferencia de una app de cursos de idiomas?"
       a: >-
         Un curso te enseña: lecciones, vocabulario, ejercicios. En Razmova usas
@@ -403,9 +401,9 @@ fr-CA:
         salutation pour que vous ne partiez jamais d’une page blanche, et lit
         les réponses avec les voix claires et posées d’iOS. Elles sonnent moins
         naturelles qu’une voix en ligne et sont beaucoup plus faciles à suivre
-        quand on apprend encore. Quand vous parlez, Razmova écoute jusqu’à ce
-        que vous touchiez le bouton d’arrêt : vous pouvez faire une pause pour
-        chercher un mot sans être interrompu.
+        quand on apprend encore. Prenez votre temps quand vous parlez.
+        Razmova ne vous coupe pas la parole et attend que vous touchiez le
+        bouton d’arrêt.
     - q: "En quoi est-ce différent d’une application de cours de langue ?"
       a: >-
         Un cours vous enseigne : leçons, vocabulaire, exercices. Dans Razmova,
@@ -549,9 +547,8 @@ ru-RU:
         начинает разговор с приветствия, чтобы вы не начинали с чистого листа, и
         читает ответы понятными ровными голосами iOS. Они звучат менее
         естественно, чем облачный голос, и их гораздо легче понимать, пока вы
-        учитесь. Когда вы говорите, Razmova слушает, пока вы не нажмёте кнопку
-        остановки, так что можно сделать паузу и подобрать слово, и вас не
-        перебьют.
+        учитесь. Говорите не торопясь. Razmova не перебьёт вас и подождёт, пока
+        вы не нажмёте кнопку остановки.
     - q: "Чем это отличается от приложения с языковыми курсами?"
       a: >-
         Курс учит: уроки, слова, упражнения. В Razmova вы применяете выученное,
@@ -692,9 +689,8 @@ uk-UA:
         співрозмовник тримається одного рівня, починає розмову з привітання, щоб
         ви не починали з чистого аркуша, і читає відповіді зрозумілими рівними
         голосами iOS. Вони звучать менш природно, ніж хмарний голос, і їх
-        набагато легше розуміти, поки ви вчитеся. Коли ви говорите, Razmova
-        слухає, доки ви не натиснете кнопку зупинки, тож можна зробити паузу й
-        дібрати слово, і вас не переб’ють.
+        набагато легше розуміти, поки ви вчитеся. Говоріть не поспішаючи.
+        Razmova не переб’є вас і зачекає, доки ви не натиснете кнопку зупинки.
     - q: "Чим це відрізняється від застосунку з мовними курсами?"
       a: >-
         Курс навчає: уроки, слова, вправи. У Razmova ви застосовуєте вивчене, у
