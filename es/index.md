@@ -53,6 +53,8 @@ Con cualquier compañero, puedes mantener presionado un mensaje y tocar Traducir
 
 Practica pedir en un café, comprar ropa o registrarte en un hotel con cualquiera de tus compañeros. Ellos hacen de mesero, vendedor o recepcionista, a tu nivel.
 
+Antes de una escena con Razmova, Sofía o Romy, una tarjeta te muestra frases que podrías oír y decir, cada una con su significado en tu idioma. Toca Escuchar para oírlas y vuelve a abrir la tarjeta cuando quieras desde el botón de ayuda.
+
 ## Creado para una confianza del mundo real
 
 **Habla sin ansiedad:** Practica conversaciones cotidianas, vocabulario y gramática con personajes de IA empáticos que se sienten como compañeros de charla reales. Perfecto para estudiantes de idiomas que buscan cerrar la brecha entre estudiar y hablar.

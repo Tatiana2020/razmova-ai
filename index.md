@@ -53,6 +53,8 @@ With any partner, you can press and hold a message and tap Translate. Not sure h
 
 Practice ordering at a café, shopping for clothes or checking in at a hotel with any of your partners. They play the waiter, the salesperson or the receptionist, at your level.
 
+Before a scene with Razmova, Sofía or Romy, a card shows sentences you might hear and say, each with its meaning in your language. Tap Listen to hear them, and open the card again anytime from the help button.
+
 ## Built for Real-World Confidence
 
 **Speak Without Anxiety:** Practice everyday conversations, vocabulary, and grammar with empathetic AI personas that feel like real conversation partners. Perfect for language learners looking to bridge the gap between studying and speaking.
