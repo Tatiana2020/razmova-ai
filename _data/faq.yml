@@ -56,10 +56,14 @@ en:
         your message using the dictation key on the iOS keyboard.
     - q: "What happens to my conversations?"
       a: >-
-        They stay on your device and you can delete any of them at any time.
-        Razmova has no account, no server and no analytics, so nothing is sent
-        anywhere to be stored. Like other app data, your conversations are
-        included in your iCloud backup if you use one, and you can exclude
+        They stay on your device, and you can reopen any conversation to reread
+        it and listen to the replies again. Razmova keeps up to 25 conversations
+        of up to 60 messages each. When you reach 25, it offers to delete the
+        oldest conversation, and when a conversation reaches 60 messages, it
+        offers to remove its oldest messages. You can delete any conversation at
+        any time. Razmova has no account, no server and no analytics, so nothing
+        is sent anywhere to be stored. Like other app data, your conversations
+        are included in your iCloud backup if you use one, and you can exclude
         Razmova in your iCloud Backup settings. The AI model itself is never
         backed up.
     - q: "How much storage does it need?"
@@ -197,12 +201,17 @@ es-MX:
         de dictado del teclado de iOS.
     - q: "¿Qué pasa con mis conversaciones?"
       a: >-
-        Se quedan en tu dispositivo y puedes borrar cualquiera de ellas cuando
-        quieras. Razmova no tiene cuenta, ni servidor, ni analíticas, así que no
-        se envía nada a ningún lado para guardarlo. Como los datos de cualquier
-        app, tus conversaciones se incluyen en tu respaldo de iCloud si usas
-        uno, y puedes excluir a Razmova en los ajustes de Respaldo en iCloud. El
-        modelo de IA nunca se respalda.
+        Se quedan en tu dispositivo, y puedes volver a abrir cualquier
+        conversación para releerla y escuchar de nuevo las respuestas. Razmova
+        guarda hasta 25 conversaciones de hasta 60 mensajes cada una. Cuando
+        llegas a 25, te ofrece borrar la más antigua, y cuando una conversación
+        llega a 60 mensajes, te ofrece borrar sus mensajes más antiguos. Puedes
+        borrar cualquier conversación cuando quieras. Razmova no tiene cuenta,
+        ni servidor, ni analíticas, así que no se envía nada a ningún lado para
+        guardarlo. Como los datos de cualquier app, tus conversaciones se
+        incluyen en tu respaldo de iCloud si usas uno, y puedes excluir a
+        Razmova en los ajustes de Respaldo en iCloud. El modelo de IA nunca se
+        respalda.
     - q: "¿Cuánto espacio necesita?"
       a: >-
         La app ocupa unos 25 MB. El modelo de IA ocupa unos 1.8 GB y se descarga
@@ -349,11 +358,16 @@ fr-CA:
         message avec la touche de dictée du clavier iOS.
     - q: "Qu’arrive-t-il à mes conversations ?"
       a: >-
-        Elles restent sur votre appareil et vous pouvez en supprimer n’importe
-        laquelle à tout moment. Razmova n’a ni compte, ni serveur, ni outils
-        d’analyse : rien n’est envoyé ailleurs pour être conservé. Comme les
-        données de toute application, vos conversations sont incluses dans votre
-        sauvegarde iCloud si vous en utilisez une, et vous pouvez exclure
+        Elles restent sur votre appareil, et vous pouvez rouvrir n’importe
+        quelle conversation pour la relire et réécouter les réponses. Razmova
+        conserve jusqu’à 25 conversations, chacune comptant jusqu’à 60 messages.
+        Quand vous atteignez 25 conversations, Razmova propose de supprimer la
+        plus ancienne, et quand une conversation atteint 60 messages, elle
+        propose d’en supprimer les plus anciens. Vous pouvez supprimer n’importe
+        quelle conversation à tout moment. Razmova n’a ni compte, ni serveur, ni
+        outils d’analyse : rien n’est envoyé ailleurs pour être conservé. Comme
+        les données de toute application, vos conversations sont incluses dans
+        votre sauvegarde iCloud si vous en utilisez une, et vous pouvez exclure
         Razmova dans les réglages de la sauvegarde iCloud. Le modèle d’IA, lui,
         n’est jamais sauvegardé.
     - q: "De combien d’espace a-t-elle besoin ?"
@@ -502,12 +516,17 @@ ru-RU:
         надиктовать сообщение клавишей диктовки на клавиатуре iOS.
     - q: "Что происходит с моими разговорами?"
       a: >-
-        Они остаются на вашем устройстве, и вы можете удалить любой из них в
-        любой момент. У Razmova нет аккаунта, сервера и аналитики, поэтому
-        никуда ничего не отправляется на хранение. Как и данные других
-        приложений, ваши разговоры попадают в резервную копию iCloud, если вы ею
-        пользуетесь, и Razmova можно исключить в настройках резервного
-        копирования iCloud. Сама модель ИИ в копию не попадает.
+        Они остаются на вашем устройстве, и вы можете снова открыть любой
+        разговор, чтобы перечитать его и ещё раз прослушать ответы. Razmova
+        хранит до 25 разговоров, до 60 сообщений в каждом. Когда разговоров
+        становится 25, приложение предлагает удалить самый старый, а когда в
+        разговоре набирается 60 сообщений, предлагает удалить самые ранние из
+        них. Любой разговор можно удалить в любой момент. У Razmova нет
+        аккаунта, сервера и аналитики, поэтому никуда ничего не отправляется на
+        хранение. Как и данные других приложений, ваши разговоры попадают в
+        резервную копию iCloud, если вы ею пользуетесь, и Razmova можно
+        исключить в настройках резервного копирования iCloud. Сама модель ИИ в
+        копию не попадает.
     - q: "Сколько места нужно приложению?"
       a: >-
         Приложение занимает около 25 МБ. Модель ИИ занимает около 1,8 ГБ и
@@ -645,12 +664,16 @@ uk-UA:
         клавіатурі iOS.
     - q: "Що відбувається з моїми розмовами?"
       a: >-
-        Вони залишаються на вашому пристрої, і ви можете видалити будь-яку з них
-        будь-коли. У Razmova немає облікового запису, сервера та аналітики, тож
-        нічого нікуди не надсилається на зберігання. Як і дані інших
-        застосунків, ваші розмови потрапляють до резервної копії iCloud, якщо ви
-        нею користуєтеся, і Razmova можна виключити в налаштуваннях резервного
-        копіювання iCloud. Сама модель ШІ до копії не потрапляє.
+        Вони залишаються на вашому пристрої, і ви можете знову відкрити будь-яку
+        розмову, щоб перечитати її та ще раз прослухати відповіді. Razmova
+        зберігає до 25 розмов, до 60 повідомлень у кожній. Коли розмов стає 25,
+        застосунок пропонує видалити найдавнішу, а коли в розмові набирається 60
+        повідомлень, пропонує видалити найдавніші з них. Будь-яку розмову можна
+        видалити будь-коли. У Razmova немає облікового запису, сервера та
+        аналітики, тож нічого нікуди не надсилається на зберігання. Як і дані
+        інших застосунків, ваші розмови потрапляють до резервної копії iCloud,
+        якщо ви нею користуєтеся, і Razmova можна виключити в налаштуваннях
+        резервного копіювання iCloud. Сама модель ШІ до копії не потрапляє.
     - q: "Скільки місця потрібно застосунку?"
       a: >-
         Застосунок займає близько 25 МБ. Модель ШІ займає близько 1,8 ГБ і
